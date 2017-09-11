@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Gewusst wie: Verkaufspreise und Rabatte aufzeichnen
-Definieren Sie die verschiedenen Preis- und Rabattvereinbarungen, die beim Artikeleinkauf von unterschiedlichen Kreditoren gelten, damit die vereinbarten Regeln und Werte auf die für den Kreditor erstellten Einkaufsbelege angewendet werden.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="2deb5-102">Gewusst wie: Verkaufspreise und Rabatte aufzeichnen</span><span class="sxs-lookup"><span data-stu-id="2deb5-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="2deb5-103">Definieren Sie die verschiedenen Preis- und Rabattvereinbarungen, die beim Artikeleinkauf von unterschiedlichen Kreditoren gelten, damit die vereinbarten Regeln und Werte auf die für den Kreditor erstellten Einkaufsbelege angewendet werden.</span><span class="sxs-lookup"><span data-stu-id="2deb5-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-Für die Preise können Sie besondere auf den Einkaufszeilen verschiedene Einkaufspreise einfügen, wenn eine bestimmte Kombination aus Kreditor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.
+<span data-ttu-id="2deb5-104">Für die Preise können Sie besondere auf den Einkaufszeilen verschiedene Einkaufspreise einfügen, wenn eine bestimmte Kombination aus Kreditor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.</span><span class="sxs-lookup"><span data-stu-id="2deb5-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Für die Rabatte können Sie zwei Arten von Einkaufsrabatten einrichten und verwenden:
+<span data-ttu-id="2deb5-105">Für die Rabatte können Sie zwei Arten von Einkaufsrabatten einrichten und verwenden:</span><span class="sxs-lookup"><span data-stu-id="2deb5-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Rabattart |Beschreibung |
+|<span data-ttu-id="2deb5-106">Rabattart</span><span class="sxs-lookup"><span data-stu-id="2deb5-106">Discount Type</span></span> |<span data-ttu-id="2deb5-107">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="2deb5-107">Description</span></span> |
 |--------------|------------|
-|**Einkaufszeilenrabatt**|Ein Betrag mit Rabatt wird auf den Einkaufszeilen eingefügt, wenn eine bestimmte Kombination aus Kreditor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist. Diese Funktionalität gilt auf gleiche Weise für Einkaufsbelege.|
-|**Rechnungsrabatt**|Ein prozentualer Rabatt, der gewährt wird, wenn der Wertbetrag aller Zeilen eines Einkaufsbelegs einen bestimmten Mindestwert übersteigt.|
+|<span data-ttu-id="2deb5-108">**Einkaufszeilenrabatt**</span><span class="sxs-lookup"><span data-stu-id="2deb5-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="2deb5-109">Ein Betrag mit Rabatt wird auf den Einkaufszeilen eingefügt, wenn eine bestimmte Kombination aus Kreditor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.</span><span class="sxs-lookup"><span data-stu-id="2deb5-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="2deb5-110">Diese Funktionalität gilt auf gleiche Weise für Einkaufsbelege.</span><span class="sxs-lookup"><span data-stu-id="2deb5-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="2deb5-111">**Rechnungsrabatt**</span><span class="sxs-lookup"><span data-stu-id="2deb5-111">**Invoice Discount**</span></span>|<span data-ttu-id="2deb5-112">Ein prozentualer Rabatt, der gewährt wird, wenn der Wertbetrag aller Zeilen eines Einkaufsbelegs einen bestimmten Mindestwert übersteigt.</span><span class="sxs-lookup"><span data-stu-id="2deb5-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Da Einkaufszeilenrabatte und Einkaufspreise auf einer Kombination aus Artikel und Kreditor basieren, kann diese Konfiguration auch auf der Artikelkarte erfolgen, auf der die Regeln und Werte definiert sind. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Produkte](inventory-how-register-new-products.md).
+<span data-ttu-id="2deb5-113">Da Einkaufszeilenrabatte und Einkaufspreise auf einer Kombination aus Artikel und Kreditor basieren, kann diese Konfiguration auch auf der Artikelkarte erfolgen, auf der die Regeln und Werte definiert sind.</span><span class="sxs-lookup"><span data-stu-id="2deb5-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="2deb5-114">Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Produkte](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="2deb5-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Einen Speziellen Einkaufspreis für einen Kreditor einrichten
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die relevante Kreditorenkarte, und klicken Sie dann auf die Aktion **Preise**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="2deb5-115">Einen Speziellen Einkaufspreis für einen Kreditor einrichten</span><span class="sxs-lookup"><span data-stu-id="2deb5-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="2deb5-116">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2deb5-117">Öffnen Sie die relevante Kreditorenkarte, und klicken Sie dann auf die Aktion **Preise**.</span><span class="sxs-lookup"><span data-stu-id="2deb5-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    Das **Einkaufstyp**-Feld ist mit **Kreditor** vorausgefüllt und das Feld **Einkaufscode** ist mit der Kreditorennummer vorausgefüllt.
-3. Füllen Sie die Felder in der Zeile wie erforderlich aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
-4. Füllen Sie eine Zeile für jede Kombination aus, für die Sie dem Kreditor einen Einkaufszeilenrabatt gewähren.
+    <span data-ttu-id="2deb5-118">Das **Einkaufstyp**-Feld ist mit **Kreditor** vorausgefüllt und das Feld **Einkaufscode** ist mit der Kreditorennummer vorausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="2deb5-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="2deb5-119">Füllen Sie die Felder in der Zeile wie erforderlich aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="2deb5-120">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="2deb5-121">Füllen Sie eine Zeile für jede Kombination aus, für die Sie dem Kreditor einen Einkaufszeilenrabatt gewähren.</span><span class="sxs-lookup"><span data-stu-id="2deb5-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Um einen Zeilenrabatt für einen Kreditor einzurichten
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die relevante Kreditorenkarte, und klicken Sie dann auf die Aktion **Zeilenrabatte**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="2deb5-122">Um einen Zeilenrabatt für einen Kreditor einzurichten</span><span class="sxs-lookup"><span data-stu-id="2deb5-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="2deb5-123">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2deb5-124">Öffnen Sie die relevante Kreditorenkarte, und klicken Sie dann auf die Aktion **Zeilenrabatte**.</span><span class="sxs-lookup"><span data-stu-id="2deb5-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    Das **Einkaufstyp**-Feld ist mit **Kreditor** vorausgefüllt und das Feld **Einkaufscode** ist mit der Kreditorennummer vorausgefüllt.
-3. Füllen Sie die Felder in der Zeile wie erforderlich aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
-4. Füllen Sie eine Zeile für jede Kombination aus, für die Sie dem Kreditor einen Einkaufszeilenrabatt gewähren.
+    <span data-ttu-id="2deb5-125">Das **Einkaufstyp**-Feld ist mit **Kreditor** vorausgefüllt und das Feld **Einkaufscode** ist mit der Kreditorennummer vorausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="2deb5-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="2deb5-126">Füllen Sie die Felder in der Zeile wie erforderlich aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="2deb5-127">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="2deb5-128">Füllen Sie eine Zeile für jede Kombination aus, für die Sie dem Kreditor einen Einkaufszeilenrabatt gewähren.</span><span class="sxs-lookup"><span data-stu-id="2deb5-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Um einen Rechnungsrabatt für einen Kreditor einzurichten
-Wenn Ihre Kreditoren Sie informiert haben, welche Rechnungsrabatte sie gewähren, können Sie den Rechnungsrabattcode auf den Kreditorenkarten eingeben und Bedingungen für jeden Code einrichten.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="2deb5-129">Um einen Rechnungsrabatt für einen Kreditor einzurichten</span><span class="sxs-lookup"><span data-stu-id="2deb5-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="2deb5-130">Wenn Ihre Kreditoren Sie informiert haben, welche Rechnungsrabatte sie gewähren, können Sie den Rechnungsrabattcode auf den Kreditorenkarten eingeben und Bedingungen für jeden Code einrichten.</span><span class="sxs-lookup"><span data-stu-id="2deb5-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die Kreditorenkarte für einen Kreditor, der für Rechnungsrabatte in Frage kommt.
-3. Geben Sie im Feld **Rechnungsrabattcode** einen Code für die jeweilige Rechnungsrabattbedingungen ein, die zur Berechnung der Rabatte für den Kreditor verwendet werden sollen.
+1. <span data-ttu-id="2deb5-131">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kreditoren** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2deb5-132">Öffnen Sie die Kreditorenkarte für einen Kreditor, der für Rechnungsrabatte in Frage kommt.</span><span class="sxs-lookup"><span data-stu-id="2deb5-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="2deb5-133">Geben Sie im Feld **Rechnungsrabattcode** einen Code für die jeweilige Rechnungsrabattbedingungen ein, die zur Berechnung der Rabatte für den Kreditor verwendet werden sollen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Hinweis**: Rechnungsrabattcodes werden durch vorhandene Kreditorenkarten dargestellt. Dies ermöglicht es Ihnen, Rechnungsrabattbedingungen schnell einem Kreditor zuzuweisen, indem es den Namen eines anderen Kreditors mit den selben Konditionen auswählt..
+    <span data-ttu-id="2deb5-134">**Hinweis**: Rechnungsrabattcodes werden durch vorhandene Kreditorenkarten dargestellt.</span><span class="sxs-lookup"><span data-stu-id="2deb5-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="2deb5-135">Dies ermöglicht es Ihnen, Rechnungsrabattbedingungen schnell einem Kreditor zuzuweisen, indem es den Namen eines anderen Kreditors mit den selben Konditionen auswählt..</span><span class="sxs-lookup"><span data-stu-id="2deb5-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Fahren Sie fort, um neue Einkaufssrechnungsrabatt-Bedingungen einzurichten.
-4. Im Fenster **Kreditorenkarte** wählen Sie die Aktion **Rechnungsrabatt** aus. Das Fenster **Kreditorenrechnungsrabatte** wird geöffnet.
-5. Geben Sie in dem Feld **Währungscode** den Code für die Währung ein, für die die Rechnungsrabattkonditionen gelten sollen. Wenn Sie Rechnungsrabattbedingungen in EUR einrichten möchten, dann lassen Sie das Feld leer.
-6. Geben Sie im Feld **Minimalbetrag** den Mindestbetrag ein, den eine Rechnung aufweisen muss, um für einen Rabatt in Frage zu kommen.
-7. Geben Sie im Feld **Rabatt** den Rechnungsrabatt als Prozentsatz des Rechnungsbetrages ein.
-8. Wiederholen Sie die Schritte 5 bis 7 für jede Währung, für die der Kreditor einen Rechnungsrabatt erhält.
+    <span data-ttu-id="2deb5-136">Fahren Sie fort, um neue Einkaufssrechnungsrabatt-Bedingungen einzurichten.</span><span class="sxs-lookup"><span data-stu-id="2deb5-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="2deb5-137">Im Fenster **Kreditorenkarte** wählen Sie die Aktion **Rechnungsrabatt** aus.</span><span class="sxs-lookup"><span data-stu-id="2deb5-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="2deb5-138">Das Fenster **Kreditorenrechnungsrabatte** wird geöffnet.</span><span class="sxs-lookup"><span data-stu-id="2deb5-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="2deb5-139">Geben Sie in dem Feld **Währungscode** den Code für die Währung ein, für die die Rechnungsrabattkonditionen gelten sollen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="2deb5-140">Wenn Sie Rechnungsrabattbedingungen in EUR einrichten möchten, dann lassen Sie das Feld leer.</span><span class="sxs-lookup"><span data-stu-id="2deb5-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="2deb5-141">Geben Sie im Feld **Minimalbetrag** den Mindestbetrag ein, den eine Rechnung aufweisen muss, um für einen Rabatt in Frage zu kommen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="2deb5-142">Geben Sie im Feld **Rabatt** den Rechnungsrabatt als Prozentsatz des Rechnungsbetrages ein.</span><span class="sxs-lookup"><span data-stu-id="2deb5-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="2deb5-143">Wiederholen Sie die Schritte 5 bis 7 für jede Währung, für die der Kreditor einen Rechnungsrabatt erhält.</span><span class="sxs-lookup"><span data-stu-id="2deb5-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-Der Rechnungsrabatt wird jetzt eingerichtet und dem fraglichen Kreditor zugewiesen. Wenn Sie den Kreditorencode im Feld **Rechnungs-Rabattcode** für andere Kreditorenkarten auswählen, wird derselbe Rechnungsrabatt diesen Kreditor zugewiesen.
+<span data-ttu-id="2deb5-144">Der Rechnungsrabatt wird jetzt eingerichtet und dem fraglichen Kreditor zugewiesen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="2deb5-145">Wenn Sie den Kreditorencode im Feld **Rechnungs-Rabattcode** für andere Kreditorenkarten auswählen, wird derselbe Rechnungsrabatt diesen Kreditor zugewiesen.</span><span class="sxs-lookup"><span data-stu-id="2deb5-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Siehe auch  
-[Einkauf einrichten:](purchasing-setup-purchasing.md)  
-[Einkauf verwalten](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="2deb5-146">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="2deb5-146">See Also</span></span>  
+[<span data-ttu-id="2deb5-147">Einkauf einrichten:</span><span class="sxs-lookup"><span data-stu-id="2deb5-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="2deb5-148">Einkauf verwalten</span><span class="sxs-lookup"><span data-stu-id="2deb5-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

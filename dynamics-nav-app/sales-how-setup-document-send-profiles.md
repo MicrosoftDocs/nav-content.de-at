@@ -9,31 +9,31 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: eab026488b95cc722363e45d3d5ec875a1b1e64e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: ceb890bbf6f25f5801eb590331dc6f6f175cf7b0
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-set-up-document-sending-profiles"></a>Vorgehensweise: Einrichten von Belegsendeprofilen
-Sie können jeden Debitor mit einer bevorzugten Methode der Übermittlung von Verkaufsbelegen einrichten, sodass Sie nicht jedes Mal eine Sendeoptionen auswählen müssen, wenn Sie die Schaltfläche **Buchen und senden** auswählen.
+# <a name="how-to-set-up-document-sending-profiles"></a><span data-ttu-id="43176-102">Vorgehensweise: Einrichten von Belegsendeprofilen</span><span class="sxs-lookup"><span data-stu-id="43176-102">How to: Set Up Document Sending Profiles</span></span>
+<span data-ttu-id="43176-103">Sie können jeden Debitor mit einer bevorzugten Methode der Übermittlung von Verkaufsbelegen einrichten, sodass Sie nicht jedes Mal eine Sendeoptionen auswählen müssen, wenn Sie die Schaltfläche **Buchen und senden** auswählen.</span><span class="sxs-lookup"><span data-stu-id="43176-103">You can set each customer up with a preferred method of sending sales documents, so that you do not have to select a sending option every time you choose the **Post and Send** action.</span></span>
 
-Im Fenster **Belegsendeprofile** richten Sie verschiedene **Dokumente-Sendeprofile** ein, die Sie aus dem Feld von einer Debitorenkarte auswählen können. Im Kontrollkästchen **Standard** geben Sie an, dass das Belegsendprofil das Standardprofil für alle Debitoren gilt, außer Debitoren, bei denen das Feld **Dokument-Sendeprofil** mit einem anderen Sendeprofil ausgefüllt ist.
+<span data-ttu-id="43176-104">Im Fenster **Belegsendeprofile** richten Sie verschiedene **Dokumente-Sendeprofile** ein, die Sie aus dem Feld von einer Debitorenkarte auswählen können.</span><span class="sxs-lookup"><span data-stu-id="43176-104">In the **Document Sending Profiles** window, you set up different sending profiles that you can select from in the **Document Sending Profile** field on a customer card.</span></span> <span data-ttu-id="43176-105">Im Kontrollkästchen **Standard** geben Sie an, dass das Belegsendprofil das Standardprofil für alle Debitoren gilt, außer Debitoren, bei denen das Feld **Dokument-Sendeprofil** mit einem anderen Sendeprofil ausgefüllt ist.</span><span class="sxs-lookup"><span data-stu-id="43176-105">You can select the **Default** check box to specify that the document sending profile is the default profile for all customers, except for customers where the **Document Sending Profile** field is filled with another sending profile.</span></span>
 
-Wenn Sie die Schaltfläche **Buchen und senden** für einen Verkaufsbeleg auswählen, wird im Dialogfeld **Buchungs- und Sendebestätigung** das verwendete Sendeprofil angezeigt. Dabei handelt es sich entweder um das für den Debitor eingerichtete oder um Standardprofil für alle Debitoren. In diesem Dialogfeld können Sie das Sendeprofil für den Verkaufsbeleg ändern. Weitere Informationen finden Sie unter [Gewusst wie: Rechnungsverkäufe](sales-how-invoice-sales.md).
+<span data-ttu-id="43176-106">Wenn Sie die Schaltfläche **Buchen und senden** für einen Verkaufsbeleg auswählen, wird im Dialogfeld **Buchungs- und Sendebestätigung** das verwendete Sendeprofil angezeigt. Dabei handelt es sich entweder um das für den Debitor eingerichtete oder um Standardprofil für alle Debitoren.</span><span class="sxs-lookup"><span data-stu-id="43176-106">When you choose the **Post and Send** action on a sales document, the **Post and Send Confirmation** dialog box shows the sending profile used, either the one set up for the customer or the default for all customers.</span></span> <span data-ttu-id="43176-107">In diesem Dialogfeld können Sie das Sendeprofil für den Verkaufsbeleg ändern.</span><span class="sxs-lookup"><span data-stu-id="43176-107">In the dialog box, you can change the sending profile for the sales document.</span></span> <span data-ttu-id="43176-108">Weitere Informationen finden Sie unter [Gewusst wie: Rechnungsverkäufe](sales-how-invoice-sales.md).</span><span class="sxs-lookup"><span data-stu-id="43176-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).</span></span>
 
-## <a name="to-set-up-a-document-sending-profile"></a>Einrichten von Belegsendeprofilen
-1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Dokumentsendeprofil** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Im Feld **Dokumentsendeprofile** wählen Sie die Aktion **Neu** aus.
-3. Füllen Sie die Felder je nach Bedarf aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
+## <a name="to-set-up-a-document-sending-profile"></a><span data-ttu-id="43176-109">Einrichten von Belegsendeprofilen</span><span class="sxs-lookup"><span data-stu-id="43176-109">To set up a document sending profile</span></span>
+1. <span data-ttu-id="43176-110">Alternativ wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Dokumentsendeprofil** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="43176-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Document Sending Profiles**, and then choose the related link.</span></span>
+2. <span data-ttu-id="43176-111">Im Feld **Dokumentsendeprofile** wählen Sie die Aktion **Neu** aus.</span><span class="sxs-lookup"><span data-stu-id="43176-111">In the **Document Sending Profiles** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="43176-112">Füllen Sie die Felder je nach Bedarf aus.</span><span class="sxs-lookup"><span data-stu-id="43176-112">Fill in the fields as necessary.</span></span> <span data-ttu-id="43176-113">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="43176-113">Choose a field to read a short description of the field or link to more information.</span></span>
 
-## <a name="to-specify-a-sending-profile-on-a-customer-card"></a>Sendeprofil für eine Debitorenkarte festlegen
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die Karte des Debitors, für den ein Sendeprofil eingerichtet werden soll.
-3. Wählen Sie im Inforegister **Beleg senden** ein Profil aus, das sie eingerichtet haben wie im vorigen Verfahren beschrieben.
+## <a name="to-specify-a-sending-profile-on-a-customer-card"></a><span data-ttu-id="43176-114">Sendeprofil für eine Debitorenkarte festlegen</span><span class="sxs-lookup"><span data-stu-id="43176-114">To specify a sending profile on a customer card</span></span>
+1. <span data-ttu-id="43176-115">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="43176-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="43176-116">Öffnen Sie die Karte des Debitors, für den ein Sendeprofil eingerichtet werden soll.</span><span class="sxs-lookup"><span data-stu-id="43176-116">Open the card of the customer who you want to set up a sending profile for.</span></span>
+3. <span data-ttu-id="43176-117">Wählen Sie im Inforegister **Beleg senden** ein Profil aus, das sie eingerichtet haben wie im vorigen Verfahren beschrieben.</span><span class="sxs-lookup"><span data-stu-id="43176-117">In the **Document Sending** Profile field, select a profile that you have set up as described in the previous procedure.</span></span>
 
-## <a name="see-also"></a>Siehe auch  
-[Auftrag einrichten](sales-setup-sales.md)  
-[Verkauf verwalten](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="43176-118">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="43176-118">See Also</span></span>  
+[<span data-ttu-id="43176-119">Auftrag einrichten</span><span class="sxs-lookup"><span data-stu-id="43176-119">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="43176-120">Verkauf verwalten</span><span class="sxs-lookup"><span data-stu-id="43176-120">Manage Sales</span></span>](sales-manage-sales.md)
 

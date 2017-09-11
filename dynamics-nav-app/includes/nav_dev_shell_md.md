@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV 2017 Development Shell
+<span data-ttu-id="e4796-101">Microsoft Dynamics NAV 2017 Development Shell</span><span class="sxs-lookup"><span data-stu-id="e4796-101">Microsoft Dynamics NAV 2017 Development Shell</span></span>

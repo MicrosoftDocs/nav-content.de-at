@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Gewusst wie: Bank-Geldmittel überweisen
-Manchmal ist es erforderlich, einen Betrag von einem Bankkonto auf ein anderes Bankkonto zu überweisen. Dafür müssen Sie eine Transaktion im Fibu Buch.-Blatt buchen. Die Aufgabe variiert abhängig davon, ob die Bankkonten dieselbe Währung oder unterschiedlichen Währungen verwenden.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="d9ef5-102">Gewusst wie: Bank-Geldmittel überweisen</span><span class="sxs-lookup"><span data-stu-id="d9ef5-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="d9ef5-103">Manchmal ist es erforderlich, einen Betrag von einem Bankkonto auf ein anderes Bankkonto zu überweisen.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="d9ef5-104">Dafür müssen Sie eine Transaktion im Fibu Buch.-Blatt buchen.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="d9ef5-105">Die Aufgabe variiert abhängig davon, ob die Bankkonten dieselbe Währung oder unterschiedlichen Währungen verwenden.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>So buchen Sie Überweisungen zwischen Bankkonten mit demselben Währungscode:
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Fibu Buch.-Blatt** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Füllen Sie in einer Buch.-Blattzeile die Felder **Buchungsdatum** und **Belegnr.** aus. Felder.
-3. Wählen Sie im Feld **Kontoart** die Option **Bankkonto** aus.
-4. Wählen Sie im Feld **Kontonummer** die Bank, von der Sie den Betrag überweisen möchten.
-5. Geben Sie im Feld **Betrag** den Betrag ein, der überwiesen werden soll.
-6. Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.
-7. Wählen Sie im Feld **Gegenkontonummer** das Bankkonto aus, an das Sie den Betrag überweisen möchten.
-8. Buchen Sie die Buch.-Blattzeile.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="d9ef5-106">So buchen Sie Überweisungen zwischen Bankkonten mit demselben Währungscode:</span><span class="sxs-lookup"><span data-stu-id="d9ef5-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="d9ef5-107">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Fibu Buch.-Blatt** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="d9ef5-108">Füllen Sie in einer Buch.-Blattzeile die Felder **Buchungsdatum** und **Belegnr.** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="d9ef5-109">Felder.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-109">fields.</span></span>
+3. <span data-ttu-id="d9ef5-110">Wählen Sie im Feld **Kontoart** die Option **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="d9ef5-111">Wählen Sie im Feld **Kontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-111">In the **Account No.**</span></span> <span data-ttu-id="d9ef5-112">die Bank, von der Sie den Betrag überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="d9ef5-113">Geben Sie im Feld **Betrag** den Betrag ein, der überwiesen werden soll.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="d9ef5-114">Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="d9ef5-115">Wählen Sie im Feld **Gegenkontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="d9ef5-116">das Bankkonto aus, an das Sie den Betrag überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="d9ef5-117">Buchen Sie die Buch.-Blattzeile.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Überweisungen zwischen Bankkonten mit verschiedenen Währungscodes buchen:
-Um Beträge zwischen Bankkonten zu transferieren, die unterschiedliche Währungen verwenden, müssen Sie zwei Fibu Buch.-Blattzeilen buchen.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="d9ef5-118">Überweisungen zwischen Bankkonten mit verschiedenen Währungscodes buchen:</span><span class="sxs-lookup"><span data-stu-id="d9ef5-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="d9ef5-119">Um Beträge zwischen Bankkonten zu transferieren, die unterschiedliche Währungen verwenden, müssen Sie zwei Fibu Buch.-Blattzeilen buchen.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Fibu Buch.-Blatt** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Erstellen Sie zwei Buch.-Bl.-Zeilen und füllen Sie **Buchungsdatum** und **Belegnr.** aus. Felder.
-3. Wählen Sie in der ersten Buch.-Blattzeile des Feldes **Art** **Bankkonto** aus.
-4. Wählen Sie im Feld **Kontonummer** das Bankkonto aus, von dem Sie die Beträge überweisen möchten.
-5. Geben Sie im Feld **Betrag** den Betrag in der Währung des Bankkontos ein. Geben Sie die Habenbeträge mit einem Minuszeichen ein. Geben Sie die Sollbeträge ohne ein Minuszeichen ein.
-6. Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.
-7. Wählen Sie im Feld **Gegenkontonummer** das Bankkonto aus, an das Sie den Betrag überweisen möchten.
-8. Wählen Sie in der zweiten Buch.-Blattzeile des Feldes **Art** **Bankkonto** aus.
-9. Wählen Sie im Feld **Kontonummer** das Bankkonto aus, an das Sie den Betrag überweisen möchten.
-10. Geben Sie im Feld **Betrag** den Betrag in der Währung des Bankkontos ein. Geben Sie die Habenbeträge mit einem Minuszeichen ein. Geben Sie die Sollbeträge ohne ein Minuszeichen ein.
-11. Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.  
-12. Wählen Sie im Feld **Gegenkontonummer** das Bankkonto aus, von dem Sie die Beträge überweisen möchten.
+1. <span data-ttu-id="d9ef5-120">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Fibu Buch.-Blatt** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="d9ef5-121">Erstellen Sie zwei Buch.-Bl.-Zeilen und füllen Sie **Buchungsdatum** und **Belegnr.** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="d9ef5-122">Felder.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-122">fields.</span></span>
+3. <span data-ttu-id="d9ef5-123">Wählen Sie in der ersten Buch.-Blattzeile des Feldes **Art** **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="d9ef5-124">Wählen Sie im Feld **Kontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-124">In the **Account No.**</span></span> <span data-ttu-id="d9ef5-125">das Bankkonto aus, von dem Sie die Beträge überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="d9ef5-126">Geben Sie im Feld **Betrag** den Betrag in der Währung des Bankkontos ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="d9ef5-127">Geben Sie die Habenbeträge mit einem Minuszeichen ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="d9ef5-128">Geben Sie die Sollbeträge ohne ein Minuszeichen ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="d9ef5-129">Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="d9ef5-130">Wählen Sie im Feld **Gegenkontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="d9ef5-131">das Bankkonto aus, an das Sie den Betrag überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="d9ef5-132">Wählen Sie in der zweiten Buch.-Blattzeile des Feldes **Art** **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="d9ef5-133">Wählen Sie im Feld **Kontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-133">In the **Account No.**</span></span> <span data-ttu-id="d9ef5-134">das Bankkonto aus, an das Sie den Betrag überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="d9ef5-135">Geben Sie im Feld **Betrag** den Betrag in der Währung des Bankkontos ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="d9ef5-136">Geben Sie die Habenbeträge mit einem Minuszeichen ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="d9ef5-137">Geben Sie die Sollbeträge ohne ein Minuszeichen ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="d9ef5-138">Wählen Sie im Feld **Gegenkontoart** die Option **Bankkonto** aus.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="d9ef5-139">Wählen Sie im Feld **Gegenkontonummer**</span><span class="sxs-lookup"><span data-stu-id="d9ef5-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="d9ef5-140">das Bankkonto aus, von dem Sie die Beträge überweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Hinweis**: Wenn die im Buch.-Blatt verwendeten Wechselkurse von den Wechselkursen im Fenster **Währungswechselkurse** abweichen, geben Sie eine dritte Zeile für den Wechselkursgewinn oder -verlust ein. Geben Sie **Sachkonto** im Feld **Kontoart** ein. Geben Sie die Sachkontonummer für Wechselkursgewinn oder -verlust im Feld **Kontonr.** ein. Feld Geben Sie den Wechselkursgewinn oder - verlust im Feld **Amount** mit oder ohne Minuszeichen jeweils für Soll- und Habenbeträge ein.
-13. Buchen Sie die Buch.-Blattzeile.
+    <span data-ttu-id="d9ef5-141">**Hinweis**: Wenn die im Buch.-Blatt verwendeten Wechselkurse von den Wechselkursen im Fenster **Währungswechselkurse** abweichen, geben Sie eine dritte Zeile für den Wechselkursgewinn oder -verlust ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="d9ef5-142">Geben Sie **Sachkonto** im Feld **Kontoart** ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="d9ef5-143">Geben Sie die Sachkontonummer für Wechselkursgewinn oder -verlust im Feld **Kontonr.** ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="d9ef5-144">Feld</span><span class="sxs-lookup"><span data-stu-id="d9ef5-144">field.</span></span> <span data-ttu-id="d9ef5-145">Geben Sie den Wechselkursgewinn oder - verlust im Feld **Amount** mit oder ohne Minuszeichen jeweils für Soll- und Habenbeträge ein.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="d9ef5-146">Buchen Sie die Buch.-Blattzeile.</span><span class="sxs-lookup"><span data-stu-id="d9ef5-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Siehe auch  
-[Verwalten von Bankkonten](bank-manage-bank-accounts.md)  
-[Bank einrichten](bank-setup-banking.md)  
-[Arbeiten mit Fibu Buch.-Blättern](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="d9ef5-147">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="d9ef5-147">See Also</span></span>  
+[<span data-ttu-id="d9ef5-148">Verwalten von Bankkonten</span><span class="sxs-lookup"><span data-stu-id="d9ef5-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="d9ef5-149">Bank einrichten</span><span class="sxs-lookup"><span data-stu-id="d9ef5-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="d9ef5-150">Arbeiten mit Fibu Buch.-Blättern</span><span class="sxs-lookup"><span data-stu-id="d9ef5-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Webserver-Komponenten
+<span data-ttu-id="c0ba1-101">Microsoft Dynamics NAV Webserver-Komponenten</span><span class="sxs-lookup"><span data-stu-id="c0ba1-101">Microsoft Dynamics NAV Web Server components</span></span>

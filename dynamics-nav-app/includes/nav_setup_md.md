@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV 2017 Setup
+<span data-ttu-id="d0642-101">Microsoft Dynamics NAV 2017 Setup</span><span class="sxs-lookup"><span data-stu-id="d0642-101">Microsoft Dynamics NAV 2017 Setup</span></span>

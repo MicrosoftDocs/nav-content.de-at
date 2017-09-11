@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6438108fb2c36bb6f0d44efddc053bd628d068
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 80a0ac1edc994f44795f7f907a647b269578bc47
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-record-sales-prices-and-discounts"></a>Gewusst wie: Verkaufspreise und Rabatte aufzeichnen
-Die unterschiedlichen Preis- und Zahlungsrichtlinien, die beim Verkauf an verschiedene Debitoren gelten, müssen so definiert werden, dass die vereinbarten Regeln und Werte für Verkaufsbelege übernommen werden, die für den Debitor erstellt werden.
+# <a name="how-to-record-sales-prices-and-discounts"></a><span data-ttu-id="aa413-102">Gewusst wie: Verkaufspreise und Rabatte aufzeichnen</span><span class="sxs-lookup"><span data-stu-id="aa413-102">How to: Record Sales Prices and Discounts</span></span>
+<span data-ttu-id="aa413-103">Die unterschiedlichen Preis- und Zahlungsrichtlinien, die beim Verkauf an verschiedene Debitoren gelten, müssen so definiert werden, dass die vereinbarten Regeln und Werte für Verkaufsbelege übernommen werden, die für den Debitor erstellt werden.</span><span class="sxs-lookup"><span data-stu-id="aa413-103">The different price and discount agreements that apply when selling to different customers must be defined so that the agreed rules and values are applied to sales documents that you create for the customers.</span></span>
 
-Für die Preise können Sie besondere auf den Verkaufszeilen verschiedene Verkaufspreise einfügen, wenn eine bestimmte Kombination aus Debitor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.
+<span data-ttu-id="aa413-104">Für die Preise können Sie besondere auf den Verkaufszeilen verschiedene Verkaufspreise einfügen, wenn eine bestimmte Kombination aus Debitor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.</span><span class="sxs-lookup"><span data-stu-id="aa413-104">Concerning prices, you can have a special sales price inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Für die Rabatte können Sie zwei Arten von Verkaufsrabatten einrichten und verwenden:
+<span data-ttu-id="aa413-105">Für die Rabatte können Sie zwei Arten von Verkaufsrabatten einrichten und verwenden:</span><span class="sxs-lookup"><span data-stu-id="aa413-105">Concerning discounts, you can set up and use two types of sales discounts:</span></span>
 
-|Rabattart |Beschreibung |
+|<span data-ttu-id="aa413-106">Rabattart</span><span class="sxs-lookup"><span data-stu-id="aa413-106">Discount Type</span></span> |<span data-ttu-id="aa413-107">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="aa413-107">Description</span></span> |
 |--------------|------------|
-|**Verkaufszeilenrabatt**|Ein Betrag mit Rabatt wird auf den Verkaufszeilen eingefügt, wenn eine bestimmte Kombination aus Debitor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist. Diese Funktionalität gilt auf gleiche Weise für Verkaufsbelege.|
-|**Rechnungsrabatt**|Ein prozentualer Rabatt, der gewährt wird, wenn der Wertbetrag aller Zeilen eines Einkaufsbelegs einen bestimmten Mindestwert übersteigt.|
+|<span data-ttu-id="aa413-108">**Verkaufszeilenrabatt**</span><span class="sxs-lookup"><span data-stu-id="aa413-108">**Sales Line Discount**</span></span>|<span data-ttu-id="aa413-109">Ein Betrag mit Rabatt wird auf den Verkaufszeilen eingefügt, wenn eine bestimmte Kombination aus Debitor, Artikel, Mindestmenge, Einheit oder des Start-/Enddatum vorhanden ist.</span><span class="sxs-lookup"><span data-stu-id="aa413-109">An amount discount that is inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="aa413-110">Diese Funktionalität gilt auf gleiche Weise für Verkaufsbelege.</span><span class="sxs-lookup"><span data-stu-id="aa413-110">This works in the same way as for sales prices.</span></span>|
+|<span data-ttu-id="aa413-111">**Rechnungsrabatt**</span><span class="sxs-lookup"><span data-stu-id="aa413-111">**Invoice Discount**</span></span>|<span data-ttu-id="aa413-112">Ein prozentualer Rabatt, der gewährt wird, wenn der Wertbetrag aller Zeilen eines Einkaufsbelegs einen bestimmten Mindestwert übersteigt.</span><span class="sxs-lookup"><span data-stu-id="aa413-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a sales document exceeds a certain minimum.</span></span>|
 
-Da Verkaufszeilenrabatte und Verkaufspreise auf einer Kombination aus Artikel und Debitor bestehen, können Sie diese Konfiguration auch auf der Artikelkarte des Artikels eingerichtet werden, für den die Regeln und Werte gelten.
+<span data-ttu-id="aa413-113">Da Verkaufszeilenrabatte und Verkaufspreise auf einer Kombination aus Artikel und Debitor bestehen, können Sie diese Konfiguration auch auf der Artikelkarte des Artikels eingerichtet werden, für den die Regeln und Werte gelten.</span><span class="sxs-lookup"><span data-stu-id="aa413-113">Because sales prices and sales line discounts are based on a combination of item and customer, you can also perform this configuration from the item card of the item where the rules and values apply.</span></span>
 
-## <a name="to-set-up-a-sales-price-for-a-customer"></a>Um Verkaufspreise für einen Debitor zu erstellen:
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die entsprechende Debitorenkarte und klicken dann auf **Preise**.
+## <a name="to-set-up-a-sales-price-for-a-customer"></a><span data-ttu-id="aa413-114">Um Verkaufspreise für einen Debitor zu erstellen:</span><span class="sxs-lookup"><span data-stu-id="aa413-114">To set up a sales price for a customer</span></span>
+1. <span data-ttu-id="aa413-115">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aa413-116">Öffnen Sie die entsprechende Debitorenkarte und klicken dann auf **Preise**.</span><span class="sxs-lookup"><span data-stu-id="aa413-116">Open the relevant customer card, and then choose the **Prices** action.</span></span>
 
-    Das Feld **Verkaufsart** ist mit dem Code **Debitor** ausgefüllt und das Feld **Verkaufscode** enthält die Nummer des Debitoren.
-3. Füllen Sie die Felder in der Zeile wie erforderlich aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
-4. Füllen Sie eine Zeile für jede Kombination aus, die dem Debitor einen besonderen Preis gewährt.
+    <span data-ttu-id="aa413-117">Das Feld **Verkaufsart** ist mit dem Code **Debitor** ausgefüllt und das Feld **Verkaufscode** enthält die Nummer des Debitoren.</span><span class="sxs-lookup"><span data-stu-id="aa413-117">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3. <span data-ttu-id="aa413-118">Füllen Sie die Felder in der Zeile wie erforderlich aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-118">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="aa413-119">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="aa413-119">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="aa413-120">Füllen Sie eine Zeile für jede Kombination aus, die dem Debitor einen besonderen Preis gewährt.</span><span class="sxs-lookup"><span data-stu-id="aa413-120">Fill a line for each combination that will grant a special sales price to the customer.</span></span>
 
-## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a>So erstellen Sie Verkaufszeilenrabatte für einen Debitor:
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die entsprechende Debitorenkarte und klicken dann auf **Zeilenpreise**.
+## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a><span data-ttu-id="aa413-121">So erstellen Sie Verkaufszeilenrabatte für einen Debitor:</span><span class="sxs-lookup"><span data-stu-id="aa413-121">To set up a sales line discount for a customer</span></span>
+1. <span data-ttu-id="aa413-122">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aa413-123">Öffnen Sie die entsprechende Debitorenkarte und klicken dann auf **Zeilenpreise**.</span><span class="sxs-lookup"><span data-stu-id="aa413-123">Open the relevant customer card, and then choose the **Line Discounts** action.</span></span>
 
-    Das Feld **Verkaufsart** ist mit dem Code **Debitor** ausgefüllt und das Feld **Verkaufscode** enthält die Nummer des Debitoren.
-3.  Füllen Sie die Felder in der Zeile wie erforderlich aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
-4. Füllen Sie eine Zeile für jede Kombination aus, die dem Debitor einen besonderen Preis gewährt.
+    <span data-ttu-id="aa413-124">Das Feld **Verkaufsart** ist mit dem Code **Debitor** ausgefüllt und das Feld **Verkaufscode** enthält die Nummer des Debitoren.</span><span class="sxs-lookup"><span data-stu-id="aa413-124">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3.  <span data-ttu-id="aa413-125">Füllen Sie die Felder in der Zeile wie erforderlich aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-125">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="aa413-126">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="aa413-126">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="aa413-127">Füllen Sie eine Zeile für jede Kombination aus, die dem Debitor einen besonderen Preis gewährt.</span><span class="sxs-lookup"><span data-stu-id="aa413-127">Fill a line for each combination that will grant a sales line discount to the customer.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-customer"></a>Um Rechnungsrabattkonditionen für Einkäufe einzurichten:
-Nachdem Sie sich entschieden haben, welche Debitoren für Rechnungsrabatte in Frage kommen, geben Sie die Rechnungsrabattcodes auf den Debitorenkarten ein, und richten Sie die Bedingungen für die einzelnen Codes ein.
+## <a name="to-set-up-an-invoice-discount-for-a-customer"></a><span data-ttu-id="aa413-128">Um Rechnungsrabattkonditionen für Einkäufe einzurichten:</span><span class="sxs-lookup"><span data-stu-id="aa413-128">To set up an invoice discount for a customer</span></span>
+<span data-ttu-id="aa413-129">Nachdem Sie sich entschieden haben, welche Debitoren für Rechnungsrabatte in Frage kommen, geben Sie die Rechnungsrabattcodes auf den Debitorenkarten ein, und richten Sie die Bedingungen für die einzelnen Codes ein.</span><span class="sxs-lookup"><span data-stu-id="aa413-129">When you have decided which customers are eligible for invoice discounts, enter the invoice discount code on the customer cards and set up the terms for each code.</span></span>
 
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Öffnen Sie die Debitorenkarte für einen Debitor, der für Rechnungsrabatte in Frage kommt.
-3. Geben Sie im Feld **Rechnungsrabattcode** einen Code für das jeweilige Rechnungsrabattfenster ein, das die Anwendung verwenden soll, um Rechnungsrabatte für den Debitor zu berechnen.
+1. <span data-ttu-id="aa413-130">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kunde** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aa413-131">Öffnen Sie die Debitorenkarte für einen Debitor, der für Rechnungsrabatte in Frage kommt.</span><span class="sxs-lookup"><span data-stu-id="aa413-131">Open the customer card for a customer that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="aa413-132">Geben Sie im Feld **Rechnungsrabattcode** einen Code für das jeweilige Rechnungsrabattfenster ein, das die Anwendung verwenden soll, um Rechnungsrabatte für den Debitor zu berechnen.</span><span class="sxs-lookup"><span data-stu-id="aa413-132">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.</span></span>
 
-    **Hinweis**: Rechnungsrabattcodes werden durch Bestandskundenkarten dargestellt. Dies ermöglicht es Ihnen, Rechnungsrabattbedingungen schnell einem Debitor zuzuweisen, indem es den Namen eines anderen Debitors mit den selben Konditionen auswählt..
+    <span data-ttu-id="aa413-133">**Hinweis**: Rechnungsrabattcodes werden durch Bestandskundenkarten dargestellt.</span><span class="sxs-lookup"><span data-stu-id="aa413-133">**Note**: Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="aa413-134">Dies ermöglicht es Ihnen, Rechnungsrabattbedingungen schnell einem Debitor zuzuweisen, indem es den Namen eines anderen Debitors mit den selben Konditionen auswählt..</span><span class="sxs-lookup"><span data-stu-id="aa413-134">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
 
-    Fahren Sie fort, um neue Verkaufsrechnungsrabatt-Bedingungen einzurichten.
-4. Im Fenster **Debitorenkarte** wählen Sie die Aktion **Rechnungsrabatt** aus. Das Fenster **Debitorenrechnungsrabatte** wird geöffnet.
-5. Geben Sie in dem Feld **Währungscode** den Code für die Währung ein, für die die Rechnungsrabattkonditionen gelten sollen. Wenn Sie Rechnungsrabattbedingungen in EUR einrichten möchten, dann lassen Sie das Feld leer.
-6. Geben Sie im Feld **Minimalbetrag** den Mindestbetrag ein, den eine Rechnung aufweisen muss, um für einen Rabatt in Frage zu kommen.
-7. Geben Sie im Feld **Rabatt** den Rechnungsrabatt als Prozentsatz des Rechnungsbetrages ein.
-8. Wiederholen Sie die Schritte 5 bis 7 für jede Währung, für die der Debitor einen Rechnungsrabatt erhält.
+    <span data-ttu-id="aa413-135">Fahren Sie fort, um neue Verkaufsrechnungsrabatt-Bedingungen einzurichten.</span><span class="sxs-lookup"><span data-stu-id="aa413-135">Proceed to set up new the sales invoice discount terms.</span></span>
+4. <span data-ttu-id="aa413-136">Im Fenster **Debitorenkarte** wählen Sie die Aktion **Rechnungsrabatt** aus.</span><span class="sxs-lookup"><span data-stu-id="aa413-136">In the **Customer Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="aa413-137">Das Fenster **Debitorenrechnungsrabatte** wird geöffnet.</span><span class="sxs-lookup"><span data-stu-id="aa413-137">The **Cust. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="aa413-138">Geben Sie in dem Feld **Währungscode** den Code für die Währung ein, für die die Rechnungsrabattkonditionen gelten sollen.</span><span class="sxs-lookup"><span data-stu-id="aa413-138">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="aa413-139">Wenn Sie Rechnungsrabattbedingungen in EUR einrichten möchten, dann lassen Sie das Feld leer.</span><span class="sxs-lookup"><span data-stu-id="aa413-139">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="aa413-140">Geben Sie im Feld **Minimalbetrag** den Mindestbetrag ein, den eine Rechnung aufweisen muss, um für einen Rabatt in Frage zu kommen.</span><span class="sxs-lookup"><span data-stu-id="aa413-140">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="aa413-141">Geben Sie im Feld **Rabatt** den Rechnungsrabatt als Prozentsatz des Rechnungsbetrages ein.</span><span class="sxs-lookup"><span data-stu-id="aa413-141">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="aa413-142">Wiederholen Sie die Schritte 5 bis 7 für jede Währung, für die der Debitor einen Rechnungsrabatt erhält.</span><span class="sxs-lookup"><span data-stu-id="aa413-142">Repeat steps 5 through 7 for each currency that the customer will receive a different invoice discount for.</span></span>
 
-Der Rechnungsrabatt wird jetzt eingerichtet und dem fraglichen Debitor zugewiesen. Wenn Sie den Debitorencode im Feld **Rechnungs-Rabattcode** für andere Debitorenkarten auswählen, wird derselbe Rechnungsrabatt diesen Kunden zugewiesen.
+<span data-ttu-id="aa413-143">Der Rechnungsrabatt wird jetzt eingerichtet und dem fraglichen Debitor zugewiesen.</span><span class="sxs-lookup"><span data-stu-id="aa413-143">The invoice discount is now set up and assigned to the customer in question.</span></span> <span data-ttu-id="aa413-144">Wenn Sie den Debitorencode im Feld **Rechnungs-Rabattcode** für andere Debitorenkarten auswählen, wird derselbe Rechnungsrabatt diesen Kunden zugewiesen.</span><span class="sxs-lookup"><span data-stu-id="aa413-144">When you select the customer code in the **Invoice Disc. Code** field on other customer cards, the same invoice discount is assigned to those customers.</span></span>
 
-## <a name="see-also"></a>Siehe auch  
-[Auftrag einrichten](sales-setup-sales.md)  
-[Verkauf verwalten](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="aa413-145">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="aa413-145">See Also</span></span>  
+[<span data-ttu-id="aa413-146">Auftrag einrichten</span><span class="sxs-lookup"><span data-stu-id="aa413-146">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="aa413-147">Verkauf verwalten</span><span class="sxs-lookup"><span data-stu-id="aa413-147">Manage Sales</span></span>](sales-manage-sales.md)
 

@@ -9,45 +9,45 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-enable-customer-payments-through-paypal"></a>Gewusst wie: Aktivieren von Debitoren-Zahlungen durch Paypal#
-Als Alternative zu Zahlungen per Banktransfer oder Kreditkarten können Sie Ihren Debitoren anbieten, über Paypal zu bezahlen.
+# <a name="how-to-enable-customer-payments-through-paypal"></a><span data-ttu-id="5c64e-102">Gewusst wie: Aktivieren von Debitoren-Zahlungen durch Paypal#</span><span class="sxs-lookup"><span data-stu-id="5c64e-102">How to: Enable Customer Payments Through PayPal#</span></span>
+<span data-ttu-id="5c64e-103">Als Alternative zu Zahlungen per Banktransfer oder Kreditkarten können Sie Ihren Debitoren anbieten, über Paypal zu bezahlen.</span><span class="sxs-lookup"><span data-stu-id="5c64e-103">As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.</span></span>
 
-Wenn ein Debitor den Paypal-Link in einer Verkaufsrechnung oder einem Verkaufsauftragsbeleg auswählt, erscheint die Service-Seite für ihr Paypal-Konto, das die Zahlungsdetails für den Verkauf enthält. Der Kunde kann die Rechnung wie jede andere PayPal-Zahlung bezahlen.
+<span data-ttu-id="5c64e-104">Wenn ein Debitor den Paypal-Link in einer Verkaufsrechnung oder einem Verkaufsauftragsbeleg auswählt, erscheint die Service-Seite für ihr Paypal-Konto, das die Zahlungsdetails für den Verkauf enthält.</span><span class="sxs-lookup"><span data-stu-id="5c64e-104">When a customer chooses the PayPal link on a sales invoice or sales order document, the service page for their PayPal account appears showing the payment details for the sale.</span></span> <span data-ttu-id="5c64e-105">Der Kunde kann die Rechnung wie jede andere PayPal-Zahlung bezahlen.</span><span class="sxs-lookup"><span data-stu-id="5c64e-105">The customer can then pay the invoice as any other PayPal payment.</span></span>
 
-Um Debitorenzahlungen durch PayPal zu aktivieren, müssen Sie Folgendes tun:
+<span data-ttu-id="5c64e-106">Um Debitorenzahlungen durch PayPal zu aktivieren, müssen Sie Folgendes tun:</span><span class="sxs-lookup"><span data-stu-id="5c64e-106">To enable customer payments through PayPal, you must do the following:</span></span>
 
-1. Setup-Paypal-Zahlungs-Standard als Zahlungsservice im Fenster **Zahlungs-Service**.
-2. Paypal-Zahlungs-Standard im Feld **Zahlungsverkehr** im betreffenden Verkaufsbeleg auswählen.
+1. <span data-ttu-id="5c64e-107">Setup-Paypal-Zahlungs-Standard als Zahlungsservice im Fenster **Zahlungs-Service**.</span><span class="sxs-lookup"><span data-stu-id="5c64e-107">Set up PayPal Payments Standard as a payment service in the **Payments Services** window.</span></span>
+2. <span data-ttu-id="5c64e-108">Paypal-Zahlungs-Standard im Feld **Zahlungsverkehr** im betreffenden Verkaufsbeleg auswählen.</span><span class="sxs-lookup"><span data-stu-id="5c64e-108">Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.</span></span>
 
-Der Paypal-Zahlungsstandard-Service wird als eine Erweiterung im Dynamics NAV eingerichtet und ist bereit, aktiviert zu werden. Weitere Informationen finden Sie unter [Anpassen von Dynamics NAV mithilfe von Erweiterungen ](ui-extensions.md).
+<span data-ttu-id="5c64e-109">Der Paypal-Zahlungsstandard-Service wird als eine Erweiterung im Dynamics NAV eingerichtet und ist bereit, aktiviert zu werden.</span><span class="sxs-lookup"><span data-stu-id="5c64e-109">The PayPal Payments Standard service is installed as an extension to Dynamics NAV and ready to enabled.</span></span> <span data-ttu-id="5c64e-110">Weitere Informationen finden Sie unter [Anpassen von Dynamics NAV mithilfe von Erweiterungen ](ui-extensions.md).</span><span class="sxs-lookup"><span data-stu-id="5c64e-110">For more information, see [Customizing Dynamics NAV Using Extensions ](ui-extensions.md).</span></span>
 
-## <a name="to-enable-the-paypal-payments-standard-service"></a>Zur Aktivierung des Paypal-Zahlungsstandard-Service
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Zahlungsverkehr** ein. Wählen Sie dann den zugehörigen Link aus.  
-2. Wählen Sie im Fenster **Zahlungsverkehr** die Aktion **Neu** aus.
-3. Wählen Sie **PayPal Standard** aus, und schließen Sie das Fenster.
-4. Wählen Sie im Fenster **Zahlungsverkehr** die Aktion **Einrichten** aus.
-5. Füllen Sie die Felder je nach Bedarf aus. Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.
+## <a name="to-enable-the-paypal-payments-standard-service"></a><span data-ttu-id="5c64e-111">Zur Aktivierung des Paypal-Zahlungsstandard-Service</span><span class="sxs-lookup"><span data-stu-id="5c64e-111">To enable the PayPal Payments Standard service</span></span>
+1. <span data-ttu-id="5c64e-112">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Zahlungsverkehr** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="5c64e-112">In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5c64e-113">Wählen Sie im Fenster **Zahlungsverkehr** die Aktion **Neu** aus.</span><span class="sxs-lookup"><span data-stu-id="5c64e-113">In the **Payment Services** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="5c64e-114">Wählen Sie **PayPal Standard** aus, und schließen Sie das Fenster.</span><span class="sxs-lookup"><span data-stu-id="5c64e-114">Select **PayPal Standard**, and then close the window.</span></span>
+4. <span data-ttu-id="5c64e-115">Wählen Sie im Fenster **Zahlungsverkehr** die Aktion **Einrichten** aus.</span><span class="sxs-lookup"><span data-stu-id="5c64e-115">In the **Payment Services** window, choose the **Setup** action.</span></span>
+5. <span data-ttu-id="5c64e-116">Füllen Sie die Felder je nach Bedarf aus.</span><span class="sxs-lookup"><span data-stu-id="5c64e-116">Fill in the fields as necessary.</span></span> <span data-ttu-id="5c64e-117">Wählen Sie ein Feld aus, um eine kurze Beschreibung des Feldes zu lesen oder einen Link für weitere Informationen zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="5c64e-117">Choose a field to read a short description of the field or link to more information.</span></span>
 
-    **Hinweis**: Wählen Sie **Immer auf Dokument aufführen** aus und aktivieren Sie dazu das Kontrollkästchen, wenn der Link für den Paypal-Zahlungsverkehr immer in Verkaufsbelegen sichtbar sein soll, bei denen Zahlung mit Paypal ausgeführt werden.
+    <span data-ttu-id="5c64e-118">**Hinweis**: Wählen Sie **Immer auf Dokument aufführen** aus und aktivieren Sie dazu das Kontrollkästchen, wenn der Link für den Paypal-Zahlungsverkehr immer in Verkaufsbelegen sichtbar sein soll, bei denen Zahlung mit Paypal ausgeführt werden.</span><span class="sxs-lookup"><span data-stu-id="5c64e-118">**Note**: Select the **Always Include on Documents** check box if the hyperlink for the PayPal payment service should always be visible on sales documents where payment through PayPal is enabled.</span></span>
 
-6. Schließen Sie das Fenster.
+6. <span data-ttu-id="5c64e-119">Schließen Sie das Fenster.</span><span class="sxs-lookup"><span data-stu-id="5c64e-119">Close the window.</span></span>
 
-## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a>So wählen Sie Paypal-Zahlung-Standards auf einer Verkaufsrechnung aus
-1. Auf der Startseite wählen Sie **Verkaufsrechnung** aus.
-2. Öffnen Sie die Verkaufsrechnung, auf der Sie Paypal-Zahlungen aktivieren möchten.
-3. Geben Sie im Feld **Zahlungsverkehr** Standard Paypal-Zahlungen ein.
+## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a><span data-ttu-id="5c64e-120">So wählen Sie Paypal-Zahlung-Standards auf einer Verkaufsrechnung aus</span><span class="sxs-lookup"><span data-stu-id="5c64e-120">To select PayPal Payments Standard on a sales invoice</span></span>
+1. <span data-ttu-id="5c64e-121">Auf der Startseite wählen Sie **Verkaufsrechnung** aus.</span><span class="sxs-lookup"><span data-stu-id="5c64e-121">On the Home page, choose **Sales Invoices**.</span></span>
+2. <span data-ttu-id="5c64e-122">Öffnen Sie die Verkaufsrechnung, auf der Sie Paypal-Zahlungen aktivieren möchten.</span><span class="sxs-lookup"><span data-stu-id="5c64e-122">Open the sales invoice that you want to enable PayPal payments for.</span></span>
+3. <span data-ttu-id="5c64e-123">Geben Sie im Feld **Zahlungsverkehr** Standard Paypal-Zahlungen ein.</span><span class="sxs-lookup"><span data-stu-id="5c64e-123">In the **Payment Service** field, choose PayPal Payments Standard.</span></span>
 
-**Hinweis**: Das Feld **Zahlungsverkehr** ist nur sichtbar, wenn der Paypal-Zahlungsstandard-Service ausgeführt wird.   
+<span data-ttu-id="5c64e-124">**Hinweis**: Das Feld **Zahlungsverkehr** ist nur sichtbar, wenn der Paypal-Zahlungsstandard-Service ausgeführt wird.</span><span class="sxs-lookup"><span data-stu-id="5c64e-124">**Note**: The **Payment Service** field is only visible if the PayPal Payments Standard service is enabled.</span></span>   
 
-## <a name="see-also"></a>Siehe auch  
-[Auftrag einrichten](sales-setup-sales.md)  
-[Verkauf verwalten](sales-manage-sales.md)  
-[Anpassen des Dynamics NAV mithilfe der Erweiterungen](ui-extensions.md)
+## <a name="see-also"></a><span data-ttu-id="5c64e-125">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="5c64e-125">See Also</span></span>  
+[<span data-ttu-id="5c64e-126">Auftrag einrichten</span><span class="sxs-lookup"><span data-stu-id="5c64e-126">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="5c64e-127">Verkauf verwalten</span><span class="sxs-lookup"><span data-stu-id="5c64e-127">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="5c64e-128">Anpassen des Dynamics NAV mithilfe der Erweiterungen</span><span class="sxs-lookup"><span data-stu-id="5c64e-128">Customizing Dynamics NAV Using Extensions</span></span>](ui-extensions.md)
 

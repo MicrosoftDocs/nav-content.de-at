@@ -9,32 +9,33 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ff6f595557e9fd7898c6c248759d462f72a7b195
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: e3cab661e0e75eb73ca68b706e289bab5deab028
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="create-contact-persons"></a>Anlegen von Kontaktpersonen
-Sie können für jeden Kontakt eine Kontaktkarte erstellen, der für das Unternehmen arbeitet, mit dem Sie Geschäfte machen. Für jedes Kontaktunternehmen können Sie beliebig viele Kontaktpersonen eingeben. Außerdem können Sie Kontaktkarten für die Personen erstellen, die Sie als unabhängig speichern möchten.
+# <a name="create-contact-persons"></a><span data-ttu-id="5f4eb-102">Anlegen von Kontaktpersonen</span><span class="sxs-lookup"><span data-stu-id="5f4eb-102">Create Contact Persons</span></span>
+<span data-ttu-id="5f4eb-103">Sie können für jeden Kontakt eine Kontaktkarte erstellen, der für das Unternehmen arbeitet, mit dem Sie Geschäfte machen.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-103">You can create a contact card for each contact who works for the companies you interact with.</span></span> <span data-ttu-id="5f4eb-104">Für jedes Kontaktunternehmen können Sie beliebig viele Kontaktpersonen eingeben.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-104">For each contact company you can enter as many contact persons as you want.</span></span> <span data-ttu-id="5f4eb-105">Außerdem können Sie Kontaktkarten für die Personen erstellen, die Sie als unabhängig speichern möchten.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-105">You can also create contact cards for the persons that you want to record as independent.</span></span>
 
-**Tipp**: Bevor Sie einen Kontakt anlegen, sollten Sie die Einstellungen unter **Übernahme** im Fenster **Marketing & Vertrieb Einr.** überprüfen. Die Einrichtung der Übernahme ermöglicht das automatischer Kopieren von gleichen Informationen zu Kontaktunternehmen und Kontaktpersonen (z. B. Adressdaten) vom Kontaktunternehmen zur Kontaktperson beim Erstellen einer Kontaktperson für ein erfasstes Kontaktunternehmen.
+<span data-ttu-id="5f4eb-106">**Tipp**: Bevor Sie einen Kontakt anlegen, sollten Sie die Einstellungen unter **Übernahme** im Fenster **Marketing & Vertrieb Einr.** überprüfen.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-106">**Tip**: Before creating a contact, you may want to check the **Inheritance** settings in the **Marketing Setup** window.</span></span> <span data-ttu-id="5f4eb-107">Die Einrichtung der Übernahme ermöglicht das automatischer Kopieren von gleichen Informationen zu Kontaktunternehmen und Kontaktpersonen (z. B. Adressdaten) vom Kontaktunternehmen zur Kontaktperson beim Erstellen einer Kontaktperson für ein erfasstes Kontaktunternehmen.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-107">Setting up inheritance enables information about contact companies that is common to contact persons, such as address details, to be automatically copied from the contact company to the contact person each time you create a contact person for a recorded contact company.</span></span>
 
-## <a name="to-create-a-contact-card-for-a-person"></a>So erstellen Sie eine Kontaktkarte für eine Person
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kontakte** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Wählen Sie die Aktion **Neu** aus.
-3. Geben Sie im Feld **Nr.** eine Nummer für den Kontakt ein.
+## <a name="to-create-a-contact-card-for-a-person"></a><span data-ttu-id="5f4eb-108">So erstellen Sie eine Kontaktkarte für eine Person</span><span class="sxs-lookup"><span data-stu-id="5f4eb-108">To create a contact card for a person</span></span>
+1. <span data-ttu-id="5f4eb-109">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kontakte** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-109">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5f4eb-110">Wählen Sie die Aktion **Neu** aus.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-110">Choose the **New** action.</span></span>
+3. <span data-ttu-id="5f4eb-111">Geben Sie im Feld **Nr.**</span><span class="sxs-lookup"><span data-stu-id="5f4eb-111">In the **No.**</span></span> <span data-ttu-id="5f4eb-112">eine Nummer für den Kontakt ein.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-112">field, enter a number for the contact.</span></span>
 
-    Wenn Sie im Fenster **Marketing & Vertrieb Einr.** eine Nummernserie für Kontakte eingegeben haben, können Sie alternativ auch die EINGABETASTE drücken, um die nächste verfügbare Kontaktnummer auszuwählen. Weitere Informationen finden Sie unter [Erstellen von Nummernkreisen](ui-create-number-series.md).
-4. Wählen Sie im Feld **Art** die Option **Person** aus.
-5. Füllen Sie die anderen Felder der Kontaktkarte aus.
+    <span data-ttu-id="5f4eb-113">Wenn Sie im Fenster **Marketing & Vertrieb Einr.** eine Nummernserie für Kontakte eingegeben haben, können Sie alternativ auch die EINGABETASTE drücken, um die nächste verfügbare Kontaktnummer auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-113">Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number.</span></span> <span data-ttu-id="5f4eb-114">Weitere Informationen finden Sie unter [Erstellen von Nummernkreisen](ui-create-number-series.md).</span><span class="sxs-lookup"><span data-stu-id="5f4eb-114">For more information, see [Create Number Series](ui-create-number-series.md).</span></span>
+4. <span data-ttu-id="5f4eb-115">Wählen Sie im Feld **Art** die Option **Person** aus.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-115">In the **Type** field, select **Person**.</span></span>
+5. <span data-ttu-id="5f4eb-116">Füllen Sie die anderen Felder der Kontaktkarte aus.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-116">Fill in the other fields on the contact card.</span></span>
 
-**Hinweis**: Die Inhalte der Felder, die Sie im Fenster **Übernahme** im Abschnitt **Marketing & Vertrieb Einr.** ausgewählt haben, werden für die Person aus dem Unternehmen übernommen.
+<span data-ttu-id="5f4eb-117">**Hinweis**: Die Inhalte der Felder, die Sie im Fenster **Übernahme** im Abschnitt **Marketing & Vertrieb Einr.** ausgewählt haben, werden für die Person aus dem Unternehmen übernommen.</span><span class="sxs-lookup"><span data-stu-id="5f4eb-117">**Note**: The contents of the fields that you have selected in the **Inheritance** section of the **Marketing Setup** window are copied from the company to the persons within that company.</span></span>
 
-##<a name="see-also"></a>Siehe auch
-[Einrichten von Marketing und der Kontaktverwaltung](marketing-setup-marketing.md)  
-[Einrichten von Verteilergruppen für Kontakte](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
-[Einrichten von Verantwortlichkeiten für Kontakte](marketing-job-responsibilities.md)  
-[Einrichten von Position für Kontaktpersonen](marketing-organizational-levels.md)  
-[Synchronisieren von Kontakten mit Debitoren, Kreditoren und Bankkonten](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
+##<a name="see-also"></a><span data-ttu-id="5f4eb-118">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="5f4eb-118">See Also</span></span>
+[<span data-ttu-id="5f4eb-119">Einrichten von Marketing und der Kontaktverwaltung</span><span class="sxs-lookup"><span data-stu-id="5f4eb-119">Set Up Marketing and Contact Management</span></span>](marketing-setup-marketing.md)  
+<span data-ttu-id="5f4eb-120">[Einrichten von Verteilergruppen für Kontakte](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
+[Einrichten von Verantwortlichkeiten für Kontakte](marketing-job-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="5f4eb-120">[Set Up Mailing Groups on Contacts](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
+[Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md)</span></span>  
+[<span data-ttu-id="5f4eb-121">Einrichten von Position für Kontaktpersonen</span><span class="sxs-lookup"><span data-stu-id="5f4eb-121">Set Up Organizational Levels for Contact Persons</span></span>](marketing-organizational-levels.md)  
+[<span data-ttu-id="5f4eb-122">Synchronisieren von Kontakten mit Debitoren, Kreditoren und Bankkonten</span><span class="sxs-lookup"><span data-stu-id="5f4eb-122">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span></span>](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 

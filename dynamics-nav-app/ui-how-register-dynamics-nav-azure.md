@@ -11,52 +11,52 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Vorgehensweise: Dynamics NAV im Azure Management Portal anmelden
-Wenn Sie Services verwenden wollen, die auf Microsoft Azure sind, müssen Sie Ihr Dynamics NAV im Azure Management Portal erfassen. Beispielsweise benötigt die Erweiterung [Verkauf- und Lagerplanung](ui-extensions-sales-forecast.md), dass Sie einen API-Schlüssel und API URI festlegen, und andere Services können ähnliche Informationen erfordern. Wo findet man diese Informationen?
+# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a><span data-ttu-id="0f0c8-102">Vorgehensweise: Dynamics NAV im Azure Management Portal anmelden</span><span class="sxs-lookup"><span data-stu-id="0f0c8-102">How to: Register Dynamics NAV in the Azure Management Portal</span></span>
+<span data-ttu-id="0f0c8-103">Wenn Sie Services verwenden wollen, die auf Microsoft Azure sind, müssen Sie Ihr Dynamics NAV im Azure Management Portal erfassen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-103">If you want to use services that are based on Microsoft Azure, you must register your Dynamics NAV in the Azure Management Portal.</span></span> <span data-ttu-id="0f0c8-104">Beispielsweise benötigt die Erweiterung [Verkauf- und Lagerplanung](ui-extensions-sales-forecast.md), dass Sie einen API-Schlüssel und API URI festlegen, und andere Services können ähnliche Informationen erfordern.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-104">For example, the [Sales and Inventory Forecast](ui-extensions-sales-forecast.md) extension requires that you specify an API key and API URI, and other services require similar information.</span></span> <span data-ttu-id="0f0c8-105">Wo findet man diese Informationen?</span><span class="sxs-lookup"><span data-stu-id="0f0c8-105">So where do you find that information?</span></span>
 
-Sie können das** **Einrichtung des Azure Management Portals** verwenden, um Dynamics NAV im Azure Management Portal zu registrieren, um Informationen, die Sie für Dienste wie für die Verkaufs- und Lagerbestand-Planungserweiterung, Power BI, Office 365 etc. brauchen, abzurufen. Sie müssen sich nur einmal im Azure Management Portal anmelden und Sie müssen ein Administrator oder Superbenutzer in Dynamics NAV sein.
+<span data-ttu-id="0f0c8-106">Sie können das** **Einrichtung des Azure Management Portals** verwenden, um Dynamics NAV im Azure Management Portal zu registrieren, um Informationen, die Sie für Dienste wie für die Verkaufs- und Lagerbestand-Planungserweiterung, Power BI, Office 365 etc. brauchen, abzurufen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-106">You can use the **Set Up Azure Management Portal** guide to register Dynamics NAV in the Azure Management Portal and extract the information you need to use services such as the Sales and Inventory Forecast extension, Power BI, Office 365, and so on.</span></span> <span data-ttu-id="0f0c8-107">Sie müssen sich nur einmal im Azure Management Portal anmelden und Sie müssen ein Administrator oder Superbenutzer in Dynamics NAV sein.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-107">You must register in the Azure Management Portal only once, and you must be an administrator or superuser in Dynamics NAV.</span></span>
 
-Grund dafür ist, dass Dynamics NAV und der Dienst, mit dem Sie sich verbinden möchten, voneinander die Details für das Azure Active Directory (Azure AD) kennen muss.
+<span data-ttu-id="0f0c8-108">Grund dafür ist, dass Dynamics NAV und der Dienst, mit dem Sie sich verbinden möchten, voneinander die Details für das Azure Active Directory (Azure AD) kennen muss.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-108">The point of the registration is that Dynamics NAV and the service that you want to connect to must know the Azure Active Directory (Azure AD) details about each other.</span></span>
 
-## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Um sich bei Dynamics NAV im Azure Management Portal anzumelden
-1. Melden Sie sich beim Azure Management Portal an unter [https://portal.azure.com](https://portal.azure.com).
-    Wenn Sie nicht mit Azure Management Portal vertraut sind, finden Sie bestimme Anleitung in der [Azure Dokumentenbibliothek](https://azure.microsoft.com/en-us/documentation/articles).
-2. Im Navigationsbereich links wählen Sie **Weitere Dienste** und wählen dann **App Anmeldung**.
-3. Im ersten Menü wählen Sie **Hinzufügen** und **Bereich erstellen**, füllen Sie die Felder mit den folgenden Informationen aus:
-    - **Name**: Geben Sie einen Namen für Ihre Dynamics NAV wie *Dynamics NAV* an.
-    - **Anwendungstyp**: Wählen Sie **Web-Anwendung* / API**.
-    - **Anmeldungs-URL**: Geben Sie die URL für Ihren Dynamics NAV-Browserclient ein, wie *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
-        Die OAuthLanding.htm- Datei ist eine Datei, die Ihnen dabei hilft den Austausch von Daten zwischen Dynamics NAV und anderen Diensten über Azure AD zu verwalten.
-4. Klicken Sie auf die Schaltfläche **Erstellen**.
-    Dadurch wird Ihr Dynamics NAV dem **App-Registrierungsbereich** hinzugefügt, sodass Sie jetzt Einstellungen hinzufügen können.
-5. In der **App-Registrierungsliste** wählen Sie Ihre neue App aus. Wenn sich der Bereich **Einstellungen** nicht öffnet, sollten Sie eine Aktion vornehmen, um **Einstellungen** zu öffnen.
-6. Im Bereich **Einstellungen** im Abschnitt **API-Zugang** wählen Sie **Schlüssel** aus.
-7. Im Bereich **Schlüssel** geben Sie eine Beschreibung ein und wenn Sie den Schlüssel ablaufen lassen möchten, wählen Sie **Speichern**.
-8. Kopieren Sie den generierten Schlüssel an einen temporäres Lagerort - Sie benötigen dies im folgenden Verfahren.
-9. Im Abschnitt **API Access** wählen Sie **Erforderliche Berechtigungen**.
-    - Fügen Sie "Delegierute Berechtigungen" hinzu, um alle Berichte im Power BI-Dienst zu sehen.
-    - Fügen Sie "Delegierte Berechtigungen" hinzu, um Lesebenutzerprofile zu Windows Azure Active Directory zu unterzeichnen und zu lesen.
-    - Wiederholen Sie diesen Vorgang für andere Diensten, für den Sie Zugriff auf Ihren Dynamics NAV gewähren wollen.
-10. Schließen Sie den Bereich **Einstellungen** und kopieren Sie im Abschnitt **Grundlagen** den Wert der **Anwendungs-ID** an einen temporären Ort.
+## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a><span data-ttu-id="0f0c8-109">Um sich bei Dynamics NAV im Azure Management Portal anzumelden</span><span class="sxs-lookup"><span data-stu-id="0f0c8-109">To register Dynamics NAV in the Azure Management Portal</span></span>
+1. <span data-ttu-id="0f0c8-110">Melden Sie sich beim Azure Management Portal an unter [https://portal.azure.com](https://portal.azure.com).</span><span class="sxs-lookup"><span data-stu-id="0f0c8-110">Log in to the Azure Management Portal at [https://portal.azure.com](https://portal.azure.com).</span></span>
+    <span data-ttu-id="0f0c8-111">Wenn Sie nicht mit Azure Management Portal vertraut sind, finden Sie bestimme Anleitung in der [Azure Dokumentenbibliothek](https://azure.microsoft.com/en-us/documentation/articles).</span><span class="sxs-lookup"><span data-stu-id="0f0c8-111">If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).</span></span>
+2. <span data-ttu-id="0f0c8-112">Im Navigationsbereich links wählen Sie **Weitere Dienste** und wählen dann **App Anmeldung**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-112">In the left navigation pane, choose **More services**, and then choose **App registrations**.</span></span>
+3. <span data-ttu-id="0f0c8-113">Im ersten Menü wählen Sie **Hinzufügen** und **Bereich erstellen**, füllen Sie die Felder mit den folgenden Informationen aus:</span><span class="sxs-lookup"><span data-stu-id="0f0c8-113">In the top menu, choose **Add**, and then, in the **Create pane**, fill in the fields with the following information:</span></span>
+    - <span data-ttu-id="0f0c8-114">**Name**: Geben Sie einen Namen für Ihre Dynamics NAV wie *Dynamics NAV* an.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-114">**Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.</span></span>
+    - <span data-ttu-id="0f0c8-115">**Anwendungstyp**: Wählen Sie **Web-Anwendung* / API**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-115">**Application Type**: Choose **Web app* / API**.</span></span>
+    - <span data-ttu-id="0f0c8-116">**Anmeldungs-URL**: Geben Sie die URL für Ihren Dynamics NAV-Browserclient ein, wie *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-116">**Sign-on URL**: Enter the URL for your Dynamics NAV browser client, such as *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.</span></span>
+        <span data-ttu-id="0f0c8-117">Die OAuthLanding.htm- Datei ist eine Datei, die Ihnen dabei hilft den Austausch von Daten zwischen Dynamics NAV und anderen Diensten über Azure AD zu verwalten.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-117">The OAuthLanding.htm file is a file that helps manage the exchange of data between Dynamics NAV and other services through Azure AD.</span></span>
+4. <span data-ttu-id="0f0c8-118">Klicken Sie auf die Schaltfläche **Erstellen**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-118">Choose the **Create** button.</span></span>
+    <span data-ttu-id="0f0c8-119">Dadurch wird Ihr Dynamics NAV dem **App-Registrierungsbereich** hinzugefügt, sodass Sie jetzt Einstellungen hinzufügen können.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-119">This adds your Dynamics NAV to the **App registrations pane**, so you can now add settings to it.</span></span>
+5. <span data-ttu-id="0f0c8-120">In der **App-Registrierungsliste** wählen Sie Ihre neue App aus.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-120">In the **App registrations list**, choose your new app.</span></span> <span data-ttu-id="0f0c8-121">Wenn sich der Bereich **Einstellungen** nicht öffnet, sollten Sie eine Aktion vornehmen, um **Einstellungen** zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-121">If this does not open the **Settings** pane, you should see an action to open **Settings**.</span></span>
+6. <span data-ttu-id="0f0c8-122">Im Bereich **Einstellungen** im Abschnitt **API-Zugang** wählen Sie **Schlüssel** aus.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-122">In the **Settings** pane, in the **API Access** section, choose **Keys**.</span></span>
+7. <span data-ttu-id="0f0c8-123">Im Bereich **Schlüssel** geben Sie eine Beschreibung ein und wenn Sie den Schlüssel ablaufen lassen möchten, wählen Sie **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-123">In the **Keys** pane, specify a description and when you want to let the key expire, and then choose **Save**.</span></span>
+8. <span data-ttu-id="0f0c8-124">Kopieren Sie den generierten Schlüssel an einen temporäres Lagerort - Sie benötigen dies im folgenden Verfahren.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-124">Copy the generated key to a temporary location - you will need it in the next procedure.</span></span>
+9. <span data-ttu-id="0f0c8-125">Im Abschnitt **API Access** wählen Sie **Erforderliche Berechtigungen**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-125">In the **API Access** section, choose **Required Permissions**.</span></span>
+    - <span data-ttu-id="0f0c8-126">Fügen Sie "Delegierute Berechtigungen" hinzu, um alle Berichte im Power BI-Dienst zu sehen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-126">Add delegated permissions to view all reports to the Power BI Service</span></span>
+    - <span data-ttu-id="0f0c8-127">Fügen Sie "Delegierte Berechtigungen" hinzu, um Lesebenutzerprofile zu Windows Azure Active Directory zu unterzeichnen und zu lesen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-127">Add delegated permissions to Sign In and read user profile to Windows Azure Active Directory</span></span>
+    - <span data-ttu-id="0f0c8-128">Wiederholen Sie diesen Vorgang für andere Diensten, für den Sie Zugriff auf Ihren Dynamics NAV gewähren wollen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-128">Repeat for other services that you want to grant access to your Dynamics NAV</span></span>
+10. <span data-ttu-id="0f0c8-129">Schließen Sie den Bereich **Einstellungen** und kopieren Sie im Abschnitt **Grundlagen** den Wert der **Anwendungs-ID** an einen temporären Ort.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-129">Close the **Settings** pane, and then, in the **Essentials** pane, copy the value of the **Application ID** to a temporary location.</span></span>
 
-Sie haben jetzt Ihr Dynamics NAV im Azure Management Portal erfasst, Sie haben Zugang zu den relevanten Diensten gewährt und Sie haben die Daten extrahiert, die Sie in Dynamics NAV benötigen.  
+<span data-ttu-id="0f0c8-130">Sie haben jetzt Ihr Dynamics NAV im Azure Management Portal erfasst, Sie haben Zugang zu den relevanten Diensten gewährt und Sie haben die Daten extrahiert, die Sie in Dynamics NAV benötigen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-130">You have now registered your Dynamics NAV in the Azure Management Portal, you have given access to the relevant services, and you have extracted the information that you need in Dynamics NAV.</span></span>  
 
-## <a name="to-add-the-information-to-dynamics-nav"></a>Um Informationen Dynamics NAV hinzuzufügen
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben Sie den **Azure AD Anwendungseinrichtungsassistenten** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Im Assistenten wählen Sie **Weiter**.
-3. Im Feld **Client ID** geben Sie den Inhalt an, den Sie zuvor vom Feld **Anwendungs-ID** kopiert haben.
-4. Im Feld **Geheimschlüssel** geben Sie den Inhalt an, den Sie zuvor vom Feld **Schlüssel** kopiert haben.
-5. Wählen Sie **Weiter** aus. Sofern Sie keine Fehlermeldung erhalten, ist der Prozess abgeschlossen.
+## <a name="to-add-the-information-to-dynamics-nav"></a><span data-ttu-id="0f0c8-131">Um Informationen Dynamics NAV hinzuzufügen</span><span class="sxs-lookup"><span data-stu-id="0f0c8-131">To add the information to Dynamics NAV</span></span>
+1. <span data-ttu-id="0f0c8-132">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben Sie den **Azure AD Anwendungseinrichtungsassistenten** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Azure AD Application Setup Wizard**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0f0c8-133">Im Assistenten wählen Sie **Weiter**.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-133">In the wizard, choose **Next**.</span></span>
+3. <span data-ttu-id="0f0c8-134">Im Feld **Client ID** geben Sie den Inhalt an, den Sie zuvor vom Feld **Anwendungs-ID** kopiert haben.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-134">In the **Client ID** field, specify the content that you copied from the **Application ID** field earlier.</span></span>
+4. <span data-ttu-id="0f0c8-135">Im Feld **Geheimschlüssel** geben Sie den Inhalt an, den Sie zuvor vom Feld **Schlüssel** kopiert haben.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-135">In the **Secret Key** field, specify the content that you copied from the **Keys** pane earlier.</span></span>
+5. <span data-ttu-id="0f0c8-136">Wählen Sie **Weiter** aus.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-136">Choose **Next**.</span></span> <span data-ttu-id="0f0c8-137">Sofern Sie keine Fehlermeldung erhalten, ist der Prozess abgeschlossen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-137">Unless you see an error message, you are now done.</span></span>
 
-Ihr Dynamics NAV wurde erfasst und vorbereitet, um eine Verbindung zu einem Dienst wie Cortana Intelligence und Power BI herzustellen.
+<span data-ttu-id="0f0c8-138">Ihr Dynamics NAV wurde erfasst und vorbereitet, um eine Verbindung zu einem Dienst wie Cortana Intelligence und Power BI herzustellen.</span><span class="sxs-lookup"><span data-stu-id="0f0c8-138">Your Dynamics NAV is registered and ready to connect to services such as Cortana Intelligence and Power BI.</span></span>
 
-## <a name="see-also"></a>Siehe auch
-[Geplanter voraussichtlicher Verkauf und Lagerbestand](ui-extensions-sales-forecast.md)  
-[Dynamics NAV einrichten](setup.md)  
+## <a name="see-also"></a><span data-ttu-id="0f0c8-139">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="0f0c8-139">See Also</span></span>
+[<span data-ttu-id="0f0c8-140">Geplanter voraussichtlicher Verkauf und Lagerbestand</span><span class="sxs-lookup"><span data-stu-id="0f0c8-140">Sales and Inventory Forecast</span></span>](ui-extensions-sales-forecast.md)  
+[<span data-ttu-id="0f0c8-141">Dynamics NAV einrichten</span><span class="sxs-lookup"><span data-stu-id="0f0c8-141">Set Up Your Dynamics NAV</span></span>](setup.md)  
 
