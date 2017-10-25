@@ -1,1 +1,1 @@
-<span data-ttu-id="66f7a-101">Microsoft Dynamics NAV-Einheits-App</span><span class="sxs-lookup"><span data-stu-id="66f7a-101">Microsoft Dynamics NAV Universal App</span></span>
+<span data-ttu-id="2bfbc-101">Microsoft Dynamics NAV Universelle Anwendung</span><span class="sxs-lookup"><span data-stu-id="2bfbc-101">Microsoft Dynamics NAV Universal App</span></span>

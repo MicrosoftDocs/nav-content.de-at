@@ -1,1 +1,1 @@
-<span data-ttu-id="9c414-101">CRONUS AG</span><span class="sxs-lookup"><span data-stu-id="9c414-101">CRONUS International Ltd.</span></span> <span data-ttu-id="9c414-102">-Demonstrationsdatenbank</span><span class="sxs-lookup"><span data-stu-id="9c414-102">demonstration database</span></span>
+<span data-ttu-id="a4e89-101">Demodatenbank "CRONUS AG"</span><span class="sxs-lookup"><span data-stu-id="a4e89-101">CRONUS International Ltd. demonstration database</span></span>

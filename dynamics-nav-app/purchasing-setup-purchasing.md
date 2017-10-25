@@ -1,38 +1,40 @@
 ---
-title: "Einkäufer einrichten:"
+title: "Überblick der Aufgaben zum Einrichten von Einkäufen"
+description: Beschreibt die Aufgaben, um die Beschaffungsrichtlinien Ihres Mandanten festzulegen und Ihre Einkaufsprozesse einzurichten.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-purchasing"></a><span data-ttu-id="df173-103">Einkauf einrichten</span><span class="sxs-lookup"><span data-stu-id="df173-103">Setting Up Purchasing</span></span>
+<span data-ttu-id="df173-104">Bevor Sie Einkaufsprozesse verwalten können, müssen die Regeln und Werte konfiguriert werden, die die Einkaufsrichtlinien des Mandanten definieren.</span><span class="sxs-lookup"><span data-stu-id="df173-104">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</span></span>
 
-# <a name="set-up-purchasing"></a><span data-ttu-id="152c0-102">Einkäufer einrichten:</span><span class="sxs-lookup"><span data-stu-id="152c0-102">Set Up Purchasing</span></span>
-<span data-ttu-id="152c0-103">Bevor Sie Einkaufsprozesse verwalten können, müssen die Regeln und Werte konfiguriert werden, die die Einkaufsrichtlinien des Mandanten definieren.</span><span class="sxs-lookup"><span data-stu-id="152c0-103">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</span></span>
+<span data-ttu-id="df173-105">Definieren Sie zunächst die allgemeinen Einstellungen wie die erforderlichen Belege und die gewünschte Buchung der entsprechenden Werte.</span><span class="sxs-lookup"><span data-stu-id="df173-105">You must define the general setup, such as which purchase documents are required and how their values are posted.</span></span> <span data-ttu-id="df173-106">Diese allgemeine Einrichtung erfolgt in der Regel einmal bei der anfänglichen Implementierung.</span><span class="sxs-lookup"><span data-stu-id="df173-106">This general setup is typically performed once during the initial implementation.</span></span>
 
-<span data-ttu-id="152c0-104">Definieren Sie zunächst die allgemeinen Einstellungen wie die erforderlichen Belege und die gewünschte Buchung der entsprechenden Werte.</span><span class="sxs-lookup"><span data-stu-id="152c0-104">First, you must define the general setup, such as which purchase documents are required and how their values are posted.</span></span> <span data-ttu-id="152c0-105">Diese allgemeine Einrichtung erfolgt in der Regel einmal bei der anfänglichen Implementierung.</span><span class="sxs-lookup"><span data-stu-id="152c0-105">This general setup is typically performed once during the initial implementation.</span></span>
+<span data-ttu-id="df173-107">Eine separate Reihe von Aufgaben, die mit der Erfassung neuer Kreditoren im Zusammenhang stehen, dient dazu, alle Sonderpreis oder Rabattvereinbarungen zu speichern, die Sie mit einzelnen Kreditoren haben.</span><span class="sxs-lookup"><span data-stu-id="df173-107">A separate series of tasks related to registering new vendors is to record any special price or discount agreements that you have with each vendor.</span></span>
 
-<span data-ttu-id="152c0-106">Eine weitere Aufgabengruppe im Zusammenhang mit der Erstellung von Kreditorenmasterdaten ist die Erfassung der Rabatt- und Preisvereinbarungen der Kreditoren. Diese erfolgt in Fenstern, die mit den Kreditorenkarten verknüpft sind.</span><span class="sxs-lookup"><span data-stu-id="152c0-106">A separate series of tasks related to creating vendor master data is to record the vendors' discount and price agreements in windows linked to the vendor cards.</span></span>
+<span data-ttu-id="df173-108">Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt.</span><span class="sxs-lookup"><span data-stu-id="df173-108">Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="df173-109">Weitere Informationen finden Sie unter [Einrichten von Finanzen](finance-setup-finance.md).</span><span class="sxs-lookup"><span data-stu-id="df173-109">For more information, see [Setting Up Finance](finance-setup-finance.md).</span></span>
 
-<span data-ttu-id="152c0-107">Die periodische Aktivität zur Erstellung der Kreditorenkarten für neue Kreditoren wird im Abschnitt "Einkauf verwalten" behandelt.</span><span class="sxs-lookup"><span data-stu-id="152c0-107">The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section.</span></span> <span data-ttu-id="152c0-108">Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Kreditoren](purchasing-how-register-new-vendors.md).</span><span class="sxs-lookup"><span data-stu-id="152c0-108">For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).</span></span>
+| <span data-ttu-id="df173-110">An</span><span class="sxs-lookup"><span data-stu-id="df173-110">To</span></span> | <span data-ttu-id="df173-111">Siehe</span><span class="sxs-lookup"><span data-stu-id="df173-111">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="df173-112">Erstellen Sie eine Kreditorenkarte für jeden Kreditor, von dem Sie einkaufen.</span><span class="sxs-lookup"><span data-stu-id="df173-112">Create a vendor card for each vendor that you purchase from</span></span>|[<span data-ttu-id="df173-113">Vorgehensweise: Einen neuen Kreditor registrieren</span><span class="sxs-lookup"><span data-stu-id="df173-113">How to: Register New Vendors</span></span>](purchasing-how-register-new-vendors.md) |
+| <span data-ttu-id="df173-114">Eingeben der unterschiedlichen Rabatte und alternativen Preise, die vom Kreditor in Abhängigkeit des Artikels, der Menge und/oder des Datums gewährt werden</span><span class="sxs-lookup"><span data-stu-id="df173-114">Enter the different discounts and special prices that vendors grant you depending on item, quantities, and/or date</span></span> |[<span data-ttu-id="df173-115">Erfassen von Einkaufspreisen, Skonti und Zahlungsvereinbarungen</span><span class="sxs-lookup"><span data-stu-id="df173-115">How to: Record Purchase Price, Discount, and Payment Agreements</span></span>](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| <span data-ttu-id="df173-116">Kreditoren priorisieren</span><span class="sxs-lookup"><span data-stu-id="df173-116">Prioritize vendors</span></span> |[<span data-ttu-id="df173-117">Vorgehensweise: Priorisieren von Kreditoren</span><span class="sxs-lookup"><span data-stu-id="df173-117">How to: Prioritize Vendors</span></span>](purchasing-how-prioritize-vendors.md) |
+| <span data-ttu-id="df173-118">Einkäufer einrichten</span><span class="sxs-lookup"><span data-stu-id="df173-118">Set up purchasers</span></span> |[<span data-ttu-id="df173-119">Vorgehensweise: Einrichten von Einkäufern</span><span class="sxs-lookup"><span data-stu-id="df173-119">How to: Set Up Purchasers</span></span>](purchasing-how-setup-purchasers.md) |
 
-<span data-ttu-id="152c0-109">Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt.</span><span class="sxs-lookup"><span data-stu-id="152c0-109">Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="152c0-110">Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-setup-finance-setup.md).</span><span class="sxs-lookup"><span data-stu-id="152c0-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span></span>
-
-|<span data-ttu-id="152c0-111">Aktion</span><span class="sxs-lookup"><span data-stu-id="152c0-111">To</span></span> |<span data-ttu-id="152c0-112">Siehe</span><span class="sxs-lookup"><span data-stu-id="152c0-112">See</span></span> |
-|---|----|
-|<span data-ttu-id="152c0-113">Eingeben der unterschiedlichen Rabatte und alternativen Preise, die vom Kreditor in Abhängigkeit des Artikels, der Menge und/oder des Datums gewährt werden</span><span class="sxs-lookup"><span data-stu-id="152c0-113">Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.</span></span>|[<span data-ttu-id="152c0-114">Erfassen von Einkaufspreisen, Skonti und Zahlungsvereinbarungen</span><span class="sxs-lookup"><span data-stu-id="152c0-114">Record Purchase Price, Discount, and Payment Agreements</span></span>](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|<span data-ttu-id="152c0-115">Kreditoren priorisieren</span><span class="sxs-lookup"><span data-stu-id="152c0-115">Prioritize vendors.</span></span>|[<span data-ttu-id="152c0-116">Vorgehensweise: Priorisieren von Kreditoren</span><span class="sxs-lookup"><span data-stu-id="152c0-116">How to: Prioritize Vendors</span></span>](purchasing-how-prioritize-vendors.md)|
-|<span data-ttu-id="152c0-117">Einkäufer einrichten</span><span class="sxs-lookup"><span data-stu-id="152c0-117">Set up purchasers.</span></span>|[<span data-ttu-id="152c0-118">Vorgehensweise: Einrichten von Einkäufern</span><span class="sxs-lookup"><span data-stu-id="152c0-118">How to: Set Up Purchasers</span></span>](purchasing-how-setup-purchasers.md)|
-
-## <a name="see-also"></a><span data-ttu-id="152c0-119">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="152c0-119">See Also</span></span>
-[<span data-ttu-id="152c0-120">Einkauf verwalten</span><span class="sxs-lookup"><span data-stu-id="152c0-120">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="df173-120">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="df173-120">See Also</span></span>
+[<span data-ttu-id="df173-121">Einkauf</span><span class="sxs-lookup"><span data-stu-id="df173-121">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="df173-122">[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="df173-122">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

@@ -1,39 +1,53 @@
 ---
-title: "So gehts: Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren"
+title: "Ausgleichen von Posten in unterschiedlichen Währungen"
+description: "Wenn Sie an einen Debitor in einer Währung verkaufen, die Zahlung jedoch in einer anderen Währung erfolgt, kann die Rechnung mit der Zahlung ausgeglichen werden."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 7d6ce2a9133b02a1a38cd853c34b1f3440e7a50e
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: multiple currencies, payment, reconcile
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f323b98472f3e2ef0f28000f8a9140b066206945
 ms.contentlocale: de-at
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="b0aa3-103">So gehts: Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren</span><span class="sxs-lookup"><span data-stu-id="b0aa3-103">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
+<span data-ttu-id="b0aa3-104">Falls Sie Einkäufe von einem Kreditor in einer Währung tätigen und die Zahlung in einer anderen Währung leisten, können Sie die Zahlung mit dem Einkauf ausgleichen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-104">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
 
-# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="4bb1d-102">So gehts: Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren</span><span class="sxs-lookup"><span data-stu-id="4bb1d-102">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
-<span data-ttu-id="4bb1d-103">Falls Sie Einkäufe von einem Kreditor in einer Währung tätigen und die Zahlung in einer anderen Währung leisten, können Sie die Zahlung mit dem Einkauf ausgleichen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-103">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
+<span data-ttu-id="b0aa3-105">Wenn Sie entsprechend an einen Debitor in einer Währung verkaufen und die Zahlung in einer anderen Währung erhalten, können Sie die Zahlung mit der Verkaufsrechnung ausgleichen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-105">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
 
-<span data-ttu-id="4bb1d-104">Wenn Sie entsprechend an einen Debitor in einer Währung verkaufen und die Zahlung in einer anderen Währung erhalten, können Sie die Zahlung mit der Verkaufsrechnung ausgleichen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-104">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
+<span data-ttu-id="b0aa3-106">Im Folgenden wird beschrieben, wie dies für Kreditorenposten im Fenster **Kreditoren & Einkauf Einrichtung** eingerichtet wird.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-106">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="b0aa3-107">Die Einrichtung für Debitorenposten im Fenster **Debitoren & Verkauf Einrichtung** ist ähnlich.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-107">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
 
-<span data-ttu-id="4bb1d-105">Im Folgenden wird beschrieben, wie dies für Kreditorenposten im Fenster **Kreditoren & Einkauf Einrichtung** eingerichtet wird.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-105">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="4bb1d-106">Die Einrichtung für Debitorenposten im Fenster **Debitoren & Verkauf Einrichtung** ist ähnlich.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-106">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="b0aa3-108">So aktivieren Sie den Ausgleich von Kreditorenposten in unterschiedlichen Währungen</span><span class="sxs-lookup"><span data-stu-id="b0aa3-108">To enable application of vendor ledger entries in different currencies</span></span>
+1. <span data-ttu-id="b0aa3-109">Wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht  suchen")und geben **Kreditoren- und Debitoren-Einrichtung** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="b0aa3-110">Wählen Sie im Feld **Währungsausgleich** eine der folgenden Optionen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-110">In the **Appln. between Currencies** field, select one of the following options.</span></span>
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="4bb1d-107">So aktivieren Sie den Ausgleich von Kreditorenposten in unterschiedlichen Währungen</span><span class="sxs-lookup"><span data-stu-id="4bb1d-107">To enable application of vendor ledger entries in different currencies</span></span>
-1. <span data-ttu-id="4bb1d-108">Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Kreditoren & Einkauf Einrichtung** ein. Wählen Sie dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-108">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="4bb1d-109">Wählen Sie im Feld **Währungsausgleich** eine der folgenden Optionen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-109">In the **Appln. between Currencies** field, select one of the following options.</span></span>
+| <span data-ttu-id="b0aa3-111">Option</span><span class="sxs-lookup"><span data-stu-id="b0aa3-111">Option</span></span> | <span data-ttu-id="b0aa3-112">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="b0aa3-112">Description</span></span> |
+| --- | --- |
+| <span data-ttu-id="b0aa3-113">Keine</span><span class="sxs-lookup"><span data-stu-id="b0aa3-113">None</span></span> |<span data-ttu-id="b0aa3-114">Ausgleich zwischen Währungen ist nicht zugelassen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-114">Application between currencies is not allowed.</span></span> |
+| <span data-ttu-id="b0aa3-115">EWU</span><span class="sxs-lookup"><span data-stu-id="b0aa3-115">EMU</span></span> |<span data-ttu-id="b0aa3-116">Ausgleich zwischen EWU-Währungen ist zugelassen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-116">Application between EMU currencies is allowed.</span></span> |
+| <span data-ttu-id="b0aa3-117">Alle</span><span class="sxs-lookup"><span data-stu-id="b0aa3-117">All</span></span> |<span data-ttu-id="b0aa3-118">Ausgleich zwischen allen Währungen ist zugelassen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-118">Application between all currencies is allowed.</span></span> |
 
-|<span data-ttu-id="4bb1d-110">Option</span><span class="sxs-lookup"><span data-stu-id="4bb1d-110">Option</span></span> |<span data-ttu-id="4bb1d-111">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="4bb1d-111">Description</span></span> |
-|-------|------------|
-|<span data-ttu-id="4bb1d-112">Keine</span><span class="sxs-lookup"><span data-stu-id="4bb1d-112">None</span></span>|<span data-ttu-id="4bb1d-113">Ausgleich zwischen Währungen ist nicht zugelassen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-113">Application between currencies is not allowed.</span></span>|
-|<span data-ttu-id="4bb1d-114">EWU</span><span class="sxs-lookup"><span data-stu-id="4bb1d-114">EMU</span></span>|<span data-ttu-id="4bb1d-115">Ausgleich zwischen EWU-Währungen ist zugelassen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-115">Application between EMU currencies is allowed.</span></span>|
-|<span data-ttu-id="4bb1d-116">Alle</span><span class="sxs-lookup"><span data-stu-id="4bb1d-116">All</span></span>|<span data-ttu-id="4bb1d-117">Ausgleich zwischen allen Währungen ist zugelassen.</span><span class="sxs-lookup"><span data-stu-id="4bb1d-117">Application between all currencies is allowed.</span></span>
+## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><span data-ttu-id="b0aa3-119">So richten Sie Sachkonten für Rundungsdifferenzen beim Währungsausgleich ein</span><span class="sxs-lookup"><span data-stu-id="b0aa3-119">To set up G/L accounts for currency application rounding differences</span></span>  
+<span data-ttu-id="b0aa3-120">Wenn Sie Posten in unterschiedlichen Währungen ausgleichen, müssen Sie die Sachkonten einrichten, auf die Sie die Rundungsdifferenzen buchen möchten.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-120">If you apply entries in different currencies, you must set up the general ledger accounts to which you want to post rounding differences.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="4bb1d-118">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="4bb1d-118">See Also</span></span>  
-[<span data-ttu-id="4bb1d-119">Verwalten von Verbindlichkeiten</span><span class="sxs-lookup"><span data-stu-id="4bb1d-119">Manage Payables</span></span>](payables-manage-payables.md)  
-[<span data-ttu-id="4bb1d-120">Verwalten von Forderungen</span><span class="sxs-lookup"><span data-stu-id="4bb1d-120">Manage Receivables</span></span>](receivables-manage-receivables.md)
+> [!NOTE]  
+>  <span data-ttu-id="b0aa3-121">Sie müssen die Sachkonten einrichten, bevor Sie die Aufgabe abschließen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-121">You must set up the general ledger accounts before you complete the task.</span></span> <span data-ttu-id="b0aa3-122">Weitere Informationen finden Sie unter [Die Finanzbuchhaltung und der Kontenplan verstehen](finance-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="b0aa3-122">For more information, see [Understanding the General Ledger and the Chart of Accounts](finance-general-ledger.md).</span></span>
+
+1. <span data-ttu-id="b0aa3-123">Wählen Sie das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Symbol Nach Seite oder Bericht suchen"), geben **Debitorenbuchungsgruppen** ein und wählen dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-123">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="b0aa3-124">Geben Sie in die Felder **Währungsausgl. Rund.-Sollkto.** und **Währungsausgl. Rund.-Habenkto.** die entsprechenden Sachkonten ein, um Rundungsdifferenzen zu buchen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-124">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+3. <span data-ttu-id="b0aa3-125">Wählen Sie das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Symbol Nach Seite oder Bericht suchen"), geben **Kreditorenbuchungsgruppen** ein und wählen dann den zugehörigen Link aus.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-125">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendor Posting Groups**, and then choose the related link.</span></span>  
+4. <span data-ttu-id="b0aa3-126">Geben Sie in die Felder **Währungsausgl. Rund.-Sollkto.** und **Währungsausgl. Rund.-Habenkto.** die entsprechenden Sachkonten ein, um Rundungsdifferenzen zu buchen.</span><span class="sxs-lookup"><span data-stu-id="b0aa3-126">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="b0aa3-127">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="b0aa3-127">See Also</span></span>
+[<span data-ttu-id="b0aa3-128">Verwalten von Verbindlichkeiten|</span><span class="sxs-lookup"><span data-stu-id="b0aa3-128">Managing Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="b0aa3-129">Verwalten von Forderungen</span><span class="sxs-lookup"><span data-stu-id="b0aa3-129">Managing Receivables</span></span>](receivables-manage-receivables.md)  
+<span data-ttu-id="b0aa3-130">[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b0aa3-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

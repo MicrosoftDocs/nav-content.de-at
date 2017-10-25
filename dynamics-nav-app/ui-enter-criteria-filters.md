@@ -1,73 +1,193 @@
 ---
-title: Eingeben von Kriterien in Filtern
-author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
+title: Daten und das Eingeben von Filterkriterien finden
+description: Beschreibt, wie mit Filtern, wie Schnellfilter, gearbeitet wird, um Suchergebnisse zu verfeinern, wenn Sie Daten suchen.
+documentationcenter: 
+author: jswymer
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: df386e1195db385ee053b69fec0f5082d8df4116
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: delimit, FlowFilter
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f981d303f75bba627e224e49b9e2f2818246fe39
 ms.contentlocale: de-at
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="searching-filtering-and-sorting-data"></a><span data-ttu-id="32261-103">Ermitteln, filternd und Sortieren von Daten</span><span class="sxs-lookup"><span data-stu-id="32261-103">Searching, Filtering, and Sorting Data</span></span>
+<span data-ttu-id="32261-104">Es gibt mehrere Elemente, wie Sie das tun können und die dabei helfen, Datensätze in einer Liste aufzufinden, festzulegen und zu scannen.</span><span class="sxs-lookup"><span data-stu-id="32261-104">There are a few things that you can do that will help you find, pinpoint, and scan records in a list.</span></span> <span data-ttu-id="32261-105">Diese umfassen die Sortierung, Suche und Filterung.</span><span class="sxs-lookup"><span data-stu-id="32261-105">These include sorting, searching and filtering.</span></span>
 
-# <a name="entering-criteria-in-filters"></a><span data-ttu-id="da9c2-102">Eingeben von Kriterien in Filtern</span><span class="sxs-lookup"><span data-stu-id="da9c2-102">Entering Criteria in Filters</span></span>
-<span data-ttu-id="da9c2-103">Wenn Sie nach Daten, wie Debitorennamen, Adressen oder Produktgruppen suchen möchten, geben Sie Kriterien ein.</span><span class="sxs-lookup"><span data-stu-id="da9c2-103">When you want to search for data, such as customer names, addresses, or product groups, you enter criteria.</span></span> <span data-ttu-id="da9c2-104">Beim Eingeben von Filterkriterien können alle Ziffern und Buchstaben verwendet werden, die auch normalerweise im Feld zulässig sind.</span><span class="sxs-lookup"><span data-stu-id="da9c2-104">In search criteria you can use all the numbers and letters that you normally use in the specific field.</span></span> <span data-ttu-id="da9c2-105">Zudem können Sie Sonderzeichen verwenden, um eine zusätzliche Filterung der Ergebnisse zu erreichen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-105">In addition, you can use special symbols to further filter the results.</span></span>
+<span data-ttu-id="32261-106">Wenn Sie nach Daten, wie Debitorennamen, Adressen oder Produktgruppen suchen möchten, geben Sie Kriterien ein.</span><span class="sxs-lookup"><span data-stu-id="32261-106">When you want to search for data, such as customer names, addresses, or product groups, you enter criteria.</span></span> <span data-ttu-id="32261-107">Beim Eingeben von Filterkriterien können alle Ziffern und Buchstaben verwendet werden, die auch normalerweise im Feld zulässig sind.</span><span class="sxs-lookup"><span data-stu-id="32261-107">In search criteria you can use all the numbers and letters that you normally use in the specific field.</span></span> <span data-ttu-id="32261-108">Zudem können Sie Sonderzeichen verwenden, um eine zusätzliche Filterung der Ergebnisse zu erreichen.</span><span class="sxs-lookup"><span data-stu-id="32261-108">In addition, you can use special symbols to further filter the results.</span></span> <span data-ttu-id="32261-109">Es gibt zwei Arten zu suchen: mithilfe der Schnellfilter- oder der Spaltenfilter.</span><span class="sxs-lookup"><span data-stu-id="32261-109">There are two ways to search: using the Quick Filter or column filters.</span></span>
 
-## <a name="searching-using-the-quick-filter"></a><span data-ttu-id="da9c2-106">Suchen mithilfe des Schnellfilters</span><span class="sxs-lookup"><span data-stu-id="da9c2-106">Searching using the Quick Filter</span></span>
-<span data-ttu-id="da9c2-107">Sie können allen Seiten Filter hinzufügen, indem Sie Schnellfilter oder erweiterte Filter verwenden.</span><span class="sxs-lookup"><span data-stu-id="da9c2-107">You can add filters to all pages by using the Quick Filter.</span></span> <span data-ttu-id="da9c2-108">Der Schnellfilter wird aktiviert, indem Sie das Lupensymbol in der oberen rechten Ecke einer Seite auswählen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-108">The Quick Filter is enabled by choosing the magnifier icon in the top right corner of a page.</span></span> <span data-ttu-id="da9c2-109">Diese Filterart wird für die schnelle Eingabe von Kriterien verwendet.</span><span class="sxs-lookup"><span data-stu-id="da9c2-109">This filtering type is used for a fast entry of criteria.</span></span>
+## <a name="sorting"></a><span data-ttu-id="32261-110">Sortieren</span><span class="sxs-lookup"><span data-stu-id="32261-110">Sorting</span></span>
+<span data-ttu-id="32261-111">Dank der Sortierfunktion können Sie sich schnell und einfach einen Überblick über Ihre Daten verschaffen.</span><span class="sxs-lookup"><span data-stu-id="32261-111">Sorting makes it easy for you to get a quick overview of your data.</span></span> <span data-ttu-id="32261-112">Wenn Sie beispielsweise über zahlreiche Debitorenkontakte verfügen, können Sie auswählen, um nach folgenden Kriterien zu sortieren: **Debitorennummer**, **Debitorenbuchungsgruppe**, **Währungscode**, **Länder-/Regionscode** oder **Verkaufssteuer-Registrierung**, um die gewünschte Übersicht zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="32261-112">If you have many customers, for example, you can choose to sort them by **Customer No.**, **Customer Posting Group**, **Currency Code**, **Country Region Code**, or **Sales Tax Registration No.** to get the overview you need.</span></span>
 
-<span data-ttu-id="da9c2-110">**Wichtig**: Der Schnellfilter bietet einen einfachen Zugriff auf Filterdaten durch die Eingabe reinen Texts, bietet aber auch zahlreiche Optionen für Suchkriterien.</span><span class="sxs-lookup"><span data-stu-id="da9c2-110">**Important**: The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options.</span></span> <span data-ttu-id="da9c2-111">Abhängig davon, ob Sie Freitext oder Text mit Symbolen eingeben, verhält sich der Schnellfilter unterschiedlich.</span><span class="sxs-lookup"><span data-stu-id="da9c2-111">Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.</span></span>  
-- <span data-ttu-id="da9c2-112">Wenn Sie Freitextangaben in den Suchkriterien eingeben, werden die Suchkriterien als die Groß-/Kleinschreibung nicht beachtend angesehen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-112">If you enter plain text in the search criteria, the search criteria is interpreted as a case insensitive search that contains certain text.</span></span>  
-- <span data-ttu-id="da9c2-113">Wenn Sie Text mit Symbolen in den Suchkriterien eingeben, werden die Suchkriterien genau wie angegeben interpretiert, und die Groß-/Kleinschreibung wird berücksichtigt.</span><span class="sxs-lookup"><span data-stu-id="da9c2-113">If you enter text including symbols in the search criteria, the search criteria is interpreted exactly as you entered it, and the search is case sensitive.</span></span>
+<span data-ttu-id="32261-113">Um eine Übersicht zu sortieren, können Sie entweder einen Spaltenüberschriftentext um das Menüband zu erweitern und Aufsteigen Absteigend Reihenfolge aus, oder wählen Sie kleine Abstiegpfeil in die Spaltenüberschrift, und wählen Sie dann **Aufsteigend** oder **Absteigend**</span><span class="sxs-lookup"><span data-stu-id="32261-113">To sort a list, you can either choose a column heading text to toggle between ascending and descending order, or choose the small downs arrow in the column heading, and then choose **Ascending** or **Descending**.</span></span>  
 
-### <a name="quick-filter-criteria"></a><span data-ttu-id="da9c2-114">Schnelle Filterkriterien</span><span class="sxs-lookup"><span data-stu-id="da9c2-114">Quick filter criteria</span></span>
+> [!NOTE]  
+>   <span data-ttu-id="32261-114">Sortierung wird nicht auf Bilder, BLOB-Felder und FlowFilter unterstützt, die keiner Tabelle angehören.</span><span class="sxs-lookup"><span data-stu-id="32261-114">Sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.</span></span>  
+
+## <a name="searching-by-using-the-quick-filter"></a><span data-ttu-id="32261-115">Suchen mithilfe des Schnellfilters</span><span class="sxs-lookup"><span data-stu-id="32261-115">Searching by using the Quick Filter</span></span>
+<span data-ttu-id="32261-116">Sie können allen Seiten Filter hinzufügen, indem Sie Schnellfilter oder erweiterte Filter verwenden.</span><span class="sxs-lookup"><span data-stu-id="32261-116">You can add filters to all pages by using the Quick Filter.</span></span> <span data-ttu-id="32261-117">Der Schnellfilter wird aktiviert, indem Sie das Lupensymbol in der oberen rechten Ecke einer Seite auswählen.</span><span class="sxs-lookup"><span data-stu-id="32261-117">The Quick Filter is enabled by choosing the magnifier icon in the top right corner of a page.</span></span> <span data-ttu-id="32261-118">Diese Filterart wird für die schnelle Eingabe von Kriterien verwendet.</span><span class="sxs-lookup"><span data-stu-id="32261-118">This filtering type is used for a fast entry of criteria.</span></span>
+
+> [!IMPORTANT]  
+>   <span data-ttu-id="32261-119">Der Schnellfilter bietet einen einfachen Zugriff auf Filterdaten durch die Eingabe reinen Texts, bietet aber auch zahlreiche Optionen für Suchkriterien.</span><span class="sxs-lookup"><span data-stu-id="32261-119">The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options.</span></span> <span data-ttu-id="32261-120">Abhängig davon, ob Sie Freitext oder Text mit Symbolen eingeben, verhält sich der Schnellfilter unterschiedlich.</span><span class="sxs-lookup"><span data-stu-id="32261-120">Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.</span></span>  
+
+* <span data-ttu-id="32261-121">Wenn Sie Freitextangaben in den Suchkriterien eingeben, werden die Suchkriterien als die Groß-/Kleinschreibung nicht beachtend angesehen.</span><span class="sxs-lookup"><span data-stu-id="32261-121">If you enter plain text in the search criteria, the search criteria is interpreted as a case insensitive search that contains certain text.</span></span>  
+* <span data-ttu-id="32261-122">Wenn Sie Text mit Symbolen in den Suchkriterien eingeben, werden die Suchkriterien genau wie angegeben interpretiert, und die Groß-/Kleinschreibung wird berücksichtigt.</span><span class="sxs-lookup"><span data-stu-id="32261-122">If you enter text including symbols in the search criteria, the search criteria is interpreted exactly as you entered it, and the search is case sensitive.</span></span>
+
+### <a name="quick-filter-criteria"></a><span data-ttu-id="32261-123">Schnelle Filterkriterien</span><span class="sxs-lookup"><span data-stu-id="32261-123">Quick filter criteria</span></span>
 <!-- html syntax because symbols conflict with MarkDown syntax -->
 <TABLE>
   <TR>
-    <TH><span data-ttu-id="da9c2-115">Suchkriterien</span><span class="sxs-lookup"><span data-stu-id="da9c2-115">Search Criteria</span></span></TH>
-    <TH><span data-ttu-id="da9c2-116">Interpretiert als...</span><span class="sxs-lookup"><span data-stu-id="da9c2-116">Interpreted as...</span></span></TH>
-    <TH><span data-ttu-id="da9c2-117">Reklamationen...</span><span class="sxs-lookup"><span data-stu-id="da9c2-117">Returns...</span></span></TH>
+    <TH><span data-ttu-id="32261-124">Suchkriterien</span><span class="sxs-lookup"><span data-stu-id="32261-124">Search Criteria</span></span></TH>
+    <TH><span data-ttu-id="32261-125">Interpretiert als...</span><span class="sxs-lookup"><span data-stu-id="32261-125">Interpreted as...</span></span></TH>
+    <TH><span data-ttu-id="32261-126">Reklamationen...</span><span class="sxs-lookup"><span data-stu-id="32261-126">Returns...</span></span></TH>
   </TR>
   <TR>
-    <TD><span data-ttu-id="da9c2-118">>man</span><span class="sxs-lookup"><span data-stu-id="da9c2-118">>man</span></span></TD>
-    <TD><span data-ttu-id="da9c2-119">@*man*</span><span class="sxs-lookup"><span data-stu-id="da9c2-119">@*man*</span></span></TD>
-    <TD><span data-ttu-id="da9c2-120">Alle Datensätze, die den Text Mann enthalten und die Groß-/Kleinschreibung nicht beachten.</span><span class="sxs-lookup"><span data-stu-id="da9c2-120">All records that contain the text man and case insensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-127">man</span><span class="sxs-lookup"><span data-stu-id="32261-127">man</span></span></TD>
+    <TD><span data-ttu-id="32261-128">@&#42;man&#42;</span><span class="sxs-lookup"><span data-stu-id="32261-128">@&#42;man&#42;</span></span></TD>
+    <TD><span data-ttu-id="32261-129">Alle Datensätze, die den Text <b>Mann</b> enthalten und die Groß-/Kleinschreibung nicht beachten.</span><span class="sxs-lookup"><span data-stu-id="32261-129">All records that contain the text <b>man</b> and case insensitive.</span></span></TD>
   </TR>
   <TR>
-    <TD><span data-ttu-id="da9c2-121">>se</span><span class="sxs-lookup"><span data-stu-id="da9c2-121">>se</span></span></TD>
-    <TD><span data-ttu-id="da9c2-122">@*se*</span><span class="sxs-lookup"><span data-stu-id="da9c2-122">@*se*</span></span></TD>
-    <TD><span data-ttu-id="da9c2-123">Alle Datensätze, die den Text se enthalten und die Groß-/Kleinschreibung nicht beachten.</span><span class="sxs-lookup"><span data-stu-id="da9c2-123">All records that contain the text se and case insensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-130">se</span><span class="sxs-lookup"><span data-stu-id="32261-130">se</span></span></TD>
+    <TD><span data-ttu-id="32261-131">@&#42;se&#42;</span><span class="sxs-lookup"><span data-stu-id="32261-131">@&#42;se&#42;</span></span></TD>
+    <TD><span data-ttu-id="32261-132">Alle Datensätze, die den Text <b>se</b> enthalten und die Groß-/Kleinschreibung nicht beachten.</span><span class="sxs-lookup"><span data-stu-id="32261-132">All records that contain the text <b>se</b> and case insensitive.</span></span></TD>
   </TR>
   <TR>
-    <TD><span data-ttu-id="da9c2-124">>Man*</span><span class="sxs-lookup"><span data-stu-id="da9c2-124">>Man*</span></span></TD>
-    <TD><span data-ttu-id="da9c2-125">Beginnt mit „Man“, Groß-/Kleinschreibung beachtet</span><span class="sxs-lookup"><span data-stu-id="da9c2-125">Starts with Man and case sensitive.</span></span></TD>
-    <TD><span data-ttu-id="da9c2-126">Alle Datensätze, die mit dem Text Mann beginnen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-126">All records that start with the text Man.</span></span></TD>
+    <TD><span data-ttu-id="32261-133">Man&#42;</span><span class="sxs-lookup"><span data-stu-id="32261-133">Man&#42;</span></span></TD>
+    <TD><span data-ttu-id="32261-134">Beginnt mit <b>Man</b> und Groß-/Kleinschreibung beachten</span><span class="sxs-lookup"><span data-stu-id="32261-134">Starts with <b>Man</b> and case sensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-135">Alle Datensätze, die mit dem Text <b>Mann</b> beginnen.</span><span class="sxs-lookup"><span data-stu-id="32261-135">All records that start with the text <b>Man</b>.</span></span></TD>
   </TR>
   <TR>
-    <TD><span data-ttu-id="da9c2-127">'man'</span><span class="sxs-lookup"><span data-stu-id="da9c2-127">'man'</span></span></TD>
-    <TD><span data-ttu-id="da9c2-128">Exakter Text unter Berücksichtigung der Groß-/Kleinschreibung</span><span class="sxs-lookup"><span data-stu-id="da9c2-128">An exact text and case sensitive.</span></span></TD>
-    <TD><span data-ttu-id="da9c2-129">Alle Datensätze, die mit Mann genau übereinstimmen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-129">All records that match man exactly.</span></span></TD>
+    <TD><span data-ttu-id="32261-136">'man'</span><span class="sxs-lookup"><span data-stu-id="32261-136">'man'</span></span></TD>
+    <TD><span data-ttu-id="32261-137">Exakter Text unter Berücksichtigung der Groß-/Kleinschreibung</span><span class="sxs-lookup"><span data-stu-id="32261-137">An exact text and case sensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-138">Alle Datensätze, die mit <b>Mann</b> genau übereinstimmen.</span><span class="sxs-lookup"><span data-stu-id="32261-138">All records that match <b>man</b> exactly.</span></span></TD>
   </TR>
   <TR>
-    <TD><span data-ttu-id="da9c2-130">@*man</span><span class="sxs-lookup"><span data-stu-id="da9c2-130">@*man</span></span></TD>
-    <TD><span data-ttu-id="da9c2-131">Endet mit, Groß-/Kleinschreibung beachtet</span><span class="sxs-lookup"><span data-stu-id="da9c2-131">Ends with and case insensitive.</span></span></TD>
-    <TD><span data-ttu-id="da9c2-132">Alle Datensätze, die mit mann enden.</span><span class="sxs-lookup"><span data-stu-id="da9c2-132">All records that end with man.</span></span></TD>
+    <TD><span data-ttu-id="32261-139">@man*</span><span class="sxs-lookup"><span data-stu-id="32261-139">@man*</span></span> </TD>
+    <TD><span data-ttu-id="32261-140">Beginnt mit, Groß-/Kleinschreibung beachtet</span><span class="sxs-lookup"><span data-stu-id="32261-140">Starts with and case insensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-141">Alle Datensätze, die mit <b>Mann</b> beginnen.</span><span class="sxs-lookup"><span data-stu-id="32261-141">All records that start with <b>man</b>.</span></span></TD>
   </TR>
-  <TR>
-    <TD><span data-ttu-id="da9c2-133">@man*</span><span class="sxs-lookup"><span data-stu-id="da9c2-133">@man*</span></span></TD>
-    <TD><span data-ttu-id="da9c2-134">Beginnt mit, Groß-/Kleinschreibung beachtet</span><span class="sxs-lookup"><span data-stu-id="da9c2-134">Starts with and case insensitive.</span></span></TD>
-    <TD><span data-ttu-id="da9c2-135">Alle Datensätze, die mit Mann beginnen.</span><span class="sxs-lookup"><span data-stu-id="da9c2-135">All records that start with man.</span></span></TD>
+    <TR>
+    <TD><span data-ttu-id="32261-142">@&#42;man</span><span class="sxs-lookup"><span data-stu-id="32261-142">@&#42;man</span></span></TD>
+    <TD><span data-ttu-id="32261-143">Endet mit, Groß-/Kleinschreibung beachtet</span><span class="sxs-lookup"><span data-stu-id="32261-143">Ends with and case insensitive.</span></span></TD>
+    <TD><span data-ttu-id="32261-144">Alle Datensätze, die mit <b>mann</b> enden.</span><span class="sxs-lookup"><span data-stu-id="32261-144">All records that end with <b>man</b>.</span></span></TD>
   </TR>
 </TABLE>
 
-<span data-ttu-id="da9c2-136">**Hinweis**: Sie können keinen Platzhalter beim Filtern in Aufzählungsfeldern, wie das Feld **Status** in Verkaufsaufträgen verwenden.</span><span class="sxs-lookup"><span data-stu-id="da9c2-136">**Note**: You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders.</span></span> <span data-ttu-id="da9c2-137">Wenn Sie einen Filter für diese Art von Feld eingeben möchten, können Sie den numerischen Wert als Filterparameter eingeben.</span><span class="sxs-lookup"><span data-stu-id="da9c2-137">To enter a filter for this type of field, you can enter the numeric value as a filtering parameter.</span></span> <span data-ttu-id="da9c2-138">Beispielsweise im Feld **Status** in einem Verkaufsauftrag, der die Werte **Offen**, **Freigegeben**, **Genehmigung ausstehend** und **Vorauszahlung ausstehend** hat, verwenden Sie die Werte **0**, **1**, **2** und **3**, um für diese Optionen zu filtern.</span><span class="sxs-lookup"><span data-stu-id="da9c2-138">For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.</span></span>  
+> [!NOTE]  
+>   <span data-ttu-id="32261-145">Sie können keinen Platzhalter beim Filtern in Aufzählungsfeldern, wie das Feld **Status** in Verkaufsaufträgen verwenden.</span><span class="sxs-lookup"><span data-stu-id="32261-145">You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders.</span></span> <span data-ttu-id="32261-146">Wenn Sie einen Filter für diese Art von Feld eingeben möchten, können Sie den numerischen Wert als Filterparameter eingeben.</span><span class="sxs-lookup"><span data-stu-id="32261-146">To enter a filter for this type of field, you can enter the numeric value as a filtering parameter.</span></span> <span data-ttu-id="32261-147">Beispielsweise im Feld **Status** in einem Verkaufsauftrag, der die Werte **Offen**, **Freigegeben**, **Genehmigung ausstehend** und **Vorauszahlung ausstehend** hat, verwenden Sie die Werte **0**, **1**, **2** und **3**, um für diese Optionen zu filtern.</span><span class="sxs-lookup"><span data-stu-id="32261-147">For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.</span></span> 
 
-## <a name="see-also"></a><span data-ttu-id="da9c2-139">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="da9c2-139">See Also</span></span>
-[<span data-ttu-id="da9c2-140">Arbeiten mit Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="da9c2-140">Work with Dynamics NAV</span></span>](ui-work-product.md)
+## <a name="searching-by-using-column-filters"></a><span data-ttu-id="32261-148">Suchen mithilfe der Spaltenfiltern</span><span class="sxs-lookup"><span data-stu-id="32261-148">Searching by using column Filters</span></span>
+<span data-ttu-id="32261-149">Sie können einen Filter für einen oder mehreren Spalten aus einer Liste hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="32261-149">You can add a filter on one or more columns in a list.</span></span> <span data-ttu-id="32261-150">Das Filtern in Spalten ist flexibel und erhöht als den Schnellfilter.</span><span class="sxs-lookup"><span data-stu-id="32261-150">Filtering on columns is more flexible and enhanced than the Quick Filter.</span></span> 
+
+### <a name="to-add-a-filter-on-a-column"></a><span data-ttu-id="32261-151">Um einen Filter für eine Spalte hinzufügen</span><span class="sxs-lookup"><span data-stu-id="32261-151">To add a filter on a column</span></span>
+1.  <span data-ttu-id="32261-152">Bevor Sie Filter hinzufügen, wählen Sie ![Anzeigen als Liste] (media/ui_show_as_list_icon.png "Anzeigen als linken Listenpfeil"), um die Listenansicht zu ändern.</span><span class="sxs-lookup"><span data-stu-id="32261-152">Before you add a filter, choose ![Show as list](media/ui_show_as_list_icon.png "Show as list arrow left") icon to change to the list view.</span></span>
+2. <span data-ttu-id="32261-153">Wählen Sie den Abwärts-Pfeil in die Spaltenüberschrift, und wählen Sie dann **Filter**.</span><span class="sxs-lookup"><span data-stu-id="32261-153">Choose the downwards arrow in the column heading, and then choose **Filter**.</span></span>
+3. <span data-ttu-id="32261-154">Führen Sie einen der folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="32261-154">Do one of the following:</span></span> 
+  -  <span data-ttu-id="32261-155">Wählen Sie *...* neben dem Feld, um einen Wert aus einer Liste auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="32261-155">Choose *...* next to the box to select a value from a list.</span></span>
+  -  <span data-ttu-id="32261-156">Eingeben von Kriterien in Filtern.</span><span class="sxs-lookup"><span data-stu-id="32261-156">Enter filter criteria in the box.</span></span> <span data-ttu-id="32261-157">Sehen Sie den nächsten Abschnitt für Einzelheiten.</span><span class="sxs-lookup"><span data-stu-id="32261-157">See the next section for details.</span></span>
+4. <span data-ttu-id="32261-158">Wählen Sie die Schaltfläche **OK**.</span><span class="sxs-lookup"><span data-stu-id="32261-158">Choose the **OK** button.</span></span>
+
+## <a name="filter-criteria-and-symbols"></a><span data-ttu-id="32261-159">Filterkriterien und Bildsymbole</span><span class="sxs-lookup"><span data-stu-id="32261-159">Filter criteria and symbols</span></span>
+<span data-ttu-id="32261-160">Beim Eingeben von Filterkriterien können alle Ziffern und Buchstaben verwendet werden, die auch normalerweise im Feld zulässig sind.</span><span class="sxs-lookup"><span data-stu-id="32261-160">When you enter criteria, you can use all the numbers and letters that you can normally use in the field.</span></span> <span data-ttu-id="32261-161">Zudem können Sie Sonderzeichen verwenden, um eine zusätzliche Filterung der Ergebnisse zu erreichen.</span><span class="sxs-lookup"><span data-stu-id="32261-161">In addition, you can use special symbols to further filter the results.</span></span> <span data-ttu-id="32261-162">Die folgende Tabelle enthält die Symbole, die in Filtern verwendet werden können.</span><span class="sxs-lookup"><span data-stu-id="32261-162">The following tables show the symbols which can be used in filters.</span></span>  
+  
+> [!IMPORTANT]  
+>  <span data-ttu-id="32261-163">Es kann Instanzen geben, in denen diese Feldwerte Symbole enthalten, die Sie filtern möchten.</span><span class="sxs-lookup"><span data-stu-id="32261-163">There may be instances where field values contain these symbols and you want to filter on them.</span></span> <span data-ttu-id="32261-164">Um dies zu tun, müssen Sie den Filterausdruck berücksichtigt der das Symbol in Anführungszeichen (") enthält.</span><span class="sxs-lookup"><span data-stu-id="32261-164">To do this, you must include the filter expression that contains the symbol in quotation marks ('').</span></span> <span data-ttu-id="32261-165">Wenn Sie beispielsweise Datensätzen filtern möchten, die mit dem Text *S&R* beginnen, ist der Filterausdruck **'S&R*'**.</span><span class="sxs-lookup"><span data-stu-id="32261-165">For example, if you want to filter on records that start with the text *S&R*, the filter expression is **'S&R*'**.</span></span>  
+  
+### <a name="-interval"></a><span data-ttu-id="32261-166">(..) Intervall</span><span class="sxs-lookup"><span data-stu-id="32261-166">(..) Interval</span></span>  
+  
+|<span data-ttu-id="32261-167">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-167">Sample Expression</span></span>|<span data-ttu-id="32261-168">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-168">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-169">1100..2100</span><span class="sxs-lookup"><span data-stu-id="32261-169">1100..2100</span></span>|<span data-ttu-id="32261-170">Nummer 1100 bis 2100</span><span class="sxs-lookup"><span data-stu-id="32261-170">Numbers 1100 through 2100</span></span>|  
+|<span data-ttu-id="32261-171">..2500</span><span class="sxs-lookup"><span data-stu-id="32261-171">..2500</span></span>|<span data-ttu-id="32261-172">Bis einschließlich 2500</span><span class="sxs-lookup"><span data-stu-id="32261-172">Up to and including 2500</span></span>|  
+|<span data-ttu-id="32261-173">..31 12 00</span><span class="sxs-lookup"><span data-stu-id="32261-173">..12 31 00</span></span>|<span data-ttu-id="32261-174">Datum bis und einschließlich 31.12.00</span><span class="sxs-lookup"><span data-stu-id="32261-174">Dates up to and including 12 31 00</span></span>|  
+|<span data-ttu-id="32261-175">P8..</span><span class="sxs-lookup"><span data-stu-id="32261-175">P8..</span></span>|<span data-ttu-id="32261-176">Daten zur Buchhaltungsperiode 8 und folgende</span><span class="sxs-lookup"><span data-stu-id="32261-176">Information for accounting period 8 and thereafter</span></span>|  
+|<span data-ttu-id="32261-177">..23</span><span class="sxs-lookup"><span data-stu-id="32261-177">..23</span></span>|<span data-ttu-id="32261-178">Vom Anfangsdatum bis zum 23. (aktueller Monat, aktuelles Jahr, 23:59:59)</span><span class="sxs-lookup"><span data-stu-id="32261-178">From the beginning date until 23-current month-current year 23:59:59</span></span>|  
+|<span data-ttu-id="32261-179">23..</span><span class="sxs-lookup"><span data-stu-id="32261-179">23..</span></span>|<span data-ttu-id="32261-180">Vom 23-des aktuellen Monats-des aktuellen Jahres 0:00:00 bis zum Ende der Zeit</span><span class="sxs-lookup"><span data-stu-id="32261-180">From 23-current month-current year 0:00:00 until the end of time</span></span>|  
+|<span data-ttu-id="32261-181">22..23</span><span class="sxs-lookup"><span data-stu-id="32261-181">22..23</span></span>|<span data-ttu-id="32261-182">Vom 22-des aktuellen Monats-aktuellen Jahres 0:00:00 bis zum 23-des aktuellen Monats-aktuellen Jahres 23:59:59</span><span class="sxs-lookup"><span data-stu-id="32261-182">From 22-current month-current year 0:00:00 until 23-current month-current year 23:59:59</span></span>|  
+  
+### <a name="124-eitheror"></a><span data-ttu-id="32261-183">(&#124;) Entweder/oder</span><span class="sxs-lookup"><span data-stu-id="32261-183">(&#124;) Either/or</span></span>  
+  
+|<span data-ttu-id="32261-184">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-184">Sample Expression</span></span>|<span data-ttu-id="32261-185">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-185">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-186">1200&#124;1300</span><span class="sxs-lookup"><span data-stu-id="32261-186">1200&#124;1300</span></span>|<span data-ttu-id="32261-187">Nummern mit 1200 oder 1300</span><span class="sxs-lookup"><span data-stu-id="32261-187">Numbers with 1200 or 1300</span></span>|  
+  
+### <a name="-not-equal-to"></a><span data-ttu-id="32261-188">(<>) Ungleich</span><span class="sxs-lookup"><span data-stu-id="32261-188">(<>) Not equal to</span></span>  
+  
+|<span data-ttu-id="32261-189">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-189">Sample Expression</span></span>|<span data-ttu-id="32261-190">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-190">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-191"><>0</span><span class="sxs-lookup"><span data-stu-id="32261-191"><>0</span></span>|<span data-ttu-id="32261-192">Alle Datensätze außer der Nummer Null</span><span class="sxs-lookup"><span data-stu-id="32261-192">All numbers except 0</span></span><br /><br /> <span data-ttu-id="32261-193">Die SQL Server-Option ermöglicht es Ihnen, dieses Symbol mit einem Platzhalterausdruck zu kombinieren.</span><span class="sxs-lookup"><span data-stu-id="32261-193">The SQL Server Option allows you to combine this symbol with a wild card expression.</span></span> <span data-ttu-id="32261-194">So wird beispielsweise mit "<>A*" Text beschrieben, der nicht mit einem großen A beginnt.</span><span class="sxs-lookup"><span data-stu-id="32261-194">For example, <>A* meaning not equal to any text that starts with A.</span></span>|  
+  
+### <a name="-greater-than"></a><span data-ttu-id="32261-195">(>) Größer als</span><span class="sxs-lookup"><span data-stu-id="32261-195">(>) Greater than</span></span>  
+  
+|<span data-ttu-id="32261-196">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-196">Sample Expression</span></span>|<span data-ttu-id="32261-197">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-197">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-198">>1200</span><span class="sxs-lookup"><span data-stu-id="32261-198">>1200</span></span>|<span data-ttu-id="32261-199">Datensatznummern größer als 1200</span><span class="sxs-lookup"><span data-stu-id="32261-199">Numbers greater than 1200</span></span>|  
+  
+### <a name="-greater-than-or-equal-to"></a><span data-ttu-id="32261-200">(>=) Größer oder gleich</span><span class="sxs-lookup"><span data-stu-id="32261-200">(>=) Greater than or equal to</span></span>  
+  
+|<span data-ttu-id="32261-201">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-201">Sample Expression</span></span>|<span data-ttu-id="32261-202">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-202">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-203">>=1200</span><span class="sxs-lookup"><span data-stu-id="32261-203">>=1200</span></span>|<span data-ttu-id="32261-204">Datensatznummern ab einschließlich 1200 aufwärts</span><span class="sxs-lookup"><span data-stu-id="32261-204">Numbers greater than or equal to 1200</span></span>|  
+  
+### <a name="-less-than"></a><span data-ttu-id="32261-205">(<) Kleiner als</span><span class="sxs-lookup"><span data-stu-id="32261-205">(<) Less than</span></span>  
+  
+|<span data-ttu-id="32261-206">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-206">Sample Expression</span></span>|<span data-ttu-id="32261-207">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-207">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-208"><1200</span><span class="sxs-lookup"><span data-stu-id="32261-208"><1200</span></span>|<span data-ttu-id="32261-209">Datensatznummern kleiner als 1200</span><span class="sxs-lookup"><span data-stu-id="32261-209">Numbers less than 1200</span></span>|  
+  
+### <a name="-less-than-or-equal-to"></a><span data-ttu-id="32261-210">(<=) Kleiner oder gleich</span><span class="sxs-lookup"><span data-stu-id="32261-210">(<=) Less than or equal to</span></span>  
+  
+|<span data-ttu-id="32261-211">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-211">Sample Expression</span></span>|<span data-ttu-id="32261-212">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-212">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-213"><=1200</span><span class="sxs-lookup"><span data-stu-id="32261-213"><=1200</span></span>|<span data-ttu-id="32261-214">Datensatznummern kleiner als oder gleich 1200</span><span class="sxs-lookup"><span data-stu-id="32261-214">Numbers less than or equal to 1200</span></span>|  
+  
+### <a name="-and"></a><span data-ttu-id="32261-215">(&) Und</span><span class="sxs-lookup"><span data-stu-id="32261-215">(&) And</span></span>  
+  
+|<span data-ttu-id="32261-216">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-216">Sample Expression</span></span>|<span data-ttu-id="32261-217">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-217">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-218">>200&<1200</span><span class="sxs-lookup"><span data-stu-id="32261-218">>200&<1200</span></span>|<span data-ttu-id="32261-219">Nummern größer 200 und Nummern kleiner 1200.</span><span class="sxs-lookup"><span data-stu-id="32261-219">Numbers greater than 200 and less than 1200</span></span>|  
+  
+### <a name="-an-exact-character-match"></a><span data-ttu-id="32261-220">(") Eine genaue Zeichenübereinstimmung</span><span class="sxs-lookup"><span data-stu-id="32261-220">('') An exact character match</span></span>  
+  
+|<span data-ttu-id="32261-221">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-221">Sample Expression</span></span>|<span data-ttu-id="32261-222">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-222">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-223">'man'</span><span class="sxs-lookup"><span data-stu-id="32261-223">'man'</span></span>|<span data-ttu-id="32261-224">Text, der genau übereinstimmt und die Groß-/Kleinschreibung berücksichtigt.</span><span class="sxs-lookup"><span data-stu-id="32261-224">Text that matches man exactly and is case sensitive.</span></span>|  
+  
+### <a name="-case-insensitive"></a><span data-ttu-id="32261-225">(@) Groß-/Kleinschreibung beachten</span><span class="sxs-lookup"><span data-stu-id="32261-225">(@) Case insensitive</span></span>  
+  
+|<span data-ttu-id="32261-226">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-226">Sample Expression</span></span>|<span data-ttu-id="32261-227">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-227">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-228">@man*</span><span class="sxs-lookup"><span data-stu-id="32261-228">@man*</span></span>|<span data-ttu-id="32261-229">Text, der mit „Man“ beginnt und die Groß-/Kleinschreibung beachtet.</span><span class="sxs-lookup"><span data-stu-id="32261-229">Text that starts with man and is case insensitive.</span></span>|  
+  
+### <a name="-an-indefinite-number-of-unknown-characters"></a><span data-ttu-id="32261-230">(*) Beliebig viele unbekannte Zeichen</span><span class="sxs-lookup"><span data-stu-id="32261-230">(*) An indefinite number of unknown characters</span></span>  
+  
+|<span data-ttu-id="32261-231">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-231">Sample Expression</span></span>|<span data-ttu-id="32261-232">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-232">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-233">*Co*</span><span class="sxs-lookup"><span data-stu-id="32261-233">*Co*</span></span>|<span data-ttu-id="32261-234">Text, der die Zeichenfolge "Co" enthält und die Groß-/Kleinschreibung ist.</span><span class="sxs-lookup"><span data-stu-id="32261-234">Text that contains "Co" and is case sensitive.</span></span>|  
+|<span data-ttu-id="32261-235">*Co</span><span class="sxs-lookup"><span data-stu-id="32261-235">*Co</span></span>|<span data-ttu-id="32261-236">Text, der mit "Co" endet und die Groß-/Kleinschreibung ist.</span><span class="sxs-lookup"><span data-stu-id="32261-236">Text that ends with "Co" and is case sensitive.</span></span>|  
+|<span data-ttu-id="32261-237">Co*</span><span class="sxs-lookup"><span data-stu-id="32261-237">Co*</span></span>|<span data-ttu-id="32261-238">Text, der mit "Co" beginnt und die Groß-/Kleinschreibung ist.</span><span class="sxs-lookup"><span data-stu-id="32261-238">Text that begins with "Co" and is case sensitive.</span></span>|  
+  
+### <a name="-one-unknown-character"></a><span data-ttu-id="32261-239">(?) Ein unbekannter Buchstabe</span><span class="sxs-lookup"><span data-stu-id="32261-239">(?) One unknown character</span></span>  
+  
+|<span data-ttu-id="32261-240">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-240">Sample Expression</span></span>|<span data-ttu-id="32261-241">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-241">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-242">Hans?n</span><span class="sxs-lookup"><span data-stu-id="32261-242">Hans?n</span></span>|<span data-ttu-id="32261-243">Text wie "Hansen" oder "Hanson"</span><span class="sxs-lookup"><span data-stu-id="32261-243">Text such as Hansen or Hanson</span></span>|  
+  
+### <a name="combined-format-expressions"></a><span data-ttu-id="32261-244">Kombinierte Formatausdrücke</span><span class="sxs-lookup"><span data-stu-id="32261-244">Combined format expressions</span></span>  
+  
+|<span data-ttu-id="32261-245">Beispielausdruck</span><span class="sxs-lookup"><span data-stu-id="32261-245">Sample Expression</span></span>|<span data-ttu-id="32261-246">Angezeigte Datensätze</span><span class="sxs-lookup"><span data-stu-id="32261-246">Records Displayed</span></span>|  
+|-----------------------|-----------------------|  
+|<span data-ttu-id="32261-247">5999&#124;8100..8490</span><span class="sxs-lookup"><span data-stu-id="32261-247">5999&#124;8100..8490</span></span>|<span data-ttu-id="32261-248">Alle Datensätze mit der Nummer 5999 oder zwischen 8100 bis 8490.</span><span class="sxs-lookup"><span data-stu-id="32261-248">Include any records with the number 5999 or a number from the interval 8100 through 8490.</span></span>|  
+|<span data-ttu-id="32261-249">..1299&#124;1400..</span><span class="sxs-lookup"><span data-stu-id="32261-249">..1299&#124;1400..</span></span>|<span data-ttu-id="32261-250">Alle Datensätze mit Nummern kleiner als bzw. gleich 1299 oder mit Nummern größer als bzw. gleich 1400, d. h. alle Datensatznummern außer 1300 bis 1399.</span><span class="sxs-lookup"><span data-stu-id="32261-250">Include records with a number less than or equal to 1299 or a number equal to 1400 or greater (all numbers except 1300 through 1399).</span></span>|  
+|<span data-ttu-id="32261-251">>50&<100</span><span class="sxs-lookup"><span data-stu-id="32261-251">>50&<100</span></span>|<span data-ttu-id="32261-252">Alle Datensätze mit Nummern größer als 50 und kleiner als 100, d. h. mit Nummern zwischen 51 und 99.</span><span class="sxs-lookup"><span data-stu-id="32261-252">Include records with numbers that are greater than 50 and less than 100 (numbers 51 through 99).</span></span>|  
+ 
+## <a name="see-also"></a><span data-ttu-id="32261-253">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="32261-253">See Also</span></span>
+<span data-ttu-id="32261-254">[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="32261-254">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

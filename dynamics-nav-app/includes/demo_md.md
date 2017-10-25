@@ -1,1 +1,1 @@
-<span data-ttu-id="915bd-101">CRONUS</span><span class="sxs-lookup"><span data-stu-id="915bd-101">CRONUS</span></span>
+<span data-ttu-id="19673-101">CRONUS</span><span class="sxs-lookup"><span data-stu-id="19673-101">CRONUS</span></span>
