@@ -1,33 +1,37 @@
 ---
-title: 'So wird''s gemacht: Anzeigen von Testberichten vor dem Buchen'
+title: "Überprüfen Sie einen Testbericht, bevor Sie Briefe für Vertriebs- oder Einkaufsbeleg buchen"
+description: "Bevor Sie einen Beleg zum Beispiel eine Bestellung oder eine Gutschrift buchen, können Sie diese testen und wiederholen, um Fehler zu finden, die die Buchungen möglicherweise sperren."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 922376d6a61c757f9cc3ad13fa8d3fce66af14a4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 05/12/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 9666627da75d88a5f7cf467b9e7cdaeba67c75cf
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="how-to-view-test-reports-before-posting"></a>So wird's gemacht: Anzeigen von Testberichten vor dem Buchen
 Wenn Sie bereit sind, ein Dokument zu buchen (beispielsweise eine Bestellung, eine Einkaufsrechnung oder eine Einkaufsgutschrift), können Sie das Dokument testen, um sicherzustellen, dass keine Probleme vorhanden sind, die das Buchen verhindern.
 
-**Hinweis**Die nachfolgende Prozedur beschreibt, wie Sie einen Einkaufsbeleg vor dem Verbuchen testen. Diese Funktionalität gilt auf gleiche Weise für Verkaufsbelege.
+> [!NOTE]  
+>   Die nachfolgende Prozedur beschreibt, wie Sie einen Einkaufsbeleg vor dem Verbuchen testen. Diese Funktionalität gilt auf gleiche Weise für Verkaufsbelege.
 
 ## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>So drucken Sie einen Testbericht vor der Buchung einer Einkaufsrechnung
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Kundenauszug** ein. Wählen Sie dann den zugehörigen Link aus.
+1. Wählen Sie das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben **Kundenrechnung** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Öffnen Sie die Einkaufsrechnung, die Sie testen möchten.
-3. Wählen Sie **Test Report**.  
+3. Wählen Sie die **Bericht testen** Aktion aus.  
 
 Alle Teile der Einkaufsrechnung werden überprüft, und die Ergebnisse werden in einem Bericht dargestellt. Wenn der Bericht Fehler oder fehlende Informationen anzeigt, müssen Sie das jeweilige Problem lösen, bevor Sie die Einkaufsrechnung buchen.
 
 ## <a name="see-also"></a>Siehe auch
-[Journale und Dokumente buchen](ui-post-documents-journals.md)
+[Journale und Dokumente buchen](ui-post-documents-journals.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+
 

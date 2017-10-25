@@ -1,25 +1,28 @@
 ---
-title: "Gewusst wie: Hinzufügen von Kontakten zu Segmenten"
+title: Die Kontakte in einem Segment definieren
+description: "Nachdem Sie ein Segment erstellt haben, können Sie dem Segment Kontakte zum Beispiel als Teil der bestimmte Kunden oder der Clients einer Werbekampagnezielgruppenadressierung hinzufügen."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bf44103fef00d3fb96de8f7770f07383e10e265c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f77963080e3bd01b0854e45396174801a92e30b9
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-add-contacts-to-segments"></a>Gewusst wie: Hinzufügen von Kontakten zu Segmenten
 Nachdem Sie ein Segment erstellt haben und Basisinformationen darüber eingegeben haben, können Sie dem Segment Kontakte hinzufügen. Sie können dies manuell in den Zeilen im Fenster **Segment** tun, aber es ist schneller und einfacher, die Aktion **Kontakte hinzufügen** zu verwenden.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Um einem Segment einen Kontakt hinzuzufügen:
-1. Auf der Startseite wählen Sie **Aktive Segmente** aus. Oder wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Segmente** ein. Wählen Sie dann den zugehörigen Link aus.  
+1. Auf der Startseite wählen Sie **Aktive Segmente** aus. Oder wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen")und geben **Segmente** ein. Wählen Sie dann den zugehörigen Link aus.  
 2. Wählen Sie das Segment, und wählen Sie die Aktion **Kontakte hinzufügen** aus. Das Batchauftragsfenster **Kontakte hinzufügen** wird geöffnet.
 3. Geben Sie im Abschnitt **Kontakt** durch Setzen von Filtern die Informationen an, nach denen Kontakte ausgewählt werden sollen.
 
@@ -40,17 +43,18 @@ Sie können ein Segment beliebig oft neu definieren. Klicken Sie auf **Zurück**
 Um eine Liste der im Abschnitt **Allgemein** verwendeten Segmentkriterien zu sehen, wählen Sie das Feld **Anzahl Kriterienaktionen**.
 
 ## <a name="to-reduce-the-number-of-contacts"></a>Um die Anzahl der Kontakte zu reduzieren
-Nachdem Sie die Kontakte eines Segments ausgewählt haben, können Sie einige von ihnen löschen. Sie können sie manuell aus den Zeilen im Fenster **Segment** entfernen, aber es ist schneller und einfacher, mit der Funktion unter **Kontakte teilweise entfernen** anzugeben, welche Kontakte gelöscht werden sollen, und mit der Funktion **Kontakte neu definieren** festzulegen, welche Kontakte beibehalten werden sollen.
+Nachdem Sie die Kontakte eines Segments ausgewählt haben, können Sie einige von ihnen löschen. Sie können sie manuell aus den Zeilen im Fenster Segment entfernen, aber es ist schneller und einfacher, mit der Funktion unter Kontakte teilweise entfernen anzugeben, welche Kontakte gelöscht werden sollen, und mit der Funktion Kontakte neu definieren festzulegen, welche Kontakte beibehalten werden sollen.
 
 1. Öffnet Sie das Segment.
-2. Wählen Sie **Kontakte**, und wählen Sie die Aktion **Kontakte reduzieren** aus. Das Fenster **Kontakte entfernen - Entfernen** wird geöffnet.
+2. Wählen Sie Kontakte, und wählen Sie die Aktion **Kontakte reduzieren** aus. Das Fenster **Kontakte entfernen - Entfernen** wird geöffnet.
 3. Geben Sie im Abschnitt **Kontakt** mithilfe von Filtern die Informationen an, die zum Auswählen der aus dem Segment zu entfernenden Kontakte verwendet werden sollen.
 4. Fügen Sie weitere Filter nach Bedarf hinzu, und wählen Sie dann die **OK**-Schaltfläche.
 
 Sie können ein Segment beliebig oft neu definieren. Klicken Sie auf die Aktion **Zurück**, wenn Sie ein Segment aus Versehen neu definiert haben und dies rückgängig machen möchten.
 
-##<a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Siehe auch
 [Gewusst wie: Erstellen eines Segments](marketing-how-create-segment.md)   
 [Verwalten von Segmenten](marketing-segments.md)  
 [Verkaufschancen verwalten](marketing-manage-sales-opportunities.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

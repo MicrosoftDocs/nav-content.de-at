@@ -1,1 +1,1 @@
-Entwicklungsumgebung von Microsoft Dynamics NAV
+Microsoft Dynamics NAV Entwicklungsumgebung

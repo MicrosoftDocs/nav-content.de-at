@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -33,13 +33,13 @@ Es gibt mehrere Dinge zu tun, bevor Sie Cortana-Intelligenz für Cashflowplanung
     * Eine oder mehrere Cashflowplanungen in **Cashflowplanung**. Stellen Sie sicher, Bestellungen, Verkaufsaufträge, Forderungen und Verbindlichkeiten als Quellen zu berücksichtigen.  
     Weitere Informationen finden Sie in unter _Cashflowplanungen_ im Hilfesystem. 
 * Sie kennen den API URL und den API Schlüssel, der für den vorhersagenden Webservice verwendet werden soll.  
-    Sie können Azure Machine Learning oder einen anderen Service verwenden, wenn Sie einen haben. Alternativ ist ein öffentliches Modell mit dem Namen _Vorhersagemodell für Microsoft Dynamics NAV_ online im Cortana-Intelligenz-Katalog verfügbar. Um das Modell zu verwenden, gehen folgendermaßen vor:
+    Sie können Azure Machine Learning oder einen anderen Service verwenden, wenn Sie einen haben. Alternativ ist ein öffentliches Modell mit dem Namen _Vorhersagemodell für Microsoft Dynamics NAV_ online im Cortana Intelligence-Katalog verfügbar. Um das Modell zu verwenden, gehen folgendermaßen vor:
 
     1. Wechseln Sie in einem Browser zum [Cortana-Intelligenz-Katalog](https://go.microsoft.com/fwlink/?linkid=828352)
     2. Suchen Sie nach dem _Vorhersagemodell für Microsoft Dynamics NAV_ und öffnen Sie dann das Modell im Azure Machine Learning Studio.
     3. Verwenden Sie das Microsoft-Konto, um sich für einen Arbeitsbereich anzumelden und kopieren Sie dann das Muster.
     4. Führen Sie die Vorlage aus und veröffentlichen Sie dieses als Webdienst.
-    5. Notieren Sie den API URL und den API Schlüssel. Sie verwenden diese Anmeldeinformationen, wenn Sie Cortana-Intelligenz in Microsoft Dynamics NAV einrichten.  
+    5. Notieren Sie den API URL und den API Schlüssel. Sie verwenden diese Anmeldeinformationen, wenn Sie Cortana Intelligence in Microsoft Dynamics NAV einrichten.  
 
 * Berücksichtigen Sie, wieoft die Planung berechnet werden soll. Der Azure Machine Learning-Service hat Einschränkungen bezüglich der Verwendung. Falls Sie beispielsweise zahlreiche Artikel haben, kann es besser sein, diese weniger häufig zu berechnen. 
 * Sie werden dem Buchhalterrollencenter zugeordnet. 

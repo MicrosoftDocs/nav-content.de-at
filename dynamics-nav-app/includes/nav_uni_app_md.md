@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-Einheits-App
+Microsoft Dynamics NAV Universelle Anwendung

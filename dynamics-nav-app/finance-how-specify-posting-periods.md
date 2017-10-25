@@ -1,35 +1,37 @@
 ---
-title: 'So geht''s: Buchhaltungsperioden festlegen'
+title: 'Festlegen von Buchhaltungsperioden:'
+description: "Sie geben Buchungsanfangs- und enddatum an, um einzurichten, wenn Benutzer die Finanzbuchhaltung buchen können."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-specify-posting-periods"></a>So geht's: Buchhaltungsperioden festlegen
-Wenn Sie Buchhaltungsperioden angeben, begrenzen Sie die Periode, in der das Buchen erlaubt ist.
+Verwenden Sie Buchhaltungsperioden, um anzugeben, wenn Benutzer die Finanzbuchhaltung buchen können.  
 
 ## <a name="to-specify-posting-periods"></a>Buchhaltungsperioden festlegen:
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Finanzbuchhaltung Einrichtung** ein. Wählen Sie dann den zugehörigen Link aus.
-2. Geben Sie im Fenster **Finanzbuchhaltung Einrichtung** im Feld **Buchungen zugel. ab** ein Datum ein, um den Anfang der Periode zu kennzeichnen.
-3. Geben Sie ein Datum im Feld **Buchungen zugel. bis** ein, um das Ende der Periode festzulegen.
+1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben die **Finanzbuchhaltung einrichten** ein. Wählen Sie dann den zugehörigen Link aus.  
+2. Im Fenster **Finanzbuchhaltung Einrichtung** legen Sie die Periode fest, indem Sie Daten in den Feldern **Buchungen zugel. ab** und **Buchungen zugel. bis** eingeben.  
 
-Die Datumsangaben, die Sie hier vornehmen, gelten für den Mandanten und alle Anwender.
-
-**Hinweis**: Wenn Sie für verschiedene Benutzer verschiedene Buchungszeiträume definieren möchten, können Sie diese im Fenster **Benutzereinrichtung** für die einzelnen Benutzer einrichten. Wenn Sie Daten im Fenster **Benutzereinrichtung** eingeben, werden die im Fenster **Finanzbuchhaltung Einrichtung** angegebenen Daten nicht auf diese Benutzer angewendet.
-
+> [!NOTE]  
+>   Diese Buchungszeiträume gelten für den Mandanten und alle Anwender. Wenn Sie für verschiedene Benutzer verschiedene Buchungszeiträume definieren möchten, können Sie diese im Fenster **Benutzer einrichten** Diese Buchungszeiträume haben Vorrang vor jenen, die im Fenster **Finanzbuchhaltung einrichten** angegeben werden. Weitere Informationen finden Sie im Abschnitt "Benutzerzeit-Einschränkungen einrichten in [Vorgehensweise: Benutzer und Berechtigungen verwalten](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Abschließen von Periodenabschlüssen](year-how-complete-period-end-processes.md)
+[Finanzen](finance.md)  
+[Abschließen von Periodenabschlüssen](year-how-complete-period-end-processes.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

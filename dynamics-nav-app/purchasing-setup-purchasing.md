@@ -1,38 +1,40 @@
 ---
-title: "Einkäufer einrichten:"
+title: "Überblick der Aufgaben zum Einrichten von Einkäufen"
+description: Beschreibt die Aufgaben, um die Beschaffungsrichtlinien Ihres Mandanten festzulegen und Ihre Einkaufsprozesse einzurichten.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-purchasing"></a>Einkäufer einrichten:
+# <a name="setting-up-purchasing"></a>Einkauf einrichten
 Bevor Sie Einkaufsprozesse verwalten können, müssen die Regeln und Werte konfiguriert werden, die die Einkaufsrichtlinien des Mandanten definieren.
 
 Definieren Sie zunächst die allgemeinen Einstellungen wie die erforderlichen Belege und die gewünschte Buchung der entsprechenden Werte. Diese allgemeine Einrichtung erfolgt in der Regel einmal bei der anfänglichen Implementierung.
 
-Eine weitere Aufgabengruppe im Zusammenhang mit der Erstellung von Kreditorenmasterdaten ist die Erfassung der Rabatt- und Preisvereinbarungen der Kreditoren. Diese erfolgt in Fenstern, die mit den Kreditorenkarten verknüpft sind.
+Eine separate Reihe von Aufgaben, die mit der Erfassung neuer Kreditoren im Zusammenhang stehen, dient dazu, alle Sonderpreis oder Rabattvereinbarungen zu speichern, die Sie mit einzelnen Kreditoren haben.
 
-Die periodische Aktivität zur Erstellung der Kreditorenkarten für neue Kreditoren wird im Abschnitt "Einkauf verwalten" behandelt. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Kreditoren](purchasing-how-register-new-vendors.md).
+Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Einrichten von Finanzen](finance-setup-finance.md).
 
-Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-setup-finance-setup.md).
-
-|Aktion |Siehe |
-|---|----|
-|Eingeben der unterschiedlichen Rabatte und alternativen Preise, die vom Kreditor in Abhängigkeit des Artikels, der Menge und/oder des Datums gewährt werden|[Erfassen von Einkaufspreisen, Skonti und Zahlungsvereinbarungen](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Kreditoren priorisieren|[Vorgehensweise: Priorisieren von Kreditoren](purchasing-how-prioritize-vendors.md)|
-|Einkäufer einrichten|[Vorgehensweise: Einrichten von Einkäufern](purchasing-how-setup-purchasers.md)|
+| An | Siehe |
+| --- | --- |
+| Erstellen Sie eine Kreditorenkarte für jeden Kreditor, von dem Sie einkaufen.|[Vorgehensweise: Einen neuen Kreditor registrieren](purchasing-how-register-new-vendors.md) |
+| Eingeben der unterschiedlichen Rabatte und alternativen Preise, die vom Kreditor in Abhängigkeit des Artikels, der Menge und/oder des Datums gewährt werden |[Erfassen von Einkaufspreisen, Skonti und Zahlungsvereinbarungen](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| Kreditoren priorisieren |[Vorgehensweise: Priorisieren von Kreditoren](purchasing-how-prioritize-vendors.md) |
+| Einkäufer einrichten |[Vorgehensweise: Einrichten von Einkäufern](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Siehe auch
-[Einkauf verwalten](purchasing-manage-purchasing.md)
+[Einkauf](purchasing-manage-purchasing.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

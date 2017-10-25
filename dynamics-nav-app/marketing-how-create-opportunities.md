@@ -1,18 +1,21 @@
 ---
-title: 'Vorgehensweise: Erstellen von Verkaufschancen'
+title: Verkaufschancen erstellen
+description: Beschreibt, wie Verkaufschancen anhand eines Vertriebsmitarbeiters oder eines Kontakts in Dynamics NAV erstellt werden.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f7105692b20eb3d6ae2a493f192000d9561c2be4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d0a3517e794964d139a04b25e5ea7c9acf1bd4f8
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-sales-opportunities"></a>Vorgehensweise: Erstellen von Verkaufschancen
@@ -23,24 +26,23 @@ In dem Fenster **Verkaufschancenübersicht** können Sie Verkaufschancen erstell
 Bevor Sie Verkaufschancen erstellen können, müssen Sie Verkaufsprozesse erstellen. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten von Verkaufschancen für Verkaufsprozesse und Prozess-Stufen](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## <a name="to-create-an-opportunity-from-a-salesperson"></a>So erstellen Sie ein Angebot für einen Verkäufer
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Verkäufer** ein. Wählen Sie dann den zugehörigen Link aus.
+1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben **Verkäufer** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Wählen Sie den Verkäufer aus, für den eine Verkaufschance erstellt werden soll.
 3. Wählen Sie die **Verkaufschancen**-Aktion aus, und wählen Sie dann **Übersicht**.
-4. Wählen Sie Aktion **Neu** aus, und füllen Sie die relevanten Felder aus.  
+4. Wählen Sie Aktion **Neu** aus, und füllen Sie die relevanten Felder aus. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-<!-- taken out for OPS -->
-<!-- [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)] -->
+
 
 ## <a name="to-create-an-opportunity-from-a-contact"></a>So erstellen Sie ein Angebot für einen Kontakt
-1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kontakte** ein. Wählen Sie dann den zugehörigen Link aus.
+1. Wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen")aus und geben Sie **Kontakte** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Wählen Sie den Kontakt aus, für den eine Verkaufschance erstellt werden soll.
 3. Führen Sie einen der folgenden Schritte aus:
-  * Wählen Sie die Aktion **Verkaufschance erstellen** aus.
-  * Wählen Sie die **Verkaufschancen**-Aktion aus, und wählen Sie dann **Neu**.
+   * Wählen Sie die Aktion **Verkaufschance erstellen** aus.
+   * Wählen Sie die **Verkaufschancen**-Aktion aus, und wählen Sie dann **Neu**.
 4. Füllen Sie die entsprechenden Felder aus.
 
-##<a name="see-also"></a>Siehe auch  
-[Verkauf verwalten](sales-manage-sales.md)  
+## <a name="see-also"></a>Siehe auch
+[Verkauf](sales-manage-sales.md)  
 [Erstellen und Verwalten von Kontakten](marketing-contacts.md)  
 [Arbeiten mit Dynamics NAV](ui-work-product.md)
 

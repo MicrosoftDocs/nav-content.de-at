@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-Server-Verwaltungstool
+Microsoft Dynamics NAV Serververwaltungstool

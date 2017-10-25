@@ -1,40 +1,51 @@
 ---
-title: "Angeben der Druckerauswahl für Berichte"
+title: Einrichten von Berichten, um auf bestimmte Druckern zu drucken
+description: "Weitere Informationen zum Definieren eines Druckers für eine Bericht und zur Nutzung des Druckerauswahlfensters."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 55b48aef2bc108ced7f581f0ff6c11263ee467df
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="specify-printer-selection-for-reports"></a>Angeben der Druckerauswahl für Berichte
-Sie können Berichte so einrichten, dass sie auf einem bestimmten Drucker gedruckt werden müssen. Im Folgenden sind einige Verwendungen der Druckerauswahl aufgeführt: 
+Diese Seite ist leer, da Sie bestimmte Drucker für bestimmte Berichte noch nicht einrichten können. Wir arbeiten an der Lösung des Problems.
 
-- Sie können Berichte auf Papier mit dem Unternehmensbriefkopf drucken.
-- Sie können Berichte in verschiedenen Papierformaten drucken.
-- Sie können Berichte auf dem Standarddrucker eines bestimmten Mitarbeiters drucken.
+Wenn Sie einen Bericht drucken möchten, müssen Sie den Bericht als PDF-Dokument zuerst herunterladen, indem Sie die Schaltfläche **Senden an** auswählen. Dann wählen Sie die Art der Datei aus, um den Bericht herunterzuladen und wählen Sie **PDF-Dokument** aus. Jetzt können Sie entweder das PDF-Dokument sofort öffnen und es drucken, oder speichern Sie es, um später zu drucken.
 
-Sie verwenden das Fenster **Druckerauswahl**, um unterschiedliche Werte festzulegen, um unterschiedliche Ausgaben sofort sehen zu können. Wenn dieses eine spezielle Druckerauswahl treffen, hat diese Vorrang vor einer allgemeineren Druckerauswahl. Beispielsweise können Sie eine Druckerauswahl setzen, die die Werte in den Feldern **Benutzer-ID**, **Berichts-ID** und **Druckername** betrifft. Diese Druckerauswahl hat dann Vorrang vor einer Druckerauswahl, die die Felder **Benutzer-ID** oder **Berichts-ID** unausgefüllt lässt. 
+<!--
 
-In der folgenden Tabelle werden die Werte-Kombinationen beschrieben, die Sie bestimmen müssen, wenn Sie die Druckerauswahl für einen Bericht einrichten.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|Aufgabe                                                 |Legen Sie folgende Werte fest                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Drucken eines Berichts mit einem bestimmten Drucker für alle Benutzer |Geben Sie Werte in den Feldern **Berichts-ID** und **Druckername** an und lassen Sie das Feld **Benutzer-ID** leer.|
-|Drucken aller Berichte mit einem bestimmten Drucker für einen bestimmten Benutzer|Geben Sie Werte in den Feldern **Benutzer-ID** und **Druckername** an und lassen Sie das Feld **Berichts-ID** leer.|
-|Standarddrucker für alle Berichte festlegen|Geben Sie einen Wert in das Feld **Druckername** ein und lassen Sie die Felder **Benutzer-ID** und **Berichts-ID** leer.|
-|Drucken eines bestimmten Berichts auf dem Standarddrucker des Benutzers|Geben Sie einen Wert in das Feld **Berichts-ID** ein und lassen Sie die Felder **Benutzer-ID** und **Druckername** leer.|
-|Drucken eines bestimmten Berichts mit einem bestimmten Drucker für einen bestimmten Benutzer|Geben Sie Werte in den drei Feldern an.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Siehe auch
-[Arbeiten mit Dynamics NAV](ui-work-product.md)
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Vorgehensweise: Ausführen von Stapelverarbeitungen](ui-how-run-batch-jobs.md)  
+[Gewusst wie: Senden von Belegen über E-Mail](ui-how-send-documents-email.md)  
 

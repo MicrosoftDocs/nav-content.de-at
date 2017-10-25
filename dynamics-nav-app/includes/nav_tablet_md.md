@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Tablet-Client
+Microsoft Dynamics NAV Tabletclient

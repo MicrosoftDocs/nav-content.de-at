@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ba67e7e09f4375cbdbf53f401fd0f3d83450c9ec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5a072d9b0984adf8bf4ab89fb26d658cb13f50f0
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -27,9 +27,9 @@ Sie können eines der Standardlayouts für Ihr Kontenschema verwenden, oder Sie 
 Das bedeutet, dass Sie so viele maßgeschneiderte Finanzaufstellungen erstellen können, wie Sie möchten. Sie verwenden das Fenster **Kontenschema**, um Kontenschemata einzurichten.  
 
 ## <a name="account-categories-and-account-schedules"></a>Kontengruppen und Kontenschemata
-Sie können Kontengruppen dazu verwenden, das Layout Ihrer Finanzberichte zu ändern. Wenn Sie Ihre Kontengruppen im Fenster **Sachkontokategorien** eingerichtet haben und die Aktion **Kontenschemata generieren** auswählen, werden die zugrunde liegenden Kontenschemata für die Kernfinanzberichte aktualisiert. sobald Sie das nächste Mal einen dieser Berichte ausführen, sowie Saldoabrechnung, neue Summen und Untereinträge hinzufügen, basierend auf Ihren Änderungen. Weitere Informationen finden Sie unter [Die Finanzbuchhaltung und der Kontenplan](finance-setup-general-ledger.md).    
+Sie können Kontengruppen dazu verwenden, das Layout Ihrer Finanzberichte zu ändern. Wenn Sie Ihre Kontengruppen im Fenster **Sachkontokategorien** eingerichtet haben und die Aktion **Kontenschemata generieren** auswählen, werden die zugrunde liegenden Kontenschemata für die Kernfinanzberichte aktualisiert. sobald Sie das nächste Mal einen dieser Berichte ausführen, sowie Saldoabrechnung, neue Summen und Untereinträge hinzufügen, basierend auf Ihren Änderungen. Weitere Informationen finden Sie unter [Die Finanzbuchhaltung und der Kontenplan](finance-general-ledger.md).    
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Finanzen Einrichten](finance-setup-setup-finance-setup.md)  
-[Die Finanzbuchhaltung und der Kontenplan](finance-setup-general-ledger.md)  
+[Finanzen](finance.md)  
+[Finanzen Einrichten](finance-setup-finance.md)  
+[Die Finanzbuchhaltung und der Kontenplan](finance-general-ledger.md)  
 

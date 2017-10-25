@@ -1,46 +1,49 @@
 ---
-title: Verwalten von Forderungen
+title: "Überblick der Aufgaben zum Verwalten von Debitoren"
+description: Zeigt auf, wie Debitoren verwaltet werden und ordnet Zahlungen einem Debitor oder Kreditorenposten zu.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 3f2be627dfda9720e9f31fd227164d1c27116d2c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: customer payment, debtor, balance due, AR
+ms.date: 08/10/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1ca12468c643af6d942aa5ef4b6b6b54cb830b11
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="managing-receivables"></a>Debitoren verwalten
+Ein regelmäßiger Schritt in jedem Finanzrhythmus ist, Bankkonten abzustimmen, die es erfordern, dass Sie Zahlungen mit Debitoren- oder Kreditorenposten ausgleichen, um Verkaufsrechnungen und - gutschriften zu schließen.  
 
-# <a name="manage-receivables"></a>Verwalten von Forderungen#
-Eine zentrale Aufgabe, wenn Sie Forderungen verwalten, ist es, eingehende Zahlungen zu ihrem zugehörigen Debitor bzw. an Kreditorenposten zuzuordnen und die entsprechenden Verkaufsrechnungen oder Einkaufsgutschriften dadurch zu schließen, wenn sie bezahlt sind. Wenn alle Zahlungen ausgeglichen werden, können Sie das Bankkonto abstimmen.  
+In [!INCLUDE[d365fin](includes/d365fin_md.md)] ist einer der schnellsten Arten, Zahlungen im Fenster **Zahlungsabstimmungsbuch.-Blatt** zu erfassen, indem Sie eine Bankauszugsdatei oder einen Feed erfassen. Die Zahlungen werden angewendet, um Debitoren- oder Kreditorenposten basierend auf Übereinstimmungen zwischen Zahlungstext und Zahlungsinformationen verknüpft werden. Sie können die Suchergebnisse überprüfen und ändern, bevor Sie das Buch.-Blatt buchen, und schließen Bankposten für Posten, wenn Sie das Buch.-Blatt buchen. Das bedeutet, dass das Bankkonto automatisch abgestimmt wird, wenn alle Zahlungen ausgeglichen werden.
 
-Diese Aufgabe können Sie dann im Fenster **Zahlungs-Abstimmungs-Buch.-Blatt** ausführen, indem Sie eine Bankkontoauszugsdatei oder -Feed importieren, um die Zahlungen in Dynamics NAV schnell zu erfassen. Eine automatische Anwendungsfunktion gleicht die Zahlungen in ihrem zugehörigen offenen Debitoren- bzw. Kreditorenposten auf Grundlage der Datenabgleichungen zwischen Zahlungstext und Posteninformationen aus. Sie können auch automatische Anwendungen überprüfen und ändern, bevor Sie das Blatt buchen. Sie können die offenen Bankkontoposten für ausgeglichenen Posten schließen, wenn Sie das Buch.-Blatt buchen. Das bedeutet, dass das Bankkonto automatisch abgestimmt wird, wenn alle Zahlungen ausgeglichen werden.
+Es gibt jedoch andere praktische Orte, um Zahlungen zu übernehmen und Bankkonten auszugleichen:  
 
-**Hinweis**: Sie können Bankkonten als separate Aufgabe im Fenster **Bankkonto Abstimmung** abstimmen. Es unterstützt auch Scheckposten. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten von Bankkonten](bank-how-reconcile-bank-accounts-separately.md).
+* Im Fenster **Bankkontoabstimmung** können Sie ebenfalls Einträge prüfen. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten von Bankkonten](bank-how-reconcile-bank-accounts-separately.md).  
+* Das Fenster **Zahlungs-Registrierung**, indem Sie manuell Zahlungseingänge wie Kasse, Scheck oder Bankbuchung für eine generierte Liste der unbezahlten Verkaufsbelegen überprüfen können. Beachten Sie, dass diese Funktionen nur für Verkaufsbelege verfügbar sind.  
+* Das Fenster **Zahlungseingangs Buch.-Blatt**, indem Sie manuell Belege der relevanten Sachkonten, Kunden oder anderer Konten durch Eingabe einer Zahlungsposition buchen können. In diesem Fall können Sie entweder den Wareneingang oder die Rückerstattung mit einem oder mehreren offenen Posten anwenden, bevor Sie das Zahlungseingangs Buch.-Blatt buchen, oder Sie können sie aus den erstellten Debitorenposten erstellen.  
 
-Alternativ können Sie Zahlungen im Fenster **Zahlungs-Registrierung** anwenden, indem Sie manuell Zahlungseingänge wie Kasse, Scheck oder Bankbuchung für eine generierte Liste der unbezahlten Verkaufsbelegen überprüfen. Beachten Sie, dass diese Funktionen nur für Verkaufsbelege verfügbar sind.
+Eine andere Aufgabe, wenn Sie Forderungen verwalten ist es, offene Salden zu erfassen und Zinsrechnungen zu verwalten und Mahnungen auszugeben. [!INCLUDE[d365fin](includes/d365fin_md.md)] bietet Möglichkeiten, dies ebenfalls zu tun. Weitere Informationen finden Sie unter [Vorgehensweise: Offene Salden eintreiben](receivables-collect-outstanding-balances.md)  
 
-Wie eine andere manuelle Abstimmung der Zahlungen können Sie jede Lieferung in die entsprechende Finanzbuchhaltung, in ein Debitoren- oder anderes Konto buchen, indem Sie eine Zahlungszeile im **Zahlungseingangs Buch.-Blatt** ** Fenster eingeben. In diesem Fall können Sie entweder den Wareneingang oder die Rückerstattung mit einem oder mehreren offenen Posten anwenden, bevor Sie das Zahlungseingangs Buch.-Blatt buchen, oder Sie können sie aus den erstellten Debitorenposten erstellen.
+In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den beschriebenen Themen erläutert.  
 
-Eine andere Aufgabe, wenn sie Forderungen verwalten, ist es, offene Salden zu erfassen, einschließlich Finanzeinrichtungsgbühren zu verwalten und Mahnungen auszugeben.
-
-In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den beschriebenen Themen erläutert.
-
-|Aktion |Siehe |
-|---|----|
-|Zahlungen verwenden, um Debitoren- oder Kreditorenposten zu öffnen, indem Sie einen Bankkontoauszug importieren und das Bankkonto abstimmen, wenn alle Zahlungen ausgeglichen werden.|[Zahlungen automatisch vornehmen und Bankkonten abstimmen](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Ausgleichen von Zahlungen mit offenen Debitorenposten auf Grundlage der manuellen Eingabe in einer Liste von unbezahlten Verkaufsbelegen. | [Gewusst wie: Debitoren-Zahlungen aus einer Liste mit unbezahlten Verkaufsbelegen abstimmen](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)|
-|Buchen Sie Zahlungseingänge oder Erstattungen für Debitoren im Zahlungseingangs Buch.-Blatt für Debitorenposten, entweder aus dem Buch.-Blatt oder von gebuchten Posten. | [Vorgehensweise: Manuelle Abstimmung vom Zahlungen](receivables-how-apply-sales-transactions-manually.md) |
-|Erinnern von Debitoren an überfällige Beträge, Berechnen von Zinsen und Finanzeinrichtungs-Gebühren sowie Verwalten von Debitoren | [Vorgehensweise: Einziehen von Restbeträgen](receivables-collect-outstanding-balances.md) |
-
+| Aktion | Siehe |
+| --- | --- |
+| Zahlungen verwenden, um Debitoren- oder Kreditorenposten zu öffnen, indem Sie einen Bankkontoauszug importieren und das Bankkonto abstimmen, wenn alle Zahlungen ausgeglichen werden. |[Zahlungen automatisch vornehmen und Bankkonten abstimmen](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Ausgleichen von Zahlungen mit offenen Debitorenposten auf Grundlage der manuellen Eingabe in einer Liste von unbezahlten Verkaufsbelegen. |[Gewusst wie: Debitoren-Zahlungen aus einer Liste mit unbezahlten Verkaufsbelegen abstimmen](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
+| Buchen Sie Zahlungseingänge oder Erstattungen für Debitoren im Zahlungseingangs Buch.-Blatt für Debitorenposten, entweder aus dem Buch.-Blatt oder von gebuchten Posten. |[Vorgehensweise: Manuelle Abstimmung vom Zahlungen](receivables-how-apply-sales-transactions-manually.md) |
+| Erinnern von Debitoren an überfällige Beträge, Berechnen von Zinsen und Gebühren sowie Verwalten von Debitoren |[Vorgehensweise: Einziehen von Restbeträgen](receivables-collect-outstanding-balances.md) |
+|Stellen Sie sicher, dass Sie die Kosten der versandten Artikel kennen, indem Sie Artikelkosten wie Fracht, Verladen, Versicherung und Transport kennen, die Ihnen entstehen.|[Vorgehensweise: Verwenden von Artikelzuschlägen für zusätzliche Kosten](payables-how-assign-item-charges.md)|
+|Einrichtung einer Toleranz, mit der das System eine Rechnung schließt, selbst wenn die Zahlung einschließlich aller Rabatte nicht vollständig den Betrag der Rechnung abdeckt.|[Vorgehensweise: Mit Zahlungstoleranzen und Skontotoleranzen arbeiten](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 ## <a name="see-also"></a>Siehe auch
-[Verkauf verwalten](sales-manage-sales.md)  
-[Verwalten von Verbindlichkeiten](payables-manage-payables.md)  
-[Arbeiten mit Dynamics NAV](ui-work-product.md)  
-[Übergreifende Geschäftsbereiche](ui-across-business-areas.md)
+[Verkauf](sales-manage-sales.md)  
+[Verwalten von Verbindlichkeiten|](payables-manage-payables.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Allgemeine Geschäftsfunktionen](ui-across-business-areas.md)
 

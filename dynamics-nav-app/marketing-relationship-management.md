@@ -1,33 +1,39 @@
 ---
 title: Marketing & Vertrieb
+description: "Die Funktion „Marketing & Vertrieb” in Dynamics NAV unterstützt Ihre Verkaufsanstrengungen und Sie können damit auf Informationen über Kontakte und Interessenten zugreifen, damit Sie die Debitoren effizient bedienen können."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 1444d49cdd3d51a1adc9f2f999b564ef4aa3ff22
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: contact, prospect, client
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: bf85a4fd44590eea3b4866d63601f0b2aa3fcfb2
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="relationship-management"></a>Marketing & Vertrieb
-Die Marketing & Vertriebsverwaltungsfeatures von Dynamics NAV unterstützen Sie beim Verwalten und Ausführen von Verkaufsmaßnahmen. Mit diesen Features haben Sie Zugriff auf umfassende und exakte Informationen, dank derer Sie Ihre Aktivitäten auf bevorzugte Debitoren-Kontaktsegmente konzentrieren können.
+# <a name="managing-relationships"></a>Verwalten von Beziehungen
+Die Marketing & Vertriebsverwaltungsfeatures von [!INCLUDE[d365fin](includes/d365fin_md.md)] unterstützen Sie beim Verwalten und Ausführen von Verkaufsmaßnahmen. Mit diesen Features haben Sie Zugriff auf umfassende und exakte Informationen, dank derer Sie Ihre Aktivitäten auf bevorzugte Debitoren-Kontaktsegmente konzentrieren können.
 
-Bei Verkaufs- und Marketingmaßnahmen dreht sich alles um die richtige Entscheidung und das richtige Timing. Hierzu wird Ihnen von Dynamics NAV eine exakte und zeitnahe Übersicht über die Kontaktinformationen bereitgestellt, die es Ihnen ermöglicht, Interessenten gegenüber effizienter aufzutreten und die Kundenzufriedenheit zu steigern.
+Bei Verkaufs- und Marketingmaßnahmen dreht sich alles um die richtige Entscheidung und das richtige Timing. [!INCLUDE[d365fin](includes/d365fin_md.md)] stellt eine exakte und zeitnahe Übersicht über die Kontaktinformationen bereit, die es Ihnen ermöglicht, Interessenten gegenüber effizienter aufzutreten und die Kundenzufriedenheit zu steigern.
 
 Um mit der Kostenrechnung anzufangen, sehen Sie sich die folgenden Themen an.
 
 [Kontakte verwalten](marketing-contacts.md)  
 [Verwalten von Segmenten](marketing-segments.md)  
 [Aktivitäten aufzeichnen](marketing-interactions.md)  
+[Verwaltung von Marketingkampagnen](marketing-campaigns.md)  
 [Verkaufschancen verwalten](marketing-manage-sales-opportunities.md)
 
-##<a name="see-also"></a>Siehe auch
-[Verkauf verwalten](sales-manage-sales.md)  
-[Einrichten von Marketing und der Kontaktverwaltung](marketing-setup-marketing.md)
+## <a name="see-also"></a>Siehe auch
+[Verkauf](sales-manage-sales.md)  
+[Marketing & Vertrieb einrichten](marketing-setup-marketing.md)  
+Verwalten Ihrer Debitoren-Verhältnisse mithilfe von Dynamics 365 for Sales in Financials [[!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

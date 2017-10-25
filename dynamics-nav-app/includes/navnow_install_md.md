@@ -1,1 +1,1 @@
-C:\\Program Files\\Microsoft Dynamics NAV\\100
+C:\\Programme\\Microsoft Dynamics NAV\\100

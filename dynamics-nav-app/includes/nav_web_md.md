@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-Webclient
+Microsoft Dynamics NAV Webclient

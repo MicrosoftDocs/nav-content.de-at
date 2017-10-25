@@ -1,38 +1,50 @@
 ---
-title: Zentrale Finanzprozesse einrichten
+title: Finanzprozesse einrichten
+description: "Informationen zu Aufgaben, Finanzen in Ihrem Unternehmen einzurichten, um Ihrer Buchhaltung, oder Buchhaltungsanforderungen Prüfungen zu entsprechen."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a>Finance einrichten
+Damit Sie sich rasch zurechtfinden, enthält [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]  Standardkonfigurationen für die meisten Finanzprozesse. Wenn Sie die Konfiguration ändern müssen, um Ihrem Geschäft zu entsprechen, tun Sie es. Sei können vom Startbildschirm auf eine unterstützte Einrichtung zugreifen, die Sie bespielsweise dabei unterstützt, Verkaufssteuer abhängig von Ihrem Standort einzurichten.  
 
-#<a name="set-up-core-financial-processes"></a>Zentrale Finanzprozesse einrichten
-Dynamics NAV umfasst eine Standardkonfiguration der meisten Finanzvorgänge, aber Sie können die Konfiguration ändern, um Sie den Anforderungen Ihres Unternehmens anzupassen.
-Sei können vom Startbildschirm auf eine unterstützte Einrichtung zugreifen, die Sie bespielsweise dabei unterstützt, Verkaufssteuer abhängig von Ihrem Standort einzurichten. Andere Aspekte des Finanz-Einrichtungs-Managements müssen Sie selbst einrichten, zum Beispiel abhängig davon, ob Sie Dimensionen verwenden wollen.  
+Es gibt jedoch mehrere Elemente, die Sie selber einrichten müssen. Wenn Sie Dimensionen als Grundlage für Business Intelligence verwenden möchten.  
 
 In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den beschriebenen Themen erläutert.
 
-| Aktion                                                                  | Siehe                      |
-|---------------------------------------------------------------------|--------------------------|
-|Wählen Sie aus, wie Sie Zahlungen Ihrer Kreditoren verarbeiten möchten.|[Zahlungsformen](finance-setup-payment-methods.md)|
-|Einrichten von Finanzzeiträumen|[So geht's: Ein neues Geschäftsjahr eröffnen](finance-setup-how-open-new-fiscal-year.md)|
-|Richten Sie zusätzliche Währungen ein, wenn Sie internationalen Handel betreiben.|[Einrichten von Währungen](finance-setup-setup-currencies.md)|
-|Fügen Sie Dimensionen für umfangreichere Business Intelligence hinzu.|[Einrichtung von Dimensionen](finance-setup-setup-dimensions.md)|
-|Fügen Sie dem bestehenden Kontenplan neue Konten hinzu.|[Einrichten eines Kontenplans](finance-setup-setup-chart-accounts.md)|
+| An | Siehe |
+| --- | --- |
+| Wählen Sie aus, wie Sie Ihre Kreditoren bezahlen. |[Zahlungsformen definieren](finance-payment-methods.md) |
+| Buchungsgruppenzuordnungseinheiten nach Debitoren, Kreditoren, Artikel, Ressourcen und Einkaufs- und Verkaufsbelegen mit Sachkonten. |[Buchungsgruppen einrichten](finance-posting-groups.md)|
+|Einrichtung einer Toleranz, mit der das System eine Rechnung schließt, selbst wenn die Zahlung einschließlich aller Rabatte nicht vollständig den Betrag der Rechnung abdeckt.|[Vorgehensweise: Mit Zahlungstoleranzen und Skontotoleranzen arbeiten](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Einrichten von Finanzzeiträumen |[So geht's: Ein neues Geschäftsjahr eröffnen](finance-how-open-new-fiscal-year.md) |
+| Definieren Sie, wie Sie Dienstleistungssteuerbeträge erstellen, die Sie für Verkäufe an das Finanzamt eingetrieben haben. |[So gehts: Melden von MwSt. an die Steuerbehörden](finance-how-report-vat.md)|
+| Einrichten Ihrer Verkaufs- und Einkaufsfunktionen, um Zahlungen in Fremdwährungen abzuwickeln.|[So gehts: Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Fügen Sie dem bestehenden Kontenplan neue Konten hinzu. |[Einrichten des Kontenplans](finance-setup-chart-accounts.md) |
+| Einrichten Business Intelligence (BI)- Diagrammen, um Cashflow zu analysieren. |[Aufstellungs-Cashflow-Analyse](finance-setup-cash-flow-analyses.md) |
+|Aktivierung der Rechnungstellung für einen Kunden, der nicht im System eingerichtet ist.|[Vorgehensweise: Barkunden einrichten](finance-how-to-set-up-cash-customers.md)|
+| Einrichtung von Intrastat-Berichten und Übermitteln des Berichts an eine Behörde | [Gewusst wie: Einrichten von Intrastat-Berichten](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Siehe auch
+[Finanzen](finance.md)]  
+[Verwalten von Bankkonten](bank-manage-bank-accounts.md)  
+[Arbeiten mit Dimensionen](finance-dimensions.md)  
+[Geschäftsdaten aus anderen Finanzsystemen migrieren](upload-data.md)  
+[Analysieren von Cashflow in Ihren Mandanten](finance-analyze-cash-flow.md)  
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Siehe auch
-[Verwalten von Bankkonten](bank-manage-bank-accounts.md)    
-[Dimensionen](finance-setup-dimensions.md)  
+## 
 

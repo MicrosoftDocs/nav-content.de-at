@@ -1,38 +1,40 @@
 ---
-title: Projektmanagement einrichten
+title: Ressourcen, Arbeitszeittabellen und Projekte einrichten
+description: Beschreibt, wie Ressourcen, Arbeitszeittabellen und Projekte eingerichtet werden, um Projekte zu verwalten.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/01/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: cce5d36859336b3380bb43adc4f53b05a664042a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: projects
+ms.date: 06/06/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 610e943f70908c402f3ad78d8ce2ee84e6033110
 ms.contentlocale: de-at
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-project-management"></a>Projektmanagement einrichten
-Bevor Sie Dynamics NAV verwenden können, um Projekte zu verwalten, müssen Sie Ressourcen, Arbeitszeitblätter und Projekte einrichten.
+# <a name="setting-up-project-management"></a>Richten Sie Ihr Projektmanagement ein.
+Bevor Sie [!INCLUDE[d365fin](includes/d365fin_md.md)] verwnden können, um Projekte zu verwalten, müssen Sie Ressourcen, Arbeitszeitblätter und Projekte einrichten.
 
 Dann können Sie Projekte und Planressourcen für Projekte erstellen sowie Budget- und Titelmaschinen- und -Mitarbeiterstunden mit Arbeitszeittabellen verwalten. Weitere Informationen finden Sie unter [Projekte Verwalten](projects-manage-projects.md).  
 
 In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den beschriebenen Themen erläutert.
 
-|An |Siehe |
-|---|----|
-|Legen Sie Ihre Ressourcen und die verwandten Kosten und Preise fest, entweder für einzelne Ressourcen, für Ressourcengruppen oder für alle verfügbaren Ressourcen des Unternehmens.|[Vorgehensweise: Ressourcen einrichten](projects-how-setup-resources.md)|
-|Mit Arbeitszeittabellen kann eine Ressource den Zeitverbrauch für eine Mitarbeiter oder einen Arbeitsplatz einfach melden, und ein Manager kann den Verbrauch und die Verteilung einfach überprüfen.|[Gewusst wie: Einrichten von Arbeitszeittabellen](projects-how-setup-time-sheets.md)
-|Erstellen Sie Projektkarten und bereiten Sie Projektaufgaben vor. Richten Sie Preise für Projektartikel und Projektressourcen ein und definieren Sie Projektbuchungsgruppen.|[So wird's gemacht: Projekte einrichten](projects-how-setup-jobs.md)|
+| An | Siehe |
+| --- | --- |
+| Legen Sie Ihre Ressourcen und die verwandten Kosten und Preise fest, entweder für einzelne Ressourcen, für Ressourcengruppen oder für alle verfügbaren Ressourcen des Unternehmens. |[Vorgehensweise: Ressourcen einrichten](projects-how-setup-resources.md) |
+| Mit Arbeitszeittabellen kann eine Ressource den Zeitverbrauch für eine Mitarbeiter oder einen Arbeitsplatz einfach melden, und ein Manager kann den Verbrauch und die Verteilung einfach überprüfen. |[Gewusst wie: Einrichten von Arbeitszeittabellen](projects-how-setup-time-sheets.md) |
+| Erstellen Sie Projektkarten und bereiten Sie Projektaufgaben vor. Richten Sie Preise für Projektartikel und Projektressourcen ein und definieren Sie Projektbuchungsgruppen. |[So wird's gemacht: Projekte einrichten](projects-how-setup-jobs.md) |
 
 ## <a name="see-also"></a>Siehe auch
 [Projekte verwalten](projects-manage-projects.md)  
-[Finanzen](finance-setup.md)  
-[Einkauf verwalten](purchasing-manage-purchasing.md)         
-[Verkauf verwalten](sales-manage-sales.md)     
-[Arbeiten mit Dynamics NAV](ui-work-product.md)  
+[Finanzen](finance.md)  
+[Einkauf](purchasing-manage-purchasing.md)         
+[Verkauf](sales-manage-sales.md)     
+[Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
