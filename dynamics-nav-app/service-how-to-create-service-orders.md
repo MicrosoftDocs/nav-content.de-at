@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Vorgehensweise: Erstellen von Serviceaufträgen
@@ -100,7 +100,7 @@ Serviceaufträge werden aber nicht automatisch gelöscht, wenn die Gesamtmenge d
 
 1. Alternativ wählen Sie ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben **Fakturierte Serviceaufträge löschen** ein. Wählen Sie dann den zugehörigen Link aus. Das Anforderungsfenster des Batchauftrags **Servicebelegprotok. löschen** wird geöffnet.  
 2. Um die zu löschenden Aufträge auszuwählen, können Sie Filter in den Feldern **Nr.**, **Debitorennr.** und **Rech. an Deb.-Nr.** festlegen. Felder.  
-3. Wählen Sie **OK** aus.  
+3. Wählen Sie die Schaltfläche **OK**.  
 
 
 ## <a name="see-also"></a>Siehe auch  

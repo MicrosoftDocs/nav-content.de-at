@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e41e0eb6dd10127a47b2b6545d0333db700586bc
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: d83e68f31edf2dee9e3e5bc5b73a4861cfe919d7
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="exchanging-data"></a>Austausch von Daten
@@ -29,7 +29,7 @@ Bevor Sie elektronische Belege senden und empfangen oder Bankdateien importieren
 |Wandeln Sie Verkaufsbelege in [!INCLUDE[d365fin](includes/d365fin_md.md)] in ein standardisiertes Format um, und senden Sie sie als elektronische Belege, die Ihre Debitoren in ihrem System empfangen können.|[Gewusst wie: Senden von elektronischen Belegen](sales-how-to-send-electronic-documents.md)|  
 |Senden Sie PDF- oder Bilddateien an einen Anbieter von OCR-Dienstleistungen, um sie in Form von elektronischen Belegen zurückzuerhalten, die in [!INCLUDE[d365fin](includes/d365fin_md.md)] in Belegdatensätze konvertiert werden können.|[Gewusst wie: Verwenden von OCR, um PDF und Bilddateien in elektronische Belege umzuwandeln](across-how-use-ocr-pdf-images-files.md)|  
 |Empfangen Sie elektronische Belege, entweder aus dem OCR-Dienst oder aus dem Beleg-Austauschdienst, in einem standardisierten Format, das sie in die relevanten Belegdatensätze in [!INCLUDE[d365fin](includes/d365fin_md.md)] konvertieren.|[Vorgehensweise: Elektronische Belege empfangen und konvertieren](purchasing-how-to-receive-and-convert-electronic-documents.md)|  
-|Importieren Sie eine Bankauszugsdatei in das Fenster **Zahlungsabstimmungsbuch.-Blatt** als ersten Schritt zur Abstimmung von Zahlungen oder in das Fenster **Bankonto-Abstimmung** als ersten Schritt zur Abstimmung von Bankkonten.|[Zahlungen automatisch anwenden und Bankkonten abstimmen]([Zahlungen automatisch anwenden und Bankkonten abstimmen](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
+|Importieren Sie eine Bankauszugsdatei in das Fenster **Zahlungsabstimmungsbuch.-Blatt** als ersten Schritt zur Abstimmung von Zahlungen oder in das Fenster **Bankonto-Abstimmung** als ersten Schritt zur Abstimmung von Bankkonten.|[Zahlungen automatisch vornehmen und Bankkonten abstimmen](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
 |Exportierten Sie Zahlungen aus dem Fenster **Zahlung Buch.-Blatt** in eine Bankdatei, die Sie auf Ihr elektronisches Bankkonto zur Verarbeitung hochladen.|[Vorgehensweise: Zahlungen in eine Bankdatei exportieren](payables-how-export-payments-bank-file.md)|  
 |Weisen Sie Ihre Bank an, Zahlungsbeträge von den Bankkonten Ihrer Kunden auf das Konto Ihres Unternehmens gemäß Ihrer SEPA-Lastschrift-Einstellung zu überweisen.|[Vorgehensweise: SEPA-Lastschrifteinzugsposten erstellen und in eine Bankdatei exportieren](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
 |Verwenden Sie einen Dienstanbieter für Währungswechselkursen, um die **Währungen** zu aktualisieren.|[Vorgehensweise: Aktualisieren von Währungswechselkursen](finance-how-update-currencies.md)|  

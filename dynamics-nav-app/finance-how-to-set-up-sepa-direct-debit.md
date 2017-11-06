@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>Vorgehensweise: Einrichten von SEPA-Lastschriften
@@ -38,7 +38,7 @@ Bevor Sie Debitorenzahlungen elektronisch durch den Export von Lastschriften im 
 2. Wählen Sie die Aktion **Neu** aus.  
 3. Richten Sie eine Zahlungsmethode ein. Füllen Sie die auf den Lastschrifteinzug bezüglichen Felder gemäß der Beschreibung in der folgenden Tabelle aus.  
 
-    |Feld|[Beschreibung|  
+    |Feld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Lastschrift**|Geben Sie an, ob die Zahlungsmethode für die SEPA-Lastschrift gilt.|  
     |**Zahlungsbedingungscode Lastschrift**|Geben Sie die Zahlungsbedingungen an, wie etwa NICHT ZAHLEN, die auf Verkaufsrechnungen angezeigt werden, die per SEPA-Lastschrift bezahlt werden, um den Debitor darauf hinzuweisen, dass die Zahlung automatisch eingezogen wird. Als Alternative können Sie das Feld leer lassen.|  
@@ -59,7 +59,7 @@ Bevor Sie Debitorenzahlungen elektronisch durch den Export von Lastschriften im 
 4. Wählen Sie im Feld **Debitor-Bankkontenübersicht** das Debitorenbankkonto, das Lastschriften verwenden wird, und wählen Sie dann auf der Registerkarte **Start**, in der Gruppe **Prozess**, **Einzugsermächtigungen**.  
 5. Füllen Sie im Fenster Liste der notwendigen **SEPA-Felder** die Felder gemäß der Beschreibung in der folgenden Tabelle aus.  
 
-    |[Feld|Beschreibung]|  
+    |Feld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Debitor Bankkontocode**|Gibt das Bankkonto an, aus dem Lastschrifteinzüge abgebucht werden. Dieses Feld wird automatisch ausgefüllt.|  
     |**Gültig ab**|Geben Sie das Datum an, an dem das Lastschrift-Mandat beginnt.|  

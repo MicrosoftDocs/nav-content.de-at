@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Einrichten von Verkäufen
@@ -35,7 +35,7 @@ Einrichten von finanzbezogenen Verkäufen wie Zahlungsformen und Währungen werd
 | Einrichten von Verkäufer, sodass Sie diese den Debitorenkontakten zuweisen können oder die Leistung des Verkaufspersonals messen können und als Basis für die Berechnung von Verkaufsprovisionen oder der Prämie zuweisen können. |[Gewusst wie: Verkäufer einrichten](sales-how-setup-salespeople.md) |
 | Geben Sie für einzelne Debitoren oder für alle Debitoren an, wie Verkaufsbelege standardmäßig gesendet werden, wenn Sie die Aktion **Buchen und senden** auswählen. |[Vorgehensweise: Einrichten von Belegsendeprofilen](sales-how-setup-document-send-profiles.md) |
 | Legen Sie die E-Mail a, um eine Zusammenfassung der Informationen des Verkaufsbelegs zu erhalten, der gesendet wird. |[Vorgehensweise: Senden von Belegen über E-Mail](ui-how-send-documents-email.md). |
-|Verwenden Sie einen EU-Webdienst, um die MwSt-IdNr. eines Debitors zu überprüfen.|[Vorgehensweise: Überprüfen der USt-IdNr.](sales-how-to-verify-vat-registration-numbers.md)|
+|Verwenden Sie einen EU-Webdienst, um die MwSt-IdNr. eines Debitors zu überprüfen.|[Vorgehensweise: Überprüfen der USt-IdNr.](finance-setup-vat.md)|
 |Geben Sie Informationen über die verschiedenen eingesetzten Transportkreditoren ein, einschließlich einer Verknüpfung zu ihrem Paketverfolgungsservice.|[Vorgehensweise: Zusteller einrichten](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>Siehe auch

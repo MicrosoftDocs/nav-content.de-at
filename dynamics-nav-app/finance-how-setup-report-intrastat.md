@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 210d8290c7f281d9dc63dc520cf0be71b9a20233
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a>Gewusst wie: Einrichten von Intrastat-Berichten
@@ -101,7 +101,7 @@ Sie können den Intrastat-auch auf einer Datei einreichen. Bevor Sie die Datei e
 2. Wählen Sie im Fenster **Intrastat-Journal** im Feld Buch.-Blattname das relevante **Buch.-Blatt** aus.  
 3. Füllen Sie das Buch.-Blatt manuell aus, oder klicken Sie auf **Posten holen**, sofern das Blatt noch nicht ausgefüllt wurde.  
 4. Wählen Sie die Aktion **Aus Datei erstellen** aus.  
-5. Klicken Sie im Stapelverarbeitungsfenster auf **OK**.  
+5. Wählen Sie die Schaltfläche **OK**, um den Batchauftrag zu starten.  
 6. Wählen Sie **Speichern** aus.  
 7. Navigieren Sie zum gewünschten Speicherort für die Datei, und geben Sie den Dateinamen ein. Klicken Sie auf  **Speichern**. 
 

@@ -12,10 +12,10 @@ ms.search.keywords: VAT, sales, purchases,
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9f42de76f19a80f37ba60783803edde4aa0162ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4a639b0da8e7f06f4120c89e75121edd324e0bfd
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-vat-on-sales-and-purchases"></a>So gehtsf: Arbeiten mit MwSt im Verkauf und Einkauf
@@ -64,7 +64,7 @@ Wenn Skonto auf der Basis einer Rechnung inklusive MwSt. berechnet wurde, haben 
 3. Klicken Sie auf das Inforegister **Fakturierung**.  
   
     > [!NOTE]  
-    >  Der gesamte MwSt.-Betrag für die Rechnung wird gruppiert nach MwSt.-Kennzeichen in den Zeilen angezeigt. Sie können den Betrag manuell im Feld **MwSt.-Betrag** in den Zeilen für jedes MwSt.-Kennzeichen anpassen. Wenn Sie das Feld **MwSt.-Betrag** ändern, prüft die Anwendung, ob die Mehrwertsteuer um einen höheren Betrag als die maximal zulässige Differenz geändert wurde. Liegt der Betrag außerhalb des unter **Max. MwSt.-Differenz zulässig** angegebenen Bereichs, werden Sie in einer Warnmeldung über die maximal zulässige Differenz informiert. Sie können erst dann fortfahren, wenn der Betrag an die zulässigen Parameter angeglichen wurde. Klicken Sie auf **OK** , und geben Sie einen anderen **MwSt.-Betrag** ein, der innerhalb des zulässigen Bereichs liegt. Wenn die MwSt.-Differenz der zulässigen Abweichung entspricht oder höher ist, wird die MwSt. proportional auf die Belegzeilen mit demselben MwSt.-Kennzeichen aufgeteilt.  
+    >  Der gesamte MwSt.-Betrag für die Rechnung wird gruppiert nach MwSt.-Kennzeichen in den Zeilen angezeigt. Sie können den Betrag manuell im Feld **MwSt.-Betrag** in den Zeilen für jedes MwSt.-Kennzeichen anpassen. Wenn Sie das Feld **MwSt.-Betrag** ändern, prüft die Anwendung, ob die Mehrwertsteuer um einen höheren Betrag als die maximal zulässige Differenz geändert wurde. Liegt der Betrag außerhalb des unter **Max. MwSt.-Differenz zulässig** angegebenen Bereichs, werden Sie in einer Warnmeldung über die maximal zulässige Differenz informiert. Sie können erst dann fortfahren, wenn der Betrag an die zulässigen Parameter angeglichen wurde. Klicken Sie auf **OK** und geben Sie einen anderen **MwSt.-Betrag** ein, der innerhalb des zulässigen Bereichs liegt. Wenn die MwSt.-Differenz der zulässigen Abweichung entspricht oder höher ist, wird die MwSt. proportional auf die Belegzeilen mit demselben MwSt.-Kennzeichen aufgeteilt.  
 
 ## <a name="calculating-vat-manually-using-journals"></a>MwSt.-Berechnung mithilfe von Buch.-Blättern manuell berechnen  
 Sie können MwSt.-Beträge auch in den Buch.-Blättern Allgemein, Verkauf und Einkauf anpassen. Dies ist unter Umständen dann erforderlich, wenn Sie eine Kreditorenrechnung in das Buch.-Blatt eingeben und zwischen der von der [!INCLUDE[d365fin](includes/d365fin_md.md)] Anwendung berechneten MwSt. und dem MwSt.-Betrag auf der erhaltenen Kreditorenrechnung eine Differenz besteht.  

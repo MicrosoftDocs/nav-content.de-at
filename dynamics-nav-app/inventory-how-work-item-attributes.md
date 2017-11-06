@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: afc4e69a427fc2a1d97037489dda99486ddb010a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 32de1ddb65b2862ae1e1223bb386cd332cb43a3d
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-item-attributes"></a>Gewusst wie: Arbeiten mit Artikel-Attributen
@@ -24,7 +24,7 @@ Wenn Kundenanfragen zu einem Artikel, entweder über Korrespondenz oder über ei
 Sie können den Artikelkategorien auch Artikelattribute zuordnen, die dann für die Artikel gelten, die die Artikelkategorien verwenden. Weitere Informationen finden Sie unter [So geht's: Artikel kategorisieren](inventory-how-categorize-items.md).
 
 > [!Tip]  
-> Wenn Sie Bildern mit Artikel verknüpfen, kann die Bildanalyse-Erweiterung Attribute im Bild erkennen und die Attribute vorschlagen, so dass Sie entscheiden können, ob Sie diese zuweisen möchten. Die Erweiterung ist bereit. Sie müssen sie nur aktivieren. Weitere Informationen finden Sie unter [Die Bild-Analyzer-Eweiterung für Microsoft Dynamics NAV](ui-extensions-image-analyzer.md).
+> Wenn Sie Bildern mit Artikel verknüpfen, kann die Bildanalyse-Erweiterung Attribute im Bild erkennen und die Attribute vorschlagen, so dass Sie entscheiden können, ob Sie diese zuweisen möchten. Die Erweiterung ist bereit. Sie müssen sie nur aktivieren. Weitere Informationen finden Sie unter [Die Bild-Analyzer-Eweiterung für [!INCLUDE[navnow](includes/navnow_md.md)]](ui-extensions-image-analyzer.md).
 
 ## <a name="to-create-item-attributes"></a>So erstellen Sie Artikelattribute
 1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben **Artikelattribute** ein und wählen den zugehörenden Link aus.

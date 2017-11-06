@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 30074087545e8ca01b9a3cc956c8cc6ef938d8ae
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a>Vorbereitungen zum Tätigen von Geschäften
@@ -42,7 +42,7 @@ Wenn Sie eine unterstützte Einrichtung ausgeführt haben, wird sie als **Abgesc
 Auf der Startseite haben Sie einen Überblick über Ihr Unternehmen. Links sehen Sie eine Navigationsleiste, die Ihnen Zugriff auf Debitoren, Kreditoren, Artikel usw. gibt. Im Mittelpunkt finden Sie die Kacheln **Aktivitäten**. **Aktivitäten** zeigen Sie aktuelle Daten an und können für einen einfachen Zugriff auf ausgewählten Beleg angeklickt oder getippt werden. Die **Zentralen Leistungs-Indikatoren** können eingerichtet werden, um ein ausgewähltes Diagramm für eine visuelle Darstellung anzuzeigen, zum Beispiel, Cashflow oder Einnahmen und Ausgaben. Sie können eine Liste von **Lieblingsdebitoren** der Homepage auch für Konten einrichten, mit denen Sie häufig Geschäfte tätigen oder besondere Aufmerksamkeit geben müssen.
 Verwenden Sie die Pfeile, um einen Teil der Seite zu verkleinern und mehr Platz hinzuzufügen, um bestimmte Daten anzuzeigen. Bei der Hierarchie der Homepage finden Sie alle Aktionen, die dem aktuellen Inhalt hinzugefügt werden können. Diese kann auch reduziert werden und Sie müssen nur innerhalb des reduzierten Bereichs klicken oder tippen, um den Inhalt wieder anzuzeigen.
 
-## <a name="company-information"></a>Firmendaten
+## <a name="company-information"></a>Unternehmensdaten
 Unter **Mandanten-Einstellungen** können Sie Informationen über den aktuellen Mandanten anzeigen und einrichten. Vieles davon wurde bereits beim **Einrichten des Mandanten** ausgefüllt bei der Anmeldung zu Pro[!INCLUDE[d365fin](includes/d365fin_md.md)]. Wenn Sie das Firmenlogo, die Kontaktinformation, die Bankeinstellungen oder die Steuerdaten ändern möchten, können Sie dies in diesem Fenster tun.    
 
 ## <a name="adding-users-and-permissions"></a>Hinzufügen von Benutzern und von Berechtigungen

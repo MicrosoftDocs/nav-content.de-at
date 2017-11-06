@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 42ada458f7cdeced83ee9bceb4b997691f3cf8bb
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a>Designdetails: Interner Lagerfluss
@@ -103,7 +103,7 @@ An einem Unternehmensstandort konzentriert sich der Warenfluss zwischen Lagerpl�
 1.  Der Fertigungsbereichsvorgesetzte gibt den Fertigungsauftrag frei. Artikel mit der Buchungsmethode **Vorwärts** und keinem Verbindungscode werden vom Off. Fert.-Ber.-Lagerplatz. abgezogen.  
 2.  Der Fertigungsbereichsvorgesetzte wählt die Schaltfläche **Kommissionierung erstellen** auf dem Fertigungsauftrag aus. Ein Lager-Kommissionierbeleg wird für die Kommissionierung von Artikel mit den Buchungsmethoden **Manuell**, **Kommiss. + Rückwärts** und **Kommiss. + Vorwärts** erstellt. Diese Artikel werden in den Fert.-Bereitst.-Lagerplatzcode aufgeführt.  
 3.  Der Lagermanager weist einem Lagermitarbeiter die Kommissionierungen zu.  
-4.  Der Lagermitarbeiter kommissioniert die Artikel aus den jeweiligen Lagerplätzen und platziert sie im Fert.-Bereitst.-Lagerplatzcode oder in dem Lagerplatz, der in der Kommissionierung angegeben ist, d. h. einem Arbeitsplatz oder einer Arbeitsplatzgruppe).  
+4.  Der Lagermitarbeiter kommissioniert die Artikel aus den jeweiligen Lagerplätzen und platziert sie im Fert.-Bereitst.-Lagerplatzcode oder in dem Lagerplatz, der in der Kommissionierung angegeben ist.  
 5.  Der Lagermitarbeiter registriert die Kommissionierung. Die Menge wird von den Kommissionierlagerplätzen abgezogen und dem Verbrauchslagerplatz hinzugefügt. Das Feld **Menge kommissioniert** auf der Komponentenliste für alle kommissionierten Artikel wird aktualisiert.  
 
     > [!NOTE]  

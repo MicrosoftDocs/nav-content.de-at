@@ -12,10 +12,10 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 07/07/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: eebf2005d6317e4e2bf328b5a4b13584e3c96c5f
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 109eb8d0e2a38566739878ef513ffa3bec8dcd30
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="customizing-dynamics-nav-using-extensions"></a>Dynamics NAV Benutzererweiterungen anpassen
@@ -49,7 +49,6 @@ Einige Erweiterungen werden von Microsoft bereitgestellt, und andere Erweiterung
 Microsoft stellt die folgenden Erweiterungen bereit:  
 
 * [Dynamics GP Datenmigration](ui-extensions-dynamicsgp-data-migration.md)  
-* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [QuickBooks Datenmigration](ui-extensions-quickbooks-data-migration.md)  
 * [Umsatz- und Lagerbestandsplanung](ui-extensions-sales-forecast.md)  

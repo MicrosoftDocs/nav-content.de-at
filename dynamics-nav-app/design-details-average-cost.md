@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9d87ba48d7b8a20f90dcbdb7e3b7a26eba42208c
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 834dd4839c535e987eebe337b7de8a753503556b
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-average-cost"></a>Designdetails: Durchschnittskosten
@@ -51,7 +51,7 @@ Die Durchschnittskosten eines Artikels werden mit einem periodischen gewichteten
  Das Programm wendet diesen durchschnittlichen Einstandspreis dann mit den Buchungsdaten auf die Lagerabgänge für den Artikel (oder Artikel, Lagerort und Variante) an, die es in der Durchschnittskostenperiode gegeben hat. Wenn Bestandszunahmen vorhanden sind, die fest mit Bestandsminderungen in der Durchschnittskostenperiode verknüpft sind, werden die berechneten Durchschnittskosten von der Zunahme zur Minderung übertragen.  
 
 ### <a name="example-average-cost-period--day"></a>Beispiel: Durchschnittskostenperiode = Tag  
- Das folgende Beispiel zeigt die Auswirkungen der Berechnung der Durchschnittskosten auf der Grundlage einer Durchschnittskostenperiode von einem Tag. Das Feld **Durchschnittlicher Kostenberechnungstyp** im Fenster **Lager Einrichtung** ist auf **Artikel** festgelegt.  
+ Das folgende Beispiel zeigt die Auswirkungen der Berechnung der Durchschnittskosten auf der Grundlage einer Durchschnittskostenperiode von einem Tag. Das Feld **Durchschnittlicher Kostenberechnungstyp** im Fenster **Lager Einrichtung**"  ist auf **Artikel** festgelegt.  
 
  Die folgende Tabelle zeigt Artikelposten für den Beispiel-Durchschnittkostenartikel, ITEM1, bevor die **Lagerreg. fakt. Einst. Preise**-Stapelverarbeitung ausgeführt wurde.  
 

@@ -12,14 +12,14 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8df580f599db12ab2f56a3bbeeb880fa12afb081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 08a832708dcbb550e880d2a669af265b2fb670b5
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
-# <a name="the-image-analyzer-extension-for-microsoft-dynamics-nav"></a>Bild-Analyzer-Erweiterung beenden für Microsoft Dynamics NAV
+# <a name="the-image-analyzer-extension-for-includenavnowincludesnavnowmdmd"></a>Bild-Analyzer-Erweiterung beenden für [!INCLUDE[navnow](includes/navnow_md.md)]
 Die Bild-Analyser-Erweiterung verwendet die leistungsstarke Bildanalytik, die von der Computer Vision API for Microsoft Cognitive Servcies bereitgestellt wird, um Attribute in Bildern zu ermitteln, die Sie für Artikel und Kontaktpersonen importieren, sodass Sie sie einfach überprüfen und zuordnen können. Für Artikel können Attribute sein, ob der Artikel eine Tabelle oder ein Auto ist und und ob er rot oder blau ist. Für Personen können Attribute Geschlecht oder Alter sein.
 
 Bild-Analyser schlagen Attribute basierend auf Tags vor, die der Computer Vision API findet und einen Vertrauensbereich. Standardmäßig schlägt er Attribute vor, wenn mindestens zu 80% sichergestellt ist, dass das Attribut korrekt ist. Sie können einen anderen Vertrauensbereich festlegen, nach Bedarf. Um mehr darüber zu erfahren, wie die Kategorien und der Vertrauensbereich bestimmt wird, gehen Sie zu[Computer Vision API](https://go.microsoft.com/fwlink/?linkid=851476).  
@@ -48,12 +48,12 @@ Die Bild-Analyser-Erweiterugn ist in [!INCLUDE[d365fin](includes/d365fin_md.md)]
 > Um die Bild-Analyzer-Erweiterung zu aktivieren, müssen Sie ein Administrator sein. Überprüfen, ob Sie dem Benutzerberechtigungssatz **SUPER** zugeordnet werden.
 
 1. Um die Bild-Analyser-Erweiterung auszuführen, führen Sie einen der folgenden Schritte aus:
-  
+
 * Öffnen Sie eine Kontaktkarte. In der Benachrichtigungsleiste wählen Sie **Bilder analysieren** und führen Sie dann die Schritte im unterstützen Einrichtungshandbuch durch.  
 * Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "") Symbol **Service-Verbindungen** und dann **Bild-Analyse einrichten** ein. In der Benachrichtigungsleiste wählen Sie **Bilder analysieren aktivieren** und führen Sie dann die Schritte im unterstützen Einrichtungshandbuch durch.  
 
 >   [!TIP]  
->   Auf der Seite **Bildanalyse-Einrichtung** können Sie auch den Grad des Vertrauens für Attributvorschläge ändern. Wenn Sie beispielsweise einen höheren Prozentsatz an Vertrauen möchten, können Sie einen höheren Prozentsatz eingeben. 
+>   Auf der Seite **Bildanalyse-Einrichtung** können Sie auch den Grad des Vertrauens für Attributvorschläge ändern. Wenn Sie beispielsweise einen höheren Prozentsatz an Vertrauen möchten, können Sie einen höheren Prozentsatz eingeben.
 
 ## <a name="to-analyze-an-image-of-an-item"></a>Um ein Bild eines Artikels zu analysieren
 Die folgenden Schritte beschreiben, wie ein Bild analysiert wird, das importiert wurde, bevor Sie die Bild-Analyse-Erweiterung aktivierten.  
@@ -74,16 +74,16 @@ Die folgenden Schritte beschreiben, wie ein Bild analysiert wird, das importiert
 
 ## <a name="to-use-your-own-account-for-the-computer-vision-api"></a>Um Ihr eigenes Konto für die Computer Vision API zu verwenden
 Sie können auch Ihr eigenes Konto für die Computer Vision API verwenden, beispielsweise wenn Sie mehr Bilder analysieren möchten als wir zulassen..  
-  
+
 1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben die **Bild-Analyse einrichten** ein. Wählen Sie dann den zugehörigen Link aus.  
 2. Geben Sie die **API URI** und die **API Key** ein,  die Sie für die Computer Vision API erhalten.  
-  
+
 >   [!NOTE]  
 >   Sie müssen am Ende **/analyze** API URIs hinzufügen hinzufügen, wenn nicht bereits vorhanden ist. Zum Beispiel: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a>Um zu sehen, wie viele Analysen Sie in der laufenden Periode gelassen haben
 Sie können die Anzahl Analysen anzeigen, die Sie durchgeführt haben, und wie viele Sie noch tun können, in der laufenden Periode.  
-  
+
 1. Alternativ wählen Sie in der rechten oberen Ecke das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben die **Bild-Analyse einrichten** ein. Wählen Sie dann den zugehörigen Link aus.  
 2. **Grenzentyp**, **Grenzwert** und **Analye ausgeführt** liefer die Verbrauchsdaten.  
 
@@ -95,5 +95,4 @@ Sie können die Anzahl Analysen anzeigen, die Sie durchgeführt haben, und wie v
 [Gewusst wie: Arbeiten mit Artikelattributen](inventory-how-work-item-attributes.md)  
 [Anpassen [!INCLUDE[d365fin](includes/d365fin_md.md)] Erweiterungen nutzenb](ui-extensions.md)  
 [Willkommen bei [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
-
 

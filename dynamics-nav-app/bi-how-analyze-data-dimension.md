@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/13/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a86031e20e7a5de266405166ee8025cde7221602
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2ea54861f8203406cf6c9d110ad2317b8f883dde
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 #  <a name="how-to-analyze-data-by-dimensions"></a>Vorgehensweise: Analysieren von Daten nach Dimensionen
@@ -50,7 +50,7 @@ In der Matrix **Verkaufsanalyse nach Dim.** können Sie die Beträge in der Fina
 >   Die ausgewählte Periodenlänge muss mindestens der Länge der Periode entsprechen, die auf der Karte **Analyseansicht** für die Datumskomprimierung angegeben ist. Die Befehle **Nächster Satz** und **Vorheriger Satz** sind inaktiv, wenn im Feld **Periode** oder im Feld **Als Zeile anzeigen** oder das Feld **Als Spalten anzeigen** gewählt wurde.  
 
 > [!NOTE]  
->   Sie können den Bericht **Dimensionen - Detail** auswählen, um eine detaillierte Aufstellung anzuzeigen, wie über eine ausgewählte Periode Dimensionen in den Posten angewendet wurden. Den Bericht  **Dimensionen - Total** können Sie verwenden, um nur die Gesamtbeträge anzuzeigen.  
+>   Sie können den Bericht **Dimensionen - Detail** auswählen, um eine detaillierte Aufstellung anzuzeigen, wie über eine ausgewählte Periode Dimensionen in den Posten angewendet wurden. Mit dem Bericht **Dimensionen - Total** können Sie die Anzeige auf die Gesamtbeträge beschränken.  
 
 > [!TIP]  
 >   Sie können die Ansicht auch verändern, indem Sie die Inhalte der Felder **Zeilenansicht** und **Spaltenansicht** verändern. Um eine Ansichtseinstellung auszutauschen, wählen Sie die **Zeilen- und Spaltenansicht vertauschen**.

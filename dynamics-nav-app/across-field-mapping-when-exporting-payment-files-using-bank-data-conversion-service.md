@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 853638b75e426e3eae383f3b5cc3a5d139c8885f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7eebca3303e9844e4ec8be2940104f9cb7216f6a
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Feld-Zuordnung beim Exportieren von Zahlungsdateien unter Verwendung von Bankdaten-Konvertierungsdienst
@@ -25,9 +25,9 @@ Wenn Sie Zahlungsdateien exportieren, indem Sie die Bankdaten-Konvertierungsdien
 
 In der folgenden Tabelle sind die Felder in [!INCLUDE[d365fin](includes/d365fin_md.md)] ausgefüllt, aus denen Daten zu dem Dienstanbieter exportiert werden können.  
 
-|Zugeordnetes Feld|Feld in Tabelle|Tisch|Beschreibung]-->|  
+|Zugeordnetes Feld|Feld in Tabelle|Tisch|Description|  
 |------------------|--------------------|-----------|---------------------------------------|  
-|Kreditornummer|Kreditornummer|Bankkonto|Die Identifikationsnummer, die Ihrem Unternehmen von Ihrer Bank zugeordnet wurde, um Zahlungen zu erfassen|  
+|Gläubiger-Identifikationsnummer|Gläubiger-Identifikationsnummer|Bankkonto|Die Identifikationsnummer, die Ihrem Unternehmen von Ihrer Bank zugeordnet wurde, um Zahlungen zu erfassen|  
 |Bankkontonr. des Absenders|Bankkontonummer/IBAN|Bankkonto|Die Bankkontonummer (IBAN oder sonstige) Ihres Unternehmens, die auf der Bankkontokarte angegeben ist|  
 |Absenderbank-Clearing-Standard|Bank-Clearing-Standard|Bankkonto|Das Nationale Register der Banknamen für das Bankkonto des Absenders|  
 |Clearing-Code Absenderbank|Bank-Clearing-Code|Bankkonto|Die Identifikationsnummer Bank des Absenders in Bezug auf das Bankadressenregister, das verwendet wird|  

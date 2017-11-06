@@ -12,10 +12,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="setting-up-finance"></a>Finance einrichten
@@ -39,12 +39,12 @@ In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den 
 | Einrichtung von Intrastat-Berichten und Übermitteln des Berichts an eine Behörde | [Gewusst wie: Einrichten von Intrastat-Berichten](finance-how-setup-report-intrastat.md)|
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance.md)]  
+[Finanzen](finance.md)  
 [Verwalten von Bankkonten](bank-manage-bank-accounts.md)  
 [Arbeiten mit Dimensionen](finance-dimensions.md)  
 [Geschäftsdaten aus anderen Finanzsystemen migrieren](upload-data.md)  
 [Analysieren von Cashflow in Ihren Mandanten](finance-analyze-cash-flow.md)  
 [Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 
+##
 

@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Verwalten Ihrer Debitoren-Verhältnisse mithilfe von Dynamics 365 for Sales in Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Die erstellten Debitoren und Verkäufe in Dynamics 365 for Sales verwalten
 Wenn Sie 365 Dynamics for Sales für Debitorenverpflichtung verwenden, können Sie [!INCLUDE[d365fin](includes/d365fin_md.md)] für Prozesse und Finanzen verwenden und eine nahtlose Integration in bargeldlose Prozesse haben.
 
 Wenn Ihre Anwendung für die Integration mit Dynamics 365 eingerichtet ist, haben Sie Zugriff auf Umsatzdaten von [!INCLUDE[d365fin](includes/d365fin_md.md)] und in einigen Fällen auf umgekehrte Art. Mit dieser Integration können Sie mit Datentypen, die von beiden Diensten verwendet werden, arbeiten und diese synchronisieren. Dazu zählen etwa Debitoren, Kontakte und Verkaufsinformationen. Außerdem können Sie die Daten an beiden Lagerorten auf dem aktuellen Stand halten.  
 
-Beispielsweise kann der Verkäufer in Dynamics 365 for Sales die Preislisten verwenden aus [!INCLUDE[d365fin](includes/d365fin_md.md)] wenn Sie einen Verkaufsauftrag erstellen. Wenn Artikel in der Verkaufsauftragszeile in Dynamics 365 for Sales hinzugefügt werden, sie sind auch in der Lage, den Lagerbestand (Verfügbarkeit) des Artikels anzuzeigen von [!INCLUDE[d365fin](includes/d365fin_md.md)]. Diese Daten dienen als Teil der unterstützten Einrichtung **Dynamics 365 Verbindungseinrichtung**.  
+Beispielsweise kann der Verkäufer in Dynamics 365 for Sales die Preislisten verwenden aus [!INCLUDE[d365fin](includes/d365fin_md.md)] wenn Sie einen Verkaufsauftrag erstellen. Wenn Artikel in der Verkaufsauftragszeile in Dynamics 365 for Sales hinzugefügt werden, sie sind auch in der Lage, den Lagerbestand (Verfügbarkeit) des Artikels anzuzeigen von [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Andererseits können Auftragsbearbeiter in [!INCLUDE[d365fin](includes/d365fin_md.md)] die speziellen Eigenschaften aus automatisch oder manuell übertragenen Verkaufsaufträgen von Dynamics 365 for Sales behandeln, wie Verkaufsaufträge für Artikel oder Ressourcen, die in Sales als geschriebene Produkte eingegeben wurden, erstellen und verbuchen. Weitere Informationen finden Sie im Abschnitt "Behandlungs-der speziellen Verkaufsauftrags-Daten".  
+
+> [!NOTE]
+> Bevor Sie Dynamics 365 for Sales integrieren können, müssen Sie verschiedene technische Vorbereitungen durchführen. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten einer Verbindung von Dynamics CRM](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) und [Vorgehensweise: Dynamics CRM für die Integration vorbereiten](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) in MSDN.
 
 ## <a name="setting-up-the-connection"></a>Einrichten der Verbindung
-Von der Startseite können Sie auf die **Dynamics 365-Verbindungseinrichtung** unterstützte Einrichtung zugreifen, der Ihnen hilft, den Link einzurichten. Sobald Sie das getan wird, haben Sie eine nahtlose Kopplung der Dynamics 365 for Sales Datensätze mit [!INCLUDE[d365fin](includes/d365fin_md.md)] Datensätzen.  
+Von der Startseite können Sie auf den unterstützten Setup für **Dynamics 365 for Sales Verbindungseinrichtung** zugreifen, der Ihnen hilft, den Link einzurichten. Sobald Sie das getan wird, haben Sie eine nahtlose Kopplung der Dynamics 365 for Sales Datensätze mit [!INCLUDE[d365fin](includes/d365fin_md.md)] Datensätzen.  
 
 > [!NOTE]  
->   Das folgende berücksichtigt die unterstützte Einrichtung, aber Sie können dieselben Aufgaben im Fenster **Dynamics 365 Verbindungseinrichtung** manuell ausführen.
+> Das folgende berücksichtigt den unterstützten Setup, aber Sie können dieselben Aufgaben im Fenster **Dynamics 365 for Sales Verbindungseinrichtung** manuell ausführen.
 
 Im unterstützten Einrichtungshandbuch können Sie auswählen, welche Daten zwischen den beiden Services zu synchronisieren sind. Sie können auch festlegen, dass Sie die vorhandene Lösung in Microsoft Dynamics 365 for Sales importieren möchten. In diesem Fall müssen Anmeldeinformationen für ein Administratorkonto angeben.
 
@@ -75,6 +80,13 @@ Am Ende der unterstützen Einrichtung können Sie die Aktion **Vollständige Syn
 Um den Status aus einzelnen Projekte in einer vollständigen Synchronisierung sicherzustellen, blättern Sie im **Projektwarteschlangenposten-Status** nach unten zum Feld **Um Int. Tabellen-Projekt-Status** oder **Von Int. Tabellen-Projekt-Status** im Fenster **CRM Full Synch. Prüfen**.
 
 Im Fenster **Dynamics 365 Verbindungseinrichtung** können Sie Details über sämtliche Synchronisierungen sehen. Von hier können Sie das Fenster **Integrationstabellenzuordnungen** auch öffnen, um Details über die Tabellen in Dynamics NAV und der Dynamics 365 for Sales-Lösung finden, die synchronisiert werden müssen.
+
+## <a name="handling-special-sales-order-data"></a>Auflösen von bestimmten Verkaufsauftrags-Daten
+Verkaufsaufträge in Dynamics 365 for Sales werden automatisch übertragen in [!INCLUDE[d365fin](includes/d365fin_md.md)], wenn Sie das Kontrollkästchen **Automatisches Erstellen von Verkaufsaufträgen** im Fenster **Microsoft Dynamics 365 for Sales Verbindungseinrichtung** auswählen. In solchen Verkaufsaufträgen wird das **Name** Feld im ursprünglichen Auftrag dem Feld **Externe Belegnummer** im Verkaufsauftrag in [!INCLUDE[d365fin](includes/d365fin_md.md)] übertragen und zugeordnet.
+
+Dies kann auch gehen, wenn der ursprüngliche Verkaufsaufttag geschriebene Produkte enthält, d.h. Artikel oder Ressourcen sind nicht in beiden Produkten erfasst worden. In diesem Fall müssen Sie die Felder**Geschriebenen Produkttyp** und die **Geschriebene Produktnummer** ausfüllen im Fenster **Debitoren & Verkauf Einr.**, damit solche nicht-registrierte Produktverkäufe in einem angegebenen Artikel/einer Ressourcennummer für Finanzanalyse zugeordnet werden.
+
+Wenn die Artikelbeschreibung des ursprünglichen Verkaufsauftrag sehr lang ist, wird eine zusätzliche Verkaufsauftragszeile der Art Bemerkung erstellt, um den Text in dem Verkaufsauftrag festzuhalten[!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Siehe auch
 [Marketing & Vertrieb](marketing-relationship-management.md)  

@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Besuchen Sie unsere Videobibliothek
@@ -35,8 +35,8 @@ Sie können die Videos auf verschiedene Arten aufrufen. Wenn Sie bereits arbeite
 
 > [!Tip]  
 > Zusätzlich zu den Videos **Geschäfts-Hilfe** schließt Ressourcen wie Verknüpfungen zu den Themen und unterstützte Einrichtungshandbücher ein, die es einfacher machen, alles einzurichten. Diese Ressourcen ersetzen das Diagramm im Rollencenter. Nachdem Sie Ressourcen untersuchen, können Sie wieder auf das Diagramm im Menü **Geschäfts-Hilfe** umschalten, indem Sie **Diagramm anzeigen** auswählen.  
-  
-Sie können unser Anleitungsvideo und andere Inhalte auf dem YouTube-Kanal sehen, der für Microsoft Dynamics NAV erstellt wurde. Um den Kanal jetzt zu besuchen [klicken Sie hier](https://go.microsoft.com/fwlink/?linkid=851533).
+
+Sie können unser Anleitungsvideo und andere Inhalte auf dem YouTube-Kanal sehen, der für [!INCLUDE[navnow](includes/navnow_md.md)] erstellt wurde. Um den Kanal jetzt zu besuchen [klicken Sie hier](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>Siehe auch
 [Willkommen bei [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)

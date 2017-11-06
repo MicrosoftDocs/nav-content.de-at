@@ -12,10 +12,10 @@ ms.search.keywords: stock
 ms.date: 08/15/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b046027ef9327603b58111ba578dfe1c5254d081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 81872839df11a13489bbc192ad97dae04976ebb0
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-the-availability-of-items"></a>Vorgehensweise: Artikelverfügbarkeit anzeigen
@@ -26,10 +26,10 @@ Sie können die Verfügbarkeit aller Artikel pro Lagerplatz anzeigen, und Sie k�
 > [!NOTE]  
 >   Die Verfügbarkeitsansichten nach Lagerplatz erfordern, dass Sie den Lagerbestand an mehr als einem Lagerplatz verwalten. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten von Lagerplätzen](inventory-how-setup-locations.md).
 
-In  [Mithilfe [!INCLUDE[d365fin](includes/d365fin_md.md)]werden Verfügbarkeitszahlen in zwei verschiedenen Feldern angezeigt, jedes mit einer anderen Definition:
+In [!INCLUDE[d365fin](includes/d365fin_md.md)] werden Verfügbarkeitszahlen in zwei verschiedenen Feldern angezeigt, jedes mit einer anderen Definition:
 
 * Das Feld **Lagerbestand** zeigt die tatsächliche Menge heute entsprechend den Sachkontoeinträgen für gebuchte Artikel an.
-* Das Feld **Verfügbarkeitssaldo** wird berechnet und zeigt den Lagerbestand sowie geplante Zugänge abzüglich des Bruttobedarfs an. (In  [Mithilfe von[!INCLUDE[d365fin](includes/d365fin_md.md)] enthalten geplante Belege Mengen in Bestellungen und eingehenden Umlagerungsaufträgen. Bruttobedarf enthält Mengen der Verkaufsaufträge und ausgehenden Umlagerungsaufträge).
+* Das Feld **Verfügbarkeitssaldo** wird berechnet und zeigt den Lagerbestand sowie geplante Zugänge abzüglich des Bruttobedarfs an. (In [!INCLUDE[d365fin](includes/d365fin_md.md)] enthalten geplante Belege Mengen in Bestellungen und eingehenden Umlagerungsaufträgen. Bruttobedarf enthält Mengen der Verkaufsaufträge und ausgehenden Umlagerungsaufträge).
 
 > [!TIP]  
 >   Der Verfügbarkeitssaldo ist insbesondere relevant zum Anzeigen in den Fenstern **Artikelverfügb. nach Perioden** und **Artikelverfügbarkeit nach Ereignis**, da diese die Datumsdimension enthalten.  

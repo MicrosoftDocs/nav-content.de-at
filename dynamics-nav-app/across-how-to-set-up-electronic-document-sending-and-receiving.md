@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2f6b2b6809ef2a8421b677c7f7b2d2c724b5664f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3ddac8fe7edaded893d7bf63538e3145dead0602
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-electronic-document-sending-and-receiving"></a>Gewusst wie: Einrichten des Senden und Empfangen von elektronischen Belegen
@@ -100,7 +100,7 @@ In diesem Thema werden die folgenden Prozeduren beschrieben:
 ### <a name="to-select-the-peppol-electronic-document-format-for-electronic-document-sending"></a>Auswählen des elektronischen Belegformats PEPPOL zum Senden von elektronischen Belegen  
 1. Geben Sie im Feld **Suchen** den Text **Belegsendeprofile** ein, und wählen Sie dann den zugehörigen Link aus.  
 2. Öffnen Sie ein vorhandenes Sendeprofil für Belege, oder erstellen Sie ein neues. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten von Sendeprofilen](sales-how-setup-document-send-profiles.md).  
-3. Das Fenster **Belegsendeprofil** kann jetzt im **Elektronisches Format**-Feld in der Zeile für PEPPOL ausgewählt werden. Wählen Sie dann die Schaltfläche **OK**.  
+3. Das Fenster **Belegformat** kann jetzt im **Elektronisches Format**-Feld in der Zeile für PEPPOL ausgewählt werden. Wählen Sie dann die Schaltfläche **OK**.  
 4. Wählen Sie im Feld **Elektronisches Do,ument** die Option **Ja (über Belegaustauschdienst)** aus.  
 
     > [!NOTE]  

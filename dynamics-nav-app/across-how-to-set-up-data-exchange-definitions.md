@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3181a02648744d262fffc0a43dd3a3b947d85b8
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cbff54371bd17d03fa3bf599f47994a351751551
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-data-exchange-definitions"></a>Vorgehensweise: Richten Sie Datenaustauschdefinitionen ein.
@@ -102,7 +102,7 @@ Das Erstellen einer Datenaustauschdefinition beinhaltet zwei Aufgaben:
 
 9. Wiederholen Sie Schritt 8 für jede Spalte oder jedes XML-Element in der Datendatei, die/das Daten hat, die Sie mit [!INCLUDE[d365fin](includes/d365fin_md.md)] austauschen möchten.  
 
- Der nächste Schritt bei der Erstellung einer Datenaustauschdefinition besteht darin, zu entscheiden, welche Spalten oder XML-Elemente welchen Feldern in [!INCLUDE[d365fin](includes/d365fin_md.md)] zugeordnet werden sollen].  
+ Der nächste Schritt bei der Erstellung einer Datenaustauschdefinition besteht darin, zu entscheiden, welche Spalten oder XML-Elemente welchen Feldern in [!INCLUDE[d365fin](includes/d365fin_md.md)] zugeordnet werden sollen.  
 
 > [!NOTE]  
 >  Die spezielle Zuordnung hängt vom Geschäftszweck der Datendatei ab, die ausgetauscht werden soll, sowie von lokalen Variationen. Selbst der SEPA-Bankstandard verfügt über lokale Variationen. [!INCLUDE[d365fin](includes/d365fin_md.md)] Stützimport von SEPA Bankkontoauszug CAMT archiviert Out\-of\-the\-Box. Dies wird durch den **SEPA CAMT**-Datenaustausch-Definitionsdatensatzcode im **Datenaustauschdefintion**-Fenster angezeigt. Informationen über die bestimmte Feldzuordnung dieser SEPA CAMT Unterstützung, siehe. [Feld-Zuordnung, wenn sie SEPA CAMT Dateien importieren](across-field-mapping-when-importing-sepa-camt-files.md).  

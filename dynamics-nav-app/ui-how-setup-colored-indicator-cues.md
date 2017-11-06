@@ -12,10 +12,10 @@ ms.search.keywords: personalize, customize
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cb231bdf438363f66b806369e2d0041e4ff014e2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6a2b7deb2f256e3b6bf52f1b0a66fe47d049c452
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-a-colored-indicator-on-cues"></a>Vorgehensweise: Einrichten eines farbigen Indikators auf Stapeln des Rollencenters
@@ -36,7 +36,7 @@ Die folgende Tabelle enthält die Farben, die den Optionen der **Format des unte
 
 | Option | Farbe |
 | --- | --- |
-| **Keine** |Keine Farbe (dieselbe Farbe wie die Stapelfläche |
+| **Keine** |Keine Farbe (dieselbe Farbe wie die Stapelfläche)|
 | **Vorteilhaft** |Grün |
 | **Ungünstig** |Rot |
 | **Mehrdeutig** |Gelb |

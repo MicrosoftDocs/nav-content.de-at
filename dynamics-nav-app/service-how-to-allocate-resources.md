@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fb0d7651e9ffb273f7aecedf5ff5072a1235b992
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7882727735c38a11281ef22ac94b82f543b712b7
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -36,7 +36,7 @@ Sie benötigen u. U. eine Übersicht an Serviceaufträgen oder Serviceangeboten
 6. Wenn Sie eine Übersicht der Belege erhalten möchten, die zu einem bestimmten Vertrag/Debitor/Servicegebiet gehören, füllen Sie die Felder **Vertragsfilter/Debitorenfilter/Servicegebietsfilter** aus und betätigen Sie **Enter**.  
 7. Wählen Sie eine Zeile aus, die einem Serviceauftrag oder einem Serviceangebot entspricht, und wählen die **Beleg anzeigen** Aktion aus.  
 
-    Die Seite **Serviceauftrag** oder **Serviceangebot** wird geöffnet, und Sie können den Beleg bearbeiten. Um zu der Seite **Einsatzplanung** zurückzukehren, wählen Sie **OK**.
+    Die Seite **Serviceauftrag** oder **Serviceangebot** wird geöffnet, und Sie können den Beleg bearbeiten. Um zum Fenster **Einsatzplanung** zurückzukehren, klicken Sie auf die Schaltfläche **OK**.
 
 ## <a name="to-allocate-a-resource-using-resource-or-resource-group-availability"></a>So weisen Sie eine Ressource anhand der Ressource oder der Ressourcengruppenverfügbarkeit zu    
 1. Wählen Sie ![Nach Seite oder Bericht sucheb](media/ui-search/search_small.png "Symbol nach Seite oder Bericht suchen") und geben Sie **Einsatzplanung** ein und wählen dann den zugehörigen Link aus.  

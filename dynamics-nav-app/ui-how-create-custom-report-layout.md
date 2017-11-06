@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f301bcc0ef0c8130030f3c6686a907f60bc09844
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ee614c44a17873591916bc97bd9b2a3f33fce21b
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-and-modify-a-custom-report-or-document-layout"></a>Vorgehensweise: Erstellen und bearbeiten Sie einen benutzerdefinierten Bericht
@@ -28,7 +28,8 @@ Um ein benutzerdefiniertes Layout zu erstellen, können Sie entweder eine Kopie 
 
 ## <a name="to-create-a-custom-layout"></a>So erstellen Sie ein benutzerdefiniertes Layout
 1. Alternativ wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen")und geben **Berichtauswahl** ein. Wählen Sie dann den zugehörigen Link aus.  
-   In dem Fenster **Bericht-Layioutabschnitt** sind alle Berichte aufgelistet, die für das Unternehmen verfügbar sind, das im Fenster Bericht-Layout-Auswahl oben verfügbar ist.
+
+    In dem Fenster **Bericht-Layout-Auswahl**sind alle Berichte aufgelistet, die für das **Unternehmen** verfügbar sind
 2. Legen Sie das Feld **Mandant** für den Mandanten fest, für den Sie das Berichtlayout erstellen möchten.
 3. Wählen Sie im Fenster **Kundenspezifisches Layout** die Zeile für das benutzerdefinierte Layout, das Sie verwenden möchten, und wählen Sie dann die Schaltfläche OK aus.  
    Das Fenster **Benutzerdefiniertes Berichtslayout** erscheint und alle benutzerdefinierten Layouts, die für den ausgewählten Bericht verfügbar sind, werden angezeigt.
@@ -50,45 +51,45 @@ Um ein Berichtslayout vom zu ändern, müssen Sie das Berichtslayout zunächst a
 ### <a name="to-modify-a-custom-layout"></a>Ändern eines benutzerdefinierten Layouts
 1.  Sie exportieren ein benutzerdefiniertes Layout aus dem Fenster **Benutzerdefinierte Berichtslayouts**. Wenn dieses Fensters nicht bereits geöffnet wurde, können Sie das Fenster **Auswahl des Berichtslayouts** öffnen, wählen den Bericht, der das Layout hat, das Sie ändern möchten und dann die Aktion **Benutzerdefinierte Layouts** auswählen.  
 2.  Im Fenster **Benutzerdefinierte Berichtslayouts** wählen Sie das Layout, das Sie ändern möchten, wählen Sie die **Layout exportieren** Aktion und wählen Sie dann **Speichern** oder **Speichern unter**, um den Berichtslayoutbeleg an einen Speicherort auf Ihrem Computer oder Netzwerk zu speichern aus.  
-  
+
 3.  Öffnen Sie das Berichtslayout, das Sie gespeichert haben, und nehmen Sie die Änderungen vor.
 
-      Wenn Sie ein Word-Layout ändern, öffnen Sie den Layoutbeleg in Word. Für das Bearbeiten von Details, finden Sie im nächsten Abschnitt[Vornehmen von Änderungen am Berichtslayout](ui-how-create-custom-report-layout.md#MakeChangesToLayout). 
+      Wenn Sie ein Word-Layout ändern, öffnen Sie den Layoutbeleg in Word. Für das Bearbeiten von Details, finden Sie im nächsten Abschnitt[Vornehmen von Änderungen am Berichtslayout](ui-how-create-custom-report-layout.md#MakeChangesToLayout).
 
       RDLC-Berichtslayouts sind weiter entwickelter als Word-Berichtslayouts. Weitere Informationen zm Ändern eines RDLC-Berichtslayouts finden Sie unter [RDLC-Berichtslayout gestalten](https://msdn.microsoft.com/en-us/dynamics-nav/designing-rdlc-report-layouts).
 
       Denken Sie daran, nach Abschluss die Änderungen zu speichern.
-  
+
 4.  Kehren Sie zum Fenster **Benutzerdefinierte Berichtslayouts** zurück, das Berichtslayout, die Sie exportiert haben und geändert haben, und wählen die **Layout importieren** Aktion aus.  
-  
+
 5. Im **Importieren**-Dialogfeld **wählen** Sie das Dokument, das das Berichtlayout definiert, und wählen Sie dann **Öffnen**.
 
 ##  <a name="MakeChangesToLayout"></a>Durchführen von Änderungen eines bestehenden Berichtslayouts  
 Wenn Sie Word-Berichtlayouts bearbeiten, um allgemeine Formatierungs- und Layoutänderungen zu ändern, wie zum Beispiel Änderung der Textschriftarts, Ändern einer Tabelle oder Entfernen eines Datenfelds, können Sie die grundlegenden Bearbeitungsfunktionen von Word verwenden, wie Sie es bei jedem Word-Dokument tun würden.
 
-Wenn Sie ein Word-Berichtslayout von Grund aus neu entwerfen oder neue Datenfelder hinzufügen, dann starten Sie, indem Sie eine Tabelle hinzufügen, die Zeilen und Spalten enthält, die letztendlich die Datenfelder enthalten. 
-  
+Wenn Sie ein Word-Berichtslayout von Grund aus neu entwerfen oder neue Datenfelder hinzufügen, dann starten Sie, indem Sie eine Tabelle hinzufügen, die Zeilen und Spalten enthält, die letztendlich die Datenfelder enthalten.
+
 > [!TIP]  
 >  Zeigen Sie die Tabellenrasterlinien an, sodass Sie die Grenzen von Tabellenzellen sehen. Denken Sie daran, die Rasterlinien auszublenden, wenn Sie mit der Bearbeitung fertig sind. Um Tabellenrasterlinien ein- oder auszublenden, wählen Sie die Tabelle und wählen Sie anschließend unter **Layout** auf der Registerkarte **Tabelle** die Option **Rasterlinien anzeigen** aus.  
-  
+
 ###  <a name="RemoveField"></a> Entfernen der Beschriftungs- und der Datenfelder in Word-Layouts  
  Beschriftung und Datenfelder eines Berichts sind in Inhaltssteuerelementen in Word enthalten. In der folgenden Abbildung wird ein Inhaltssteuerelement dargestellt, wenn es im Word-Dokument ausgewählt ist.  
-  
+
  ![Inhaltssteuerelement für Feld im Word-Berichtslayout](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
-  
+
  Der Name der Bezeichnung oder des Datenfeldes wird im Inhaltssteuerelement angezeigt. In dem Beispiel ist der Name "CompanyAddr1".  
-  
+
 ### <a name="to-remove-a-label-or-data-field"></a>Um eine Beschriftung oder ein Datenfeld zu entfernen  
-  
+
 1.  Klicken Sie mit der rechten Maustaste auf das Feld, das Sie entfernen möchten, und wählen Sie **Inhalt des Steuerelements löschen**.  
-  
+
      Das Inhaltssteuerelement wird entfernt, aber die Feldnamen bleiben als Text erhalten.  
-  
+
 2.  Löschen Sie den verbleibenden Text nach Bedarf.  
 
 ### <a name="adding-data-fields"></a>Hinzufügen von Datenfeldern
 Datenfelder aus einem Berichtsdataset hinzuzufügen, ist jedoch komplizierter und erfordert einiges Wissen über das Berichtsdataset. Informationen zum Hinzufügen von Feldern für Daten, werden Adressaufkleber, Daten und Bilder [Vorgehensweise: Fügen Sie einem Word-Berichtslayout Felder hinzu](ui-how-add-fields-word-report-layout.md).  
-  
+
 
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Berichtslayouts](ui-manage-report-layouts.md)  

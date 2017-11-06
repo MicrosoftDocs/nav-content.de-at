@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd257dc9a0b52160ccce7153505a4665552b26a7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ba71815bc7d099b7f600ab828dec579ddbf2265a
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-work-centers-and-machine-centers"></a>Vorgehensweise: Arbeitsplätze und Arbeitsplatzgruppen einrichten
@@ -64,7 +64,7 @@ Nachfolgend ist beschrieben, wie ein alternativer Arbeitsplatzkalender eingerich
     > [!NOTE]  
     > Beachten Sie bei der Verwendung von Tagen, dass 1 Tag 24 Stunden und nicht 8 (Arbeitsstunden) hat.
 
-13.  Geben Sie im Feld **Kapazität** an, ob in der Arbeitsplatzgruppe mehrere Personen bzw. Maschinen gleichzeitig eingesetzt werden. Wenn in der Installation**Produktname** das Element "Arbeitsplatz" nicht enthalten ist, muss in diesem Feld der Wert **1** festgelegt sein.  
+13.  Geben Sie im Feld **Kapazität** an, ob in der Arbeitsplatzgruppe mehrere Personen bzw. Maschinen gleichzeitig eingesetzt werden. Wenn in der  [!INCLUDE[d365fin](includes/d365fin_md.md)]-Installation das Element "Arbeitsplatz" nicht enthalten ist, muss in diesem Feld der Wert  **1** festgelegt sein.  
 14.  Geben Sie im Feld **Effektivität** an, wie hoch die tatsächliche Effektivität der Arbeitsplatzgruppe prozentual hinsichtlich der erwarteten Standardeffektivität ist. Wenn Sie **100** eingeben, bedeutet dies, dass die Isteffektivität der Arbeitsplatzgruppe mit der Standardeffektivität übereinstimmt.  
 15. Wählen Sie das Kontrollkästchen **Konsolidierter Kalender**, wenn Sie auch Arbeitsplätze verwenden. Dadurch ist sichergestellt, dass Kalenderposten oben aus den Arbeitsplatzkalendern ermittelt werden.  
 16.  Wählen Sie im Feld **Betriebskalender** einen Einkaufskalender. Weitere Informationen finden Sie unter [Gewusst wie: Erstellen von Betriebskalendern](production-how-to-create-work-center-calendars.md).  
