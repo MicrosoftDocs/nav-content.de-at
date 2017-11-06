@@ -1,6 +1,6 @@
 ---
 title: Installieren von Erweiterungen, um Dynamics NAV anzupassen
-description: "Informationen zum HinzufÃ¼gen von FunktionalitÃ¤t und Anpassungen fÃ¼r Dynamics NAV durch die Installation von Erweiterungen."
+description: "Informationen zum Hinzufügen von Funktionalität und Anpassungen für Dynamics NAV durch die Installation von Erweiterungen."
 documentationcenter: 
 author: edupont04
 ms.prod: dynamics-nav-2017
@@ -19,32 +19,32 @@ ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="customizing-dynamics-nav-using-extensions"></a>Dynamics NAV Benutzererweiterungen anpassen
-Sie kÃ¶nnen [!INCLUDE[d365fin](includes/d365fin_md.md)] Ã¤ndern, indem Sie beispielsweise Erweiterungen installieren, die FunktionalitÃ¤t hinzufÃ¼gen, das Verhalten Ã¤ndern oder Zugriff auf die neuen Onlinediensten geben.
-Wenn Sie das [!INCLUDE[d365fin](includes/d365fin_md.md)] zuerst starten, werden bestimmte Erweiterungen bereits eingerichtet. Im Zeitverlauf werden mehr Erweiterungen fÃ¼r Sie zugÃ¤nglich und Sie kÃ¶nnen auswÃ¤hlen, ob Sie die Erweiterung verwenden mÃ¶chten oder nicht.
+Sie können [!INCLUDE[d365fin](includes/d365fin_md.md)] ändern, indem Sie beispielsweise Erweiterungen installieren, die Funktionalität hinzufügen, das Verhalten ändern oder Zugriff auf die neuen Onlinediensten geben.
+Wenn Sie das [!INCLUDE[d365fin](includes/d365fin_md.md)] zuerst starten, werden bestimmte Erweiterungen bereits eingerichtet. Im Zeitverlauf werden mehr Erweiterungen für Sie zugänglich und Sie können auswählen, ob Sie die Erweiterung verwenden möchten oder nicht.
 
-Beispielsweise bietet Microsoft eine Erweiterung an, die die Integration mit Standard Paypal-Zahlungen ermÃ¶glicht. Diese Erweiterung wird standardmÃ¤ÃŸig eingerichtet.
-Wenn aber keine andere Erweiterung bereitgestellt wird, die die Integration mit einem anderen Zahlungsservice anbietet, kÃ¶nnen Sie die neue Erweiterung einrichten und dann auswÃ¤hlen, welcher der beiden Services verwendet werden soll.  
+Beispielsweise bietet Microsoft eine Erweiterung an, die die Integration mit Standard Paypal-Zahlungen ermöglicht. Diese Erweiterung wird standardmäßig eingerichtet.
+Wenn aber keine andere Erweiterung bereitgestellt wird, die die Integration mit einem anderen Zahlungsservice anbietet, können Sie die neue Erweiterung einrichten und dann auswählen, welcher der beiden Services verwendet werden soll.  
 
-Sie verwalten die Erweiterung des **Erweiterungs-Verwaltungs**-Fenster. Sie kÃ¶nnen vom Startbildschirm auf dieses Fenster zugreifen. In der oberen rechter Ecke wÃ¤hlen Sie das Symbol **Nach Seite oder Bericht suchen aus**![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "")Symbol nach Seite oder Bericht suchen. Geben Sie **Erweiterung** ein und wÃ¤hlen Sie dann den entsprechenden Link aus.  
+Sie verwalten die Erweiterung des **Erweiterungs-Verwaltungs**-Fenster. Sie können vom Startbildschirm auf dieses Fenster zugreifen. In der oberen rechter Ecke wählen Sie das Symbol **Nach Seite oder Bericht suchen aus**![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "")Symbol nach Seite oder Bericht suchen. Geben Sie **Erweiterung** ein und wählen Sie dann den entsprechenden Link aus.  
 
 > [!NOTE]  
->   Wenn Sie der Meinung sind, Sie sollten Zugriff zu einer Erweiterung haben, kÃ¶nnen die FunktionalitÃ¤t aber nicht finden, Ã¼berprÃ¼fen Sie das Fenster **Erweiterungsverwaltung**, wenn die Erweiterung dort nicht aufgefÃ¼hrt wird, kÃ¶nnen Sie sie einrichten, wie im folgenden Abschnitt erlÃ¤utert.  
+>   Wenn Sie der Meinung sind, Sie sollten Zugriff zu einer Erweiterung haben, können die Funktionalität aber nicht finden, überprüfen Sie das Fenster **Erweiterungsverwaltung**, wenn die Erweiterung dort nicht aufgeführt wird, können Sie sie einrichten, wie im folgenden Abschnitt erläutert.  
 
 ## <a name="installing-an-extension"></a>Eine Erweiterung wird installiert
-Sie kÃ¶nnen neue Erweiterungen vom Marketplace abrufen unter [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Hier kÃ¶nnen Sie alle verfÃ¼gbaren Erweiterungen anzeigen fÃ¼r [!INCLUDE[d365fin](includes/d365fin_md.md)] und Sie kÃ¶nnen Apps, Erweiterungen und Inhaltpakete fÃ¼r andere Microsoft-Produkte abrufen. Legen Sie die gewÃ¼nschten Filter fest, werfen Sie einen Blick auf die Informationen fÃ¼r jede Erweiterung, und rufen Sie eine Erweiterung fÃ¼r Ihr [!INCLUDE[d365fin](includes/d365fin_md.md)] ab.  
+Sie können neue Erweiterungen vom Marketplace abrufen unter [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Hier können Sie alle verfügbaren Erweiterungen anzeigen für [!INCLUDE[d365fin](includes/d365fin_md.md)] und Sie können Apps, Erweiterungen und Inhaltpakete für andere Microsoft-Produkte abrufen. Legen Sie die gewünschten Filter fest, werfen Sie einen Blick auf die Informationen für jede Erweiterung, und rufen Sie eine Erweiterung für Ihr [!INCLUDE[d365fin](includes/d365fin_md.md)] ab.  
 > [!NOTE]  
->   Melden Sie sich auf [AppSource.microsoft.com](https://appsource.microsoft.com/)Ã¼ber Ihr E-Mail- Konto an, das Sie fÃ¼r [!INCLUDE[d365fin](includes/d365fin_md.md)] verwenden. Verwenden Sie dasselbe E-Mail-Konto fÃ¼r andere Produkte und Dienste fÃ¼r eine reibungslose Nutzung.  
+>   Melden Sie sich auf [AppSource.microsoft.com](https://appsource.microsoft.com/)über Ihr E-Mail- Konto an, das Sie für [!INCLUDE[d365fin](includes/d365fin_md.md)] verwenden. Verwenden Sie dasselbe E-Mail-Konto für andere Produkte und Dienste für eine reibungslose Nutzung.  
 
-Sie kÃ¶nnen auch auf den Marketplace aus [!INCLUDE[d365fin](includes/d365fin_md.md)]zugreifen. Im Fenster **Erweiterungsverwaltung** kÃ¶nnen Sie die Erweiterungen sehen, die zur Zeit installiert sind, und Sie kÃ¶nnen die Seite **Marketplace fÃ¼r Erweiterungen** Ã¶ffnen, die die [!INCLUDE[d365fin](includes/d365fin_md.md)]Erweiterungen anzeigen, die aktuell Ã¼ber die AppSource verfÃ¼gbar sind. Wenn Sie den Link *Weitere Apps* auswÃ¤hlen, werden Sie auf [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1) weitergeleitet.  
+Sie können auch auf den Marketplace aus [!INCLUDE[d365fin](includes/d365fin_md.md)]zugreifen. Im Fenster **Erweiterungsverwaltung** können Sie die Erweiterungen sehen, die zur Zeit installiert sind, und Sie können die Seite **Marketplace für Erweiterungen** öffnen, die die [!INCLUDE[d365fin](includes/d365fin_md.md)]Erweiterungen anzeigen, die aktuell über die AppSource verfügbar sind. Wenn Sie den Link *Weitere Apps* auswählen, werden Sie auf [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1) weitergeleitet.  
 
-Wenn Sie eine Erweiterung auswÃ¤hlen, kÃ¶nnen Sie erfahren, was die Erweiterung ausfÃ¼hrt, und auf die Hilfe fÃ¼r die Erweiterung zugreifen, um mehr darÃ¼ber zu erfahren. Wenn Sie eine Erweiterung erhalten mÃ¶chten, mÃ¼ssen Sie die Nutzungsbedingungen zustimmen. Wenn Sie Erweiterungen von der AppSource-Website abrufen, werden Sie in [!INCLUDE[d365fin](includes/d365fin_md.md)] angemeldet, um die Installation abzuschlieÃŸen.  
+Wenn Sie eine Erweiterung auswählen, können Sie erfahren, was die Erweiterung ausführt, und auf die Hilfe für die Erweiterung zugreifen, um mehr darüber zu erfahren. Wenn Sie eine Erweiterung erhalten möchten, müssen Sie die Nutzungsbedingungen zustimmen. Wenn Sie Erweiterungen von der AppSource-Website abrufen, werden Sie in [!INCLUDE[d365fin](includes/d365fin_md.md)] angemeldet, um die Installation abzuschließen.  
 
-Wenn Sie eine Erweiterung installieren, mÃ¼ssen Sie diese mÃ¶glicherweise einrichten, wie ein Konto zur Verwendung mit Erweiterung fÃ¼r **Paypal-Zahlungen Standard** fÃ¼r [!INCLUDE[d365fin](includes/d365fin_md.md)] definieren.
-Andere Erweiterungen fÃ¼gen einfach Felder einer vorhandenen Seite hinzu, oder sie fÃ¼gen beispielsweise eine neue Seite hinzu.   
+Wenn Sie eine Erweiterung installieren, müssen Sie diese möglicherweise einrichten, wie ein Konto zur Verwendung mit Erweiterung für **Paypal-Zahlungen Standard** für [!INCLUDE[d365fin](includes/d365fin_md.md)] definieren.
+Andere Erweiterungen fügen einfach Felder einer vorhandenen Seite hinzu, oder sie fügen beispielsweise eine neue Seite hinzu.   
 
-Wenn Sie eine Erweiterung deinstallieren und Sie dann Ihre Absicht Ã¤ndern, kÃ¶nnen Sie sie wieder einrichten. Wenn Sie eine Erweiterung deinstallieren, die Sie verwendet haben, werden die Daten beibehalten, sodass, wenn Sie die Erweiterung erneut einrichten, die Daten noch verfÃ¼gbar sind.  
+Wenn Sie eine Erweiterung deinstallieren und Sie dann Ihre Absicht ändern, können Sie sie wieder einrichten. Wenn Sie eine Erweiterung deinstallieren, die Sie verwendet haben, werden die Daten beibehalten, sodass, wenn Sie die Erweiterung erneut einrichten, die Daten noch verfügbar sind.  
 
-Einige Erweiterungen werden von Microsoft bereitgestellt, und andere Erweiterungen werden von anderen [anderen Unternehmen](ui-extensions-other.md) bereitgestellt. Alle Erweiterungen werden getestet, bevor sie zugÃ¤nglich gemacht werden, aber wir empfehlen, dass Sie auf die Links zugreifen, die mit jeder Erweiterung zur VerfÃ¼gung gestellt wurden, um mehr Ã¼ber die Erweiterung zu erfahren, bevor Sie entscheiden, sie einzurichten.  
+Einige Erweiterungen werden von Microsoft bereitgestellt, und andere Erweiterungen werden von anderen [anderen Unternehmen](ui-extensions-other.md) bereitgestellt. Alle Erweiterungen werden getestet, bevor sie zugänglich gemacht werden, aber wir empfehlen, dass Sie auf die Links zugreifen, die mit jeder Erweiterung zur Verfügung gestellt wurden, um mehr über die Erweiterung zu erfahren, bevor Sie entscheiden, sie einzurichten.  
 
 Microsoft stellt die folgenden Erweiterungen bereit:  
 
@@ -55,20 +55,20 @@ Microsoft stellt die folgenden Erweiterungen bereit:
 * [Ceridian-Gehaltsliste](ui-extensions-ceridian-payroll.md)  
 * [Import von QuickBooks-Lohndatei](ui-extensions-quickbooks-payroll.md)  
 * [WorldPay Zahlungsstandard](ui-extensions-worldpay-payments-standard.md)
-* [GetAddress.io Postleitzahlen GroÃŸbritannien](ui-extensions-getaddressio.md)
+* [GetAddress.io Postleitzahlen Großbritannien](ui-extensions-getaddressio.md)
 * [QuickBooks Onlin Datenmigration](ui-extensions-quickbooks-online-data-migration.md)
 * [Buchhaltungsportal](ui-extensions-accountant-portal.md)  
 * [Schliffbildanalysator](ui-extensions-image-analyzer.md)
 
 > [!NOTE]  
->  Neue Erweiterungen sind nicht in AppSource verfÃ¼gbar, sofort nachdem wird ein ankÃ¼ndigen aktualisieren. Sie kÃ¶nnen die Erweiterung [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1) im Auge behalten.
+>  Neue Erweiterungen sind nicht in AppSource verfügbar, sofort nachdem wird ein ankündigen aktualisieren. Sie können die Erweiterung [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1) im Auge behalten.
 
 ## <a name="see-also"></a>Siehe auch
 [Gewusst wie: Aktivieren von Debitoren-Zahlungen durch Paypal](sales-how-enable-payment-service-extensions.md)  
-[GeschÃ¤ftsdaten aus anderen Finanzsystemen migrieren](upload-data.md)  
-[Einrichten der britischen Postleitzahlerweiterung GetAddress.io](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
-[[!INCLUDE[d365fin](includes/d365fin_md.md)]Erweiterungen fÃ¼r andere Anbieter](ui-extensions-other.md)E  
+[Geschäftsdaten aus anderen Finanzsystemen migrieren](upload-data.md)    
+[[!INCLUDE[d365fin](includes/d365fin_md.md)]Erweiterungen für andere Anbieter](ui-extensions-other.md)E  
 [Willkommen bei [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
 ##
+
 
