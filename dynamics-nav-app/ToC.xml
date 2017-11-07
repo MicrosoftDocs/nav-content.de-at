@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Designdetails: Artikelnachverfolgung" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Designdetails: Fibu Buch.-Blatt-Beitrags-Zeile" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Lokale Funktionalität" Page="index.html">
-    <Node Name="" DisplayName="Kanada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Dänemark" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Großbritannien" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="USA" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
