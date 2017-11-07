@@ -60,12 +60,6 @@ Denken Sie an ein Abonnement? Sie können Demomandanten einfach ändern und erst
 
 Um einen Mandanten zu erstellen und Dinge zu testen, gehen Sie zum Menü **Meine Einstellungen** in der oberen rechter Ecke und ändern Sie den Mandanten auf **Mein Unternehmen**. Melden Sie sich von [!INCLUDE[d365fin](includes/d365fin_md.md)] ab und anschließend wieder an, um die Änderungen zu übernehmen. Eine unterstützte Einrichtung gibt Ihnen die grundlegenden Informationen zu Ihrem Unternehmen. Wenn das getan wird, entdecken Sie die Homepage und suchen Sie die Aktion **Unterstützte Einrichtung**.  
 
-## <a name="ready-to-subscribe"></a>Bereit für ein Abonnement?
-Jedes Mal, wenn Sie sich während der Probezeit anmelden, erscheint eine Benachrichtigung in einer blauen Leiste und zeigt die verfügbare Zeit an. Wenn Sie sich für ein Abonnement entscheiden, verwenden Sie den Link in der Benachrichtigung, um Microsoft zu kontaktieren. Sie können sich auch an das [!INCLUDE[d365fin](includes/d365fin_md.md)]-Vertriebsteam in [Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707) wenden.  
-
-## <a name="other-dynamics-nav-apps"></a>Andere Dynamics NAV-Apps
-Navigieren Sie zu Inhalten über die anderen Dynamics NAV-Apps, indem Sie den Link [Dynamics NAV](https://docs.microsoft.com/dynamics365) im blauen Banner im oberen Bereich dieser Seite auswählen. Sie können auf der [Dynamics NAV-Website](https://www.microsoft.com/en-us/dynamics365/) auch mehr erfahren.
-
 ## <a name="see-also"></a>Siehe auch
 [Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Einrichten [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
@@ -73,9 +67,5 @@ Navigieren Sie zu Inhalten über die anderen Dynamics NAV-Apps, indem Sie den Li
 [Anpassen [!INCLUDE[d365fin](includes/d365fin_md.md)] Erweiterungen nutzenb](ui-extensions.md)  
 [Nutzen von [!INCLUDE[d365fin](includes/d365fin_md.md)] als Ihr Unternehmenspostfach in Outlook](madeira-outlook.md)  
 [Abrufen [!INCLUDE[d365fin](includes/d365fin_md.md)] auf meinem mobilen Gerät](install-mobile-app.md)  
-[Microsoft Dynamics NAV-Dokumentation](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
-[Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707)  
 
-##
 
