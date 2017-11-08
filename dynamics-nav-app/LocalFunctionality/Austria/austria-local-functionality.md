@@ -24,9 +24,8 @@ In den folgenden Themen werden Funktionen beschrieben, die der österreichischen
 ## <a name="in-this-section"></a>In diesem Abschnitt  
 
 [Erweiterte Belegverwaltung](enhanced-document-management.md)  
-[MwSt.-Abrechnung](vat-reporting.md)  
-[Zusammenfassende Meldung](../Denmark/vat-vies-reporting.md)  
-[Währungswechselkurse](../Germany/currency-exchange-rates.md)  
+[MwSt.-Abrechnung](vat-reporting.md)   
+[So gehts: Melden von MwSt. an die Steuerbehörden](../../finance-how-report-vat.md)  
 [Gewusst wie: Drucken von Finanzbuchhaltungs-Setupinformationen](how-to-print-general-ledger-setup-information.md)  
 [Gewusst wie: Sperren der Lieferung bei negativem Lagerbestand](how-to-block-shipment-for-negative-inventory.md)  
 [Gewusst wie: Kopieren von vorhandenen Artikeln in neue Artikel](how-to-copy-existing-items-to-new-items.md)  
