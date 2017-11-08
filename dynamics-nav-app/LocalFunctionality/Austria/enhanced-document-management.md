@@ -54,5 +54,4 @@ Sie können eine Belegzeile in einer Belegart auswählen und die zugehörigen Be
 ## <a name="see-also"></a>Siehe auch  
  [Vorgehensweise: Rahmenaufträge erstellen](../../sales-how-to-create-blanket-sales-orders.md)   
  [Gewusst wie: Nachverfolgen von Belegzeilen](how-to-track-document-lines.md)   
- [Lokale Funktion (Deutschland)](../Germany/germany-local-functionality.md)
 
