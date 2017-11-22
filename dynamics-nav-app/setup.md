@@ -57,5 +57,3 @@ Einige Bereiche erfordern, dass Sie ein Administrator Ihres Abonnement [!INCLUDE
 [Einrichtung und Verwaltung in [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Willkommen bei [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
