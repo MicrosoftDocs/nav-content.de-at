@@ -2,7 +2,7 @@
 title: Exportieren von SEPA-Lastschrifteinzugsposten
 description: "Erstellen Sie eine Lastschrift, die Informationen über das Konto des Debitors, die betroffenen Verkaufsrechnungen und die Direkt-Lastschriftmandate verwahrt."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Projektaufträge planen"
 description: "Diese Planungsaufgabe beginnt mit einem Verkaufsauftrag im Fenster  **Verkaufsauftragsplanung**. Nachdem ein Projektfertigungsauftrag erstellt wurde, kann die Planung im Fenster **Auftragsplanung** fortgeführt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

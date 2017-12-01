@@ -3,7 +3,7 @@ title: "Gewusst wie: Drucken von Verkaufsaufträgen und Bestellungen während de
 description: "Nach der Stapelbuchung von Verkaufsaufträgen und Bestellungen können die entsprechenden gebuchten Belege gedruckt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

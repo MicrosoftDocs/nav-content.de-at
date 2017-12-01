@@ -3,7 +3,7 @@ title: 'Exemplarische Vorgehensweise: Automatische Beschaffungsplanung'
 description: "Die Begriffe \"Planung ausführen\" oder \"Nettobedarf ausführen\" beziehen sich auf die Berechnung der Produktions-Programmplanung und des Materialbedarfsplans anhand des tatsächlichen und geplanten Bedarfs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

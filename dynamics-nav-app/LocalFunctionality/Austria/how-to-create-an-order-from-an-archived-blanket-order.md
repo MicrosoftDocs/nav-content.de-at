@@ -3,7 +3,7 @@ title: Vorgehensweise beim Erstellen eines Auftrags anhand einer archivierten Ra
 description: Ein neuer Verkaufsauftrag bzw. eine Bestellung kann anhand eines archivierten Rahmenauftrags erstellt werden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

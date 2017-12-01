@@ -2,7 +2,7 @@
 title: "Buchhaltungsperioden und Geschäftsjahre erstellen"
 description: "Bevor Sie in einem Geschäftsjahr buchen können, müssen Sie das Geschäftsjahr eröffnen und dessen Buchhaltungsperioden bestimmen."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

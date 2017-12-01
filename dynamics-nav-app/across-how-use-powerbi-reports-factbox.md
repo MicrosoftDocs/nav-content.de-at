@@ -3,7 +3,7 @@ title: Anzeigen benutzerdefinierter Power BI-Berichte
 description: "Sie können Power BI-Berichte verwenden, um einen zusätzlichen Einblick in Daten in Listen in Dynamics NAV zu gewinnen."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

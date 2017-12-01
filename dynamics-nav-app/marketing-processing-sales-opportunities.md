@@ -3,7 +3,7 @@ title: Verarbeiten von Verkaufschancen in Verkaufszyklen
 description: "Sie können Verkaufschancen anzeigen, schließen oder löschen, und Sie können auch Angebote und Aufträge für Verkaufschancen einrichten und eine Verkaufschance über die einzelnen Phasen des Verkaufsprozesses verschieben."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

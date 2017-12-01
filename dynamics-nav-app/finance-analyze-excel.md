@@ -2,7 +2,7 @@
 title: "Arbeiten mit Finanzübersichten in Excel"
 description: "Erfahren Sie mehr darüber, wie Sie die Finanzaufstellungen in Microsoft Excel von Dynamics NAV für eine bessere Analyse öffnen können."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Vorgehensweise beim manuellen Buchen von Ausschuss
 description: "Wenn während der Produktion Ausschuss angefallen ist, dann kann dieser im FA-Istmeldungsprotokoll eingegeben werden. Beachten Sie, dass die Ausschussmenge die fertig gestellte Menge nicht erhöht."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

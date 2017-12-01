@@ -2,7 +2,7 @@
 title: "Objekte als Webdienste verfügbar machen"
 description: "Sie Veröffentlichen  [!INCLUDE[d365fin](includes/d365fin_md.md)] Objekte als Webdienste, und sind  sofort im Netzwerk verfügbar."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

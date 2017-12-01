@@ -3,7 +3,7 @@ title: Bankkonten separat abstimmen
 description: Beschreibt wie der Lagerwert mit der Finanzbuchhaltung abgestimmt wird.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

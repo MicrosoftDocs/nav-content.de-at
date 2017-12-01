@@ -3,7 +3,7 @@ title: 'Gewusst wie: Lieferbenachrichtigungen manuell erstellen'
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie Lieferbenachrichtigung erstellen, wenn ein Kauf nicht wie erwartet geliefert wurde."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

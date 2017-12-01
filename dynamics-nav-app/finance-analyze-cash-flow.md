@@ -3,7 +3,7 @@ title: Analysieren von Cashflows
 description: "Beschreibt, wie die Geldumlauf-, Einnahmen- und Ausgaben-, Cash Flow- und Cashflow-Prognosediagramme verwendet werden, um vergangene und künftige Bargeldbewegungen im Unternehmen zu analysieren."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

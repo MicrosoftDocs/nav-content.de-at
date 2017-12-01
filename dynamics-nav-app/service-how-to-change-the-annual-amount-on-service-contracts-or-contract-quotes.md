@@ -2,7 +2,7 @@
 title: "Vorgehensweise: Ändern des Betrags \"Zu fakturieren (Jahr)\" von Serviceverträgen oder Vertragsangeboten"
 description: "Gibt den Betrag an, der jährlich für den Servicevertrag oder das Vertragsangebot fakturiert wird."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

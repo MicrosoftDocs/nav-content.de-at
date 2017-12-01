@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Ausführen einer vollständige Planung, einer Produk
 description: "Die Begriffe \"Planungsvorschlag ausführen\" und \"Nettobedarf ausführen\" beziehen sich auf die Berechnung des Produktionsplans und der Materialbedarfe auf Basis des tatsächlichen und des geplanten Bedarfs. Das Planungssystem kann entweder die Prod.-Programmplanung (Master Planning Schedule, MPS) oder den Nettobedarf (Materialbedarfsplanung, Material Requirements Planning, MRP) auf Anforderung oder beides gleichzeitig berechnen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

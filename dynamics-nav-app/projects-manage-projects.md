@@ -3,7 +3,7 @@ title: Projektaufgaben, bei denen Ressourcen und Arbeitszeittabellen verwendet w
 description: Beschreibt, wie Ressourcen, Arbeitszeittabellen und Projekte genutzt werden, um Projekte zu verwalten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

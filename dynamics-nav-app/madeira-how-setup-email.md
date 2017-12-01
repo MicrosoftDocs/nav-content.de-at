@@ -3,7 +3,7 @@ title: E-Mail einrichten
 description: Beschreibt, wie der SMTP-Server des Unternehmens verwendet wird, um in Dynamics NAV E-Mail zu senden und zu empfangen und wie die E-Mail-Servereinstellungen verwendet werden, die im Office 365-Abonnement erstellt wurden.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

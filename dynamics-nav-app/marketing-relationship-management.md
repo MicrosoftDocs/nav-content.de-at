@@ -3,7 +3,7 @@ title: Marketing & Vertrieb
 description: "Die Funktion „Marketing & Vertrieb” in Dynamics NAV unterstützt Ihre Verkaufsanstrengungen und Sie können damit auf Informationen über Kontakte und Interessenten zugreifen, damit Sie die Debitoren effizient bedienen können."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Vorgehensweise beim Erstellen einer Absatzplanung
 description: "Verkaufs- und Absatzplanungen können im Fenster **Absatzplanung** vorgenommen werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

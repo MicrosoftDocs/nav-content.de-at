@@ -3,7 +3,7 @@ title: "Schließen Sie GuV-Konten"
 description: "Am Jahresende beispielsweise müssen Sie die Stapelverarbeitung \"GuV-Konten Nullstellung\" laufen lassen, um die Buchhaltungsperioden zu schließen, aus der sich das Geschäftsjahr zusammensetzt."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

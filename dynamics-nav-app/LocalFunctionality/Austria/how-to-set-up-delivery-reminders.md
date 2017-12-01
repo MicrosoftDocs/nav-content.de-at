@@ -3,7 +3,7 @@ title: 'Gewusst wie: Einrichten von Lieferbenachrichtigungen'
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie Lieferbenachrichtigungen nutzen, um Verkäufer über verspätete Lieferungen zu mahnen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Designdetails – Wiederbeschaffungsrichtlinien"
 description: "Dieses Thema zeigt eine Übersicht zu den vier Wiederbeschaffungsverfahren, die für einen Wiederauffüllauftrag verfügbar sind."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

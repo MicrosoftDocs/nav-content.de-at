@@ -3,7 +3,7 @@ title: Verwalten von Anlagen
 description: "Erhalten Sie Informationen zu den Funktionen von Anlagen in Dynamics NAV und eine Übersicht , wie mit Anlagen gearbeitet wird."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

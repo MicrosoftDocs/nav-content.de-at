@@ -3,7 +3,7 @@ title: Verkaufen von Dynamics NAV
 description: "Finden Sie heraus, wie Sie Ihre Geschäftschancen erweitern und ein Microsoft Partner und Dynamics NAV-Wiederverkäufer werden."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

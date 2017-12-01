@@ -2,7 +2,7 @@
 title: "Kunden für überfälligen Zahlungen erinnern oder mit einem Zuschlag belegen"
 description: "Beschreibt, wie eine Mahnung zu einem Debitoren zu einer Zahlung, welche und Gebühren hinzuzufügen fällig ist, oder Gebühren mit der Zahlung aufgrund von Verzögerung sendet."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

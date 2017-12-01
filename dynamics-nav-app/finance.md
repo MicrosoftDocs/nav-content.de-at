@@ -3,7 +3,7 @@ title: Finanzmanagement
 description: "Informationen zu Aufgaben, Finanzen in Ihrem Unternehmen einzurichten, um Ihrer Buchhaltung, oder Buchhaltungsanforderungen Prüfungen zu entsprechen."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -28,7 +28,7 @@ In der folgenden Tabelle wird eine Reihe von Aufgaben mit Verknüpfungen zu den 
 | Aktion | Siehe |
 | --- | --- |
 | Ordnen Sie eingehende Zahlungen zu, stimmen Bankkonten während des Zahlungsausgleichs ab und erfassen Sie offene Salden. |[Verwalten von Forderungen](receivables-manage-receivables.md) |
-| Verarbeiten Sie Zahlungen, ordnen Sie ausgehende Zahlungen zu und bearbeiten Sie Schecks. |[Verwalten von Verbindlichkeiten](payables-manage-payables.md) |
+| Verarbeiten Sie Zahlungen, ordnen Sie ausgehende Zahlungen zu und bearbeiten Sie Schecks. |[Verwalten von Verbindlichkeiten|](payables-manage-payables.md) |
 |Lassen Sie Ihre Debitoren zahlen, bevor Sie liefern, oder machen Sie die Zahlung an Ihre Kreditoren, bevor diese an Sie liefern.|[Fakturieren von Vorauszahlungen](finance-invoice-prepayments.md)|
 | Stimmen Sie Bankkonten ab und transferieren Sie Beträge zwischen Bankkonten. |[Verwalten von Bankkonten](bank-manage-bank-accounts.md) |
 |Einrichten von Intercompanypartner und verarbeiten von Transaktionen, manuzell oder automatisch, zwischen juristischen Personen innerhalb derselben Mandanten.|[Intercompanytransaktionen verwalten](intercompany-manage.md)|

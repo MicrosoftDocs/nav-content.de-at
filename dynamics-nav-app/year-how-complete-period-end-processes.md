@@ -3,7 +3,7 @@ title: "Optionale Aktivitäten beispielsweise für Abschlussperioden"
 description: "In diesem Thema werden die optionalen Vorgänge und Aktivitäten Abschlussbuchhaltungsperioden in Dynamics NAV dargelegt."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

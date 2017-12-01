@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Anzeigen der Auslastung der Arbeit und Arbeitsplätz
 description: "Von der **Arbeitsplatzgruppe** Karte können Sie die Auslastung der Arbeitsplatzgruppen aufgrund der freigegebenen Fertigungsaufträgen anzeigen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

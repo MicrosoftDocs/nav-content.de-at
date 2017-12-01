@@ -3,7 +3,7 @@ title: 'Vorgehensweise: Suchen der Lagerzuweisungen'
 description: "Um Lagerzuweisungen zu suchen, öffnen Sie das Kartenfenster für einen ausgewählten Artikel. Wenn Logistikanweisungen erzeugt wurden, sehen Sie Zeilen der Arten \"Entnahme\" und \"Einlagerung\", und Sie können mit einer Ihnen zugewiesenen Aufgabe beginnen. In einigen Lagern haben die Lagermanager eventuell jedem Mitarbeiter bestimmte Anweisungen zugeordnet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

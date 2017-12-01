@@ -3,7 +3,7 @@ title: Vorgehensweise beim Anzeigen von archivierten Workflowschritt-Instanzen
 description: Alle abgeschlossenen Workflowschritt-Instanzen werden im Fenster **Archivierte Workflowinstanzen** gespeichert.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

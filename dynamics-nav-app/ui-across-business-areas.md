@@ -3,7 +3,7 @@ title: "Allgemeinen Funktionen über Geschäftsbereiche hinweg nutzen"
 description: "Weitere Informationen über Funktionalitäten und Funktionen, die über Geschäftsbereiche hinweg in Dynamics NAV verwendet werden."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

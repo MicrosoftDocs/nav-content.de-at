@@ -3,7 +3,7 @@ title: "Geschäftsbeziehungscodes für Kontakte definieren"
 description: "Geschäftsbeziehungen in Dynamics NAV werden verwendet, um das Marketing zu erleichtern und um die Geschäftsbeziehung anzuzeigen, die Sie mit Ihren Interessenten, Kunden und Debitoren haben, wie z. B. Bank oder Dienstleister."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

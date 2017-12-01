@@ -3,7 +3,7 @@ title: 'Gewusst wie: Aktivieren von Debitoren-Zahlungen durch Zahlungsverkehr'
 description: "Macht es für Debitoren einfacher, die Rechnungen durch Aktivierung des Zahlungsverkehrs zu bezahlen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

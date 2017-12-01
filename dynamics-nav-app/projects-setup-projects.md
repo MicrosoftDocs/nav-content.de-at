@@ -3,7 +3,7 @@ title: Ressourcen, Arbeitszeittabellen und Projekte einrichten
 description: Beschreibt, wie Ressourcen, Arbeitszeittabellen und Projekte eingerichtet werden, um Projekte zu verwalten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

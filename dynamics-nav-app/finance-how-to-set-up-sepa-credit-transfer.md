@@ -3,7 +3,7 @@ title: "Einrichten von SEPA-Kreditübertragung"
 description: "Erfahren Sie, wie Sie SEPA-Kreditübertragungen in Dynamics NAV einrichten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

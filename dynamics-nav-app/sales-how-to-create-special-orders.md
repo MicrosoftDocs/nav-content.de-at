@@ -2,7 +2,7 @@
 title: "Vorgehensweise: Spezialaufträge erstellen"
 description: "Sie können einen Spezialauftrag für einen bestimmten Katalogartikel erstellen, der an einen bestimmten Kunden geliefert werden soll. Ihr Lieferant liefert den Artikel an Ihr Lager und Sie können den Artikel dann an Ihren Kunden weiterleiten, entweder unabhängig von anderen Artikeln oder zusammen mit anderen Artikeln in einem anderen Auftrag."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

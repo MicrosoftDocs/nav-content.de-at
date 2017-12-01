@@ -3,7 +3,7 @@ title: Vorgehensweise beim Stapelbuchen von Produktions-Warenabgang und Laufzeit
 description: Die fertig gestellte Menge stellt den Arbeitsfortschritt in Form der gefertigten Menge dar.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

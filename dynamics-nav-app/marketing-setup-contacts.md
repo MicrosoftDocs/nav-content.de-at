@@ -3,7 +3,7 @@ title: "Informationen für Kontakte einrichten"
 description: "Gliedert die Aufgaben und Informationen, Codes zum Beispiel über Branchen und Geschäftsbeziehungen festzulegen, bevor Sie Kontakte erstellen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

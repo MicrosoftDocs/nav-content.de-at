@@ -2,7 +2,7 @@
 title: Eingeben von Daten in Feldern
 description: "Es gibt eine Vielzahl an allgemeinen Funktionen, die Ihnen dabei helfen, Daten schnell und einfach einzugeben. Die allgemeinen Funktionen für die Eingabe von Daten werden in diesem Thema beschrieben."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

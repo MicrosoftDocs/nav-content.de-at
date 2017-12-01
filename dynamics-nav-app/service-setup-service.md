@@ -3,7 +3,7 @@ title: Einrichten der Serviceverwaltung
 description: "Überblick der Aufgaben zur Serviceeinrichtung für eine passende Serviceverwaltungsmethode für Ihre Organisation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

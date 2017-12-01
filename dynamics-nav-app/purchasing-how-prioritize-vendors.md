@@ -3,7 +3,7 @@ title: "Weisen Sie einem Kreditor eine Prioritätsstufe zu"
 description: "Sie können Ihren Kreditoren oder Lieferanten Zahlen zuweisen, um sie zu priorisieren und Zahlungsvorschläge in Dynamics NAV zu vereinfachen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Designdetails – Priorisieren von Aufträgen"
 description: "Lesen, wie priorisiert wird, um Bedarf und Versorgungsbedarf zu erfüllen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

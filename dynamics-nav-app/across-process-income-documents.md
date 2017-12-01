@@ -3,7 +3,7 @@ title: Eingehende Dokumente verarbeiten
 description: "Um einen externen Beleg, wie beispielsweise eine PDF, in Dynamics NAV aufzuzeichnen, müssen Sie zuerst einen eingehenden Belegdatensatz erstellen oder fertig stellen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Um Serviceangebote einzurichten:'
 description: Erfahren Sie, wie die Anwendung eingerichtet wird, die Sie Ihren Debitoren anbieten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

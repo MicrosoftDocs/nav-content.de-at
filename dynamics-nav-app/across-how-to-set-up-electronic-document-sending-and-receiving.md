@@ -2,7 +2,7 @@
 title: Vorgehensweise beim Einrichten des Senden und Empfangen von elektronischen Belegen
 description: "Als Alternative zu E-Mail-Dateianhängen können Sie Geschäftsbelegen elektronisch versenden und empfangen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

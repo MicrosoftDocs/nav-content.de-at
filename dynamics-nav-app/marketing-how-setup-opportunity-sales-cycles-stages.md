@@ -3,7 +3,7 @@ title: "Einrichten von Verkaufsprozessen für Verkaufschancen und Prozess-Stufen
 description: "Beschreibt, wie Verkaufsstufen, vom ersten Kontakt bis zum Schließen definiert werden, ein Verkaufsprozess erstellt wird und dieser zu Verkaufschancen in den Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

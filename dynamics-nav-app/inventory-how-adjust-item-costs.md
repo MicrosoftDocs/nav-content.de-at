@@ -3,7 +3,7 @@ title: Manuelles Anpassen von Artikelkosten
 description: "Sie können die Lagerbewertung eines Artikels anpassen, indem Sie die FIFO. oder \" Standard \"oder Durchschnittskostenmethode anwenden, z. B. wenn Artikelkosten für Gründe, die keine Transaktionen betreffen, ändern."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

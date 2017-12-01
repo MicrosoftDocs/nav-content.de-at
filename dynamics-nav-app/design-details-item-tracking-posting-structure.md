@@ -3,7 +3,7 @@ title: "Designdetails – Artikelverfolgungs-Buchungsstruktur"
 description: "Erfahren Sie, wie der Artikelposten als primäre Transportmitteln von Artikelverfolgungsnummern verwendet wird."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

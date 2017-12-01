@@ -3,7 +3,7 @@ title: Arten, um Probleme mit Selbstbedienungs-Registrierung zu beheben oder zu 
 description: "Kennenlernen der meisten allgemeinen Gründe, warum Sie möglicherweise nicht in der Lage sind, die Anmeldung mit Dynamics NAV abzuschließen, und Möglichkeiten, das Problem zu beheben."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

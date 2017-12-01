@@ -3,7 +3,7 @@ title: "Designdetails – Ausgleich von Bedarf und Vorrat"
 description: "Das Kernstück des Planungssystems beinhaltet den Augleich von Bedarf und Vorrat durch das Vorschlagen von Aktionen zur Revidierung der Beschaffungsaufträge bei fehlendem Ausgleich. Dieses findet pro Kombination von Variante und Lagerort statt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

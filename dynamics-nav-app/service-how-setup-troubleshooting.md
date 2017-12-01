@@ -3,7 +3,7 @@ title: Richtet die Problembehandlung ein.
 description: "Erfahren Sie, wie Sie Vorgänge eingerichtet, die Techniker helfen, Probleme bei Serviceartikeln zu identifizieren und zu bearbeiten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

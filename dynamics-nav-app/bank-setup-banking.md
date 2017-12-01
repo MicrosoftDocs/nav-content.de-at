@@ -3,7 +3,7 @@ title: Bank einrichten
 description: Sie verwenden Bankkontokarten, um Ihre Bankkonten nachzuverfolgen und Bankfeeds einzurichten, um Daten auszutauschen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

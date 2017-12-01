@@ -3,7 +3,7 @@ title: "Vorgehensweise: Kommissionieren für die Produktion in einer Basis-Lager
 description: "Wenn für Ihren Lagerort die Bearbeitung der Kommissionierung erforderlich ist, jedoch nicht die Bearbeitung des Warenausgangs, verwenden Sie das Fenster **Lagerkommissionierung**, um die Kommissionierung von Komponenten zu organisieren und zu erfassen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

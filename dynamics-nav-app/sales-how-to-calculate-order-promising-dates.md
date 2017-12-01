@@ -3,7 +3,7 @@ title: 'So wird''s gemacht: Lieferterminzusagen berechnen'
 description: "Die Funktion \"Lieferterminzusagen\" ist ein Werkzeug zur Berechnung des frühestmöglichen Datums, an dem ein Artikel zum Versand oder zur Lieferung verfügbar ist. Sie erstellt außerdem Bestellvorschlagszeilen für das Datum, welches Sie akzeptiert haben."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

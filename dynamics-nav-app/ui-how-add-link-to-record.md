@@ -3,7 +3,7 @@ title: "Vorgehensweise: Verknüpfung von Datensätzen zu externen Informationen 
 description: "Fügen Sie einem Dokument oder einer Website einen Link zu einem bestimmten Datensatz hinzu, beispielsweise zu einer Kundenkarte oder einem Dokument."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

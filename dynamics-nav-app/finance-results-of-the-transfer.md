@@ -3,7 +3,7 @@ title: "Ergebnisse der Übertragung"
 description: "Dieses Thema beschreibt, welche passiert, nachdem Sie Sachposten in Kostenposten übertragen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

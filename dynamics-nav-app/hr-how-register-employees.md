@@ -3,7 +3,7 @@ title: "Einrichten von Mitarbeitern und ändern von Informationen"
 description: "Beschreibt, wie Sie neue Mitarbeiter erfassen oder Informationen für vorhandene Mitarbeiter bearbeiten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

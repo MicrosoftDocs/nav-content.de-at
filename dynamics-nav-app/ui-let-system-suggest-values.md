@@ -3,7 +3,7 @@ title: Einrichten aus vorgeschlagenen Feldwerten
 description: "Um manuell Berechnungen und vollständige Aufgaben schnell und genau zu erledigen, können Sie automatische Dateneingabe einrichten, sodass Dynamics NAV gerade ausgewählte Felder ausfüllt"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Verwalten von Aktivitäten mit Ihren Kontakten"
 description: "Sie können Aktivitäten alle Arten der Kommunikation zwischen Ihrem Unternehmen und Ihren Kontakten aufzeichnen, uum Beispiel Briefe, Fax, E-Mail, Telefon, Besprechungen usw."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

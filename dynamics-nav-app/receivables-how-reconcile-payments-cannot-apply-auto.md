@@ -2,7 +2,7 @@
 title: "Mithilfe der Übergangsdifferenz zu Kontenfunktion Zahlungen abzustimmen| Microsoft Docs"
 description: "Beschreibt, wie Zahlungen verarbeitet werden, die nicht mit einem Beleg ausgeglichen werden können - beispielsweise wenn ein Wechselkurs Beträge bucht, die sich unterscheiden."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

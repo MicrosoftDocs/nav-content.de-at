@@ -2,7 +2,7 @@
 title: "FAQ über Verwendung von Dynamics NAV"
 description: "Beantwortet allgemeine Fragen darüber, wie man sich bei Dynamics NAV anmeldet, und was es zu Beginn zu tun gibt."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

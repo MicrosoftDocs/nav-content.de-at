@@ -2,7 +2,7 @@
 title: Vorgehensweise bei Fertigung durch Fremdarbeitsauftrag
 description: Nachdem die Bestellung aus dem Fremdarbeitenvorschlag erstellt wurde, kann sie gebucht werden.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

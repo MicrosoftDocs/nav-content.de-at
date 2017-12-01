@@ -3,7 +3,7 @@ title: Serviceauftragsstatus und Reparaturstatus
 description: Das Feld **Status** im Fenster **Serviceauftrag** und das Feld **Reparaturstatuscode** (der Serviceartikelreparaturstatus) im Fenster **Serviceauftrag stellen** im Service eine bestimmte Beziehung zueinander dar. Der Serviceauftragsstatus spiegelt den Reparaturstatus aller Serviceartikel des Serviceauftrags wider.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Finanzbuchhaltungsanlagen einrichten
 description: "Bevor Sie den Bereich \"Anlagenbuchhaltung\" verwenden können, müssen Sie die Sachkonten, die Buch.-Blattvorlagen und die Buch.-Blätter und Klassencodes einrichten, die für die Buchung verwendet werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

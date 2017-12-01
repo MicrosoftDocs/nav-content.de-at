@@ -2,7 +2,7 @@
 title: 'Gewusst wie: Ressourcen zuweisen'
 description: "Sie können den Betrag \"Zu fakturieren (Jahr)\" des Servicevertrags oder Vertragsangebots ändern, um den jährlich fakturierten Betrag zu korrigieren."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

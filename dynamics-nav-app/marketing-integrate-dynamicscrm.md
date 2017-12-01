@@ -3,7 +3,7 @@ title: Verwalten von Debitoren mithilfe von Dynamics 365 for Sales
 description: "Sie können Dynamics 365 for Sales aus Dynamics NAV nutzen, um Daten zu verknüpfen und eine nahtlose Integration und Synchronisation der führenden Prozesse sicherzustellen."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

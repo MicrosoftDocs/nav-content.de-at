@@ -3,7 +3,7 @@ title: Segmente erstellen
 description: "Beschreibt, wie Sie ein Segment für eine Gruppe von Kontakten in Dynamics NAV erstellen, beispielsweise um mehrere Kontakte mit einer Direktsendung anzusprechen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

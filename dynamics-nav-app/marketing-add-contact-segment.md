@@ -3,7 +3,7 @@ title: Die Kontakte in einem Segment definieren
 description: "Nachdem Sie ein Segment erstellt haben, können Sie dem Segment Kontakte zum Beispiel als Teil der bestimmte Kunden oder der Clients einer Werbekampagnezielgruppenadressierung hinzufügen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

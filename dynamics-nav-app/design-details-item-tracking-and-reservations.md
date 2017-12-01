@@ -3,7 +3,7 @@ title: 'Designdetails: Artikelverfolgung und Reservierungen'
 description: Dieses Thema befasst sich mit Artikelverfolgung und mit Reservierungen und beschreiben die Konzepte der zwei.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

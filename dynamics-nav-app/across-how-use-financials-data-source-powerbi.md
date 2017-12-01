@@ -2,7 +2,7 @@
 title: Erstellen einer Power BI-Datenquelle mit Ihrem Dynamics NAV
 description: "Sie können Ihre Dynamics NAV Daten zur Verfügung stellen als Datenquelle in Power BI und leistungsstarke Berichte über den Zustand des Geschäftes erstellen."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

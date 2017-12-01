@@ -3,7 +3,7 @@ title: "Erweiterung für Dynamics NAV bereitgestellt aus anderen Mandanten"
 description: Listet die Apps und Erweiterungen auf, um Dynamics NAV, die von anderen Mandanten bereitgestellt werden, anzupassen.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

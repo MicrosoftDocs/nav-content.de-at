@@ -3,7 +3,7 @@ title: Auftragsmontage und Lagermontage verstehen
 description: "Montageartikeln können angegeben werden entweder, indem sie zusammengestellt werden, wenn sie bestellt oder montiert werden oder indem sie im Lager gehalten werden, bis diese Anforderung eines Verkaufsauftrags sind."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: de-at
 ms.lasthandoff: 10/16/2017
 
 ---
-# Auftragsmontage und Lagermontage verstehen
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Auftragsmontage und Lagermontage verstehen
 Montageartikel können in den beiden folgenden Prozessen geliefert werden:  
 
 -   Auftragsmontage  
 -   Lagermontage  
 
-## Auftragsmontage  
+## <a name="assemble-to-order"></a>Auftragsmontage  
 In der Regel nutzen Sie die *Auftragsmontage* für Artikel, die Sie nicht auf Lager haben möchten, da Sie erwarten, dass diese für Debitorenanfragen angepasst werden müssen, oder weil Sie die Lagerkosten minimieren möchten. Die unterstützenden Funktionen umfassen:  
 
 -   Möglichkeit, Montageartikel anzupassen, wenn ein Verkaufsauftrag entgegengenommen wird.  
@@ -44,7 +44,7 @@ Wenn Sie einen Auftragsmontageartikel in eine Verkaufszeile eingeben, wird autom
 
  Um dieses Verfahren auszuführen, muss für das Feld **Montagerichtlinie** auf der Artikelkarte **Auftragsmontage** aktiviert sein.  
 
-## Lagermontage  
+## <a name="assemble-to-stock"></a>Lagermontage  
  In der Regel nutzen Sie *Lagerfertigung* für Artikel, die Sie vor dem Verkauf montieren möchten - wie zur Vorbereitung einer Bausatz-Kampagne - und auf Lager zu halten, bis sie bestellt werden. Diese Artikel sind normalerweise Standardartikel, wie gepackte Bausätze, die Sie nicht an Debitorenanfragen anpassen.  
 
  Im Lagerfertigungsvorgang wird der Artikel ohne sofortigen Verkaufsbedarf montiert und ist im Lager als Lagerartikel für den späteren Verkauf oder Verbrauch als Unterbaugruppe verfügbar. Weitere Informationen finden Sie unter [Artikel zusammenführen](assembly-how-to-assemble-items.md). Ab diesem Punkt kann der Artikel als einzelner Artikel kommissioniert und verarbeitet werden und wird wie ein gefertigter Artikel behandelt.  
@@ -56,7 +56,7 @@ Wenn Sie einen Auftragsmontageartikel in eine Verkaufszeile eingeben, wird autom
 
  Um dieses Verfahren auszuführen, muss für das Feld **Montagerichtlinie** auf der Artikelkarte **Lagermontage** aktiviert sein.  
 
-## Kombinierte Szenarien  
+## <a name="combination-scenarios"></a>Kombinierte Szenarien  
  Ein allgemeines Prinzip der Montageverwaltung ist, dass Auftragsmontagemengen, wenn sie in einer Verkaufsauftragszeile zusammengefasst sind, vor Lagermengen ausgeliefert werden müssen.  
 
  Wenn ein Montageauftrag mit einer Verkaufsauftragszeile verknüpft ist, wird der Wert im Feld **Menge für Auftragsmontage** der Verkaufsauftragszeile über das Feld **Montagemenge** im Montageauftragskopf in das Feld **Menge** kopiert. Weitere Informationen finden Sie unter [Vorgehensweise: Verkaufen von Auftragsmontageartikeln](assembly-how-to-sell-items-assembled-to-order.md)  
@@ -84,7 +84,7 @@ Wenn Sie einen Auftragsmontageartikel in eine Verkaufszeile eingeben, wird autom
 -   Die Mindestmenge, die Sie eingeben können, ist 1. Die Mindestmenge, die Sie eingeben können, ist 1. Dies liegt daran, dass Sie mindestens eine Einheit zusammenbauen müssen, damit Sie die vier Einheiten verkaufen können, wenn davon ausgegangen wird, dass die verbleibenden drei im Lager verfügbar sind.  
 -   Die Höchstmenge, die Sie eingeben können, ist 4. Damit wird sichergestellt, dass Sie nicht mehr als diese Auftragsmontageartikel zusammenbauen, die im Verkauf benötigt werden.  
 
-## Siehe auch  
+## <a name="see-also"></a>Siehe auch  
 [Montageverwaltung](assembly-assemble-items.md)  
 [Vorgehensweise: Arbeiten mit Stücklisten](inventory-how-work-BOMs.md)  
 [Lagerbest](inventory-manage-inventory.md)  

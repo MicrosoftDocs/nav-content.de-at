@@ -2,7 +2,7 @@
 title: "Weisen Sie Berechtigungen zu und Erstellen oder ändern Sie Berechtigungssätz"
 description: "Beschreibt, wie Benutzer Office 365 Dynamics NAV hinzugefügt werden und vergibt dann Berechtigungen, Zugriffsrechte und Sicherheitseinstellungen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

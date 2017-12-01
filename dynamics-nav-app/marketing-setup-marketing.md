@@ -3,7 +3,7 @@ title: Einrichten von Marketing und Kontaktverwaltungsinformationen
 description: "Sie können Marketing und Kontaktverwaltung in Dynamics NAV einrichten, um Beziehungen mit potentiellen Kunden oder Debitoren zu optimieren und Kampagnen und Webeaktionen zu verbessern."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

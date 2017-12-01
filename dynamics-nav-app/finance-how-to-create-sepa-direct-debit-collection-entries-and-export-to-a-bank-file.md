@@ -2,7 +2,7 @@
 title: SEPA-Lastschrift
 description: "Speichert die Posten für die Lastschrift in einer XML-Datei, die Sie zur Verarbeitung an die elektronische Bank senden oder hochladen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

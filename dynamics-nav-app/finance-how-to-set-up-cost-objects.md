@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Einrichten von Kostenträgern"
 description: "Erfahren Sie, wie Sie Kostenträger eingerichtet werden, die gleich sind wie Dimensionen in der Finanzbuchhaltung."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

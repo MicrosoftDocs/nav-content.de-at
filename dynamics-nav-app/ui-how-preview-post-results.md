@@ -3,7 +3,7 @@ title: Buchungen ansehen, bevor Sie einen Beleg oder ein Buch.-Blatt buchen
 description: "Sie können prüfen, ob Posten für Belege und Buch.-Blätter fehlerfrei sind, bevor sie auf das Sachkonto buchen."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

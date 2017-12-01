@@ -3,7 +3,7 @@ title: "Einnahmen und Ausgaben zurückstellen"
 description: "Um Einnahmen und Ausgaben in Perioden außer der Periode zu erkennen, in der die Transaktion gebucht wird, können Sie Funktionen verwenden, um Einnahmen und Ausgaben über einen bestimmten Zeitplan automatisch zurückzustellen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

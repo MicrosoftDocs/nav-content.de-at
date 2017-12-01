@@ -3,7 +3,7 @@ title: "Erstellen von Aktivitäten zu Kontakten und Segmenten"
 description: "Beschreibt, wie Aktivitäten für Kommunikation erstellt werden, die Sie mit Ihren Kontakten und Segmenten in Dynamics NAV haben, wie beispielsweise direkte E-Mail."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

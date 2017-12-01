@@ -3,7 +3,7 @@ title: Anlegen von Kontaktpersonen
 description: "Gliedert die Aufgaben, eine Kontaktkarte für eine Person, z. B. einen Interessenten oder einen Lieferanten zu erstellen und hilft, die Beziehung zu definieren und Kommunikationen anzupassen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

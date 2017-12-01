@@ -3,7 +3,7 @@ title: "Erstellen Sie einen Verkaufsauftrag, der mit einer Einkaufsbestellung f√
 description: "Beschreibt, wie Sie einen Verkaufsauftrag erstellen, der mit einer Bestellung verkn√ºpft ist, um sicherzustellen, dass die Artikel vom Kreditor direkt an den Debitor versendet werden"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

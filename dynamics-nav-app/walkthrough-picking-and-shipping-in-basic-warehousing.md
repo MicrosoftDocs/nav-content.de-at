@@ -3,7 +3,7 @@ title: 'Exemplarische Vorgehensweise: Kommissionierung und Lieferung in Basis-La
 description: "In  [!INCLUDE[d365fin](includes/d365fin_md.md)]  können die ausgehenden Prozesse für die Komissionierung und Lieferung auf vier Arten, mit den verschiedenen Funktionen, abhängig von der Lagerkomplexitätsebene, ausgeführt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

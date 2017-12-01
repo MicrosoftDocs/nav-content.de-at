@@ -3,7 +3,7 @@ title: 'Gewusst wie: Registrieren von Lieferbenachrichtigungen'
 description: "Nachdem Sie Lieferbenachrichtigungen erstellt haben, müssen Sie sie registrieren und ausdrücken, damit Sie die Benachrichtigungen an Kreditoren senden können. Vor der Registrierung der Lieferbenachrichtigungen können Sie einen Testbericht drucken."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

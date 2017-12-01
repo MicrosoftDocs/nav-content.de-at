@@ -3,7 +3,7 @@ title: Zahlungen in eine elektronische Zahlungsdatei exportieren
 description: Um Kreditorenzahlungen zu leisten, aktivieren Sie einen Bankdaten-Konvertierungsdienst, exportieren eine Bankdatei und laden die Datei elektronischen an Ihre Bank hoch.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

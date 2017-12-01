@@ -2,7 +2,7 @@
 title: "Hinzufügen von Informationen zu Datensätzen"
 description: "Hinzufügen einer Notiz zu einem beliebigen Datensatz in der Anwendung. Falls Sie beispielsweise zusätzliche Informationen zu einem Verkaufsauftrag besitzen, die nicht vollständig in einem der Felder im Verkaufsauftrag eingegeben werden können, können Sie eine Notiz verfassen."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

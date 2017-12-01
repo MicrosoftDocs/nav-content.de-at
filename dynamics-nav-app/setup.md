@@ -2,7 +2,7 @@
 title: "Überblick der Aufgaben zum Einrichten von Dynamics NAV"
 description: Definiert Aufgaben zum, initialisieren und konfigurieren in Dynamics NAV, um Ihren Anforderungen zu entsprechen.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

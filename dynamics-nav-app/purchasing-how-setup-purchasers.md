@@ -3,7 +3,7 @@ title: "Käufer einrichten und Käufer an Verkäufer zuweisen"
 description: "Wenn in Ihrem Unternehmen mehrere Einkäufer tätig sind, können Sie diese für statistische Analyse organisieren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

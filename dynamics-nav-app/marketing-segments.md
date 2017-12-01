@@ -3,7 +3,7 @@ title: "Verwalten von Segmenten und Auswählen von einzubeziehenden Kontakten"
 description: "Gliedert die Aufgaben, ein Segment zu erstellen, um anhand bestimmter Kriterien eine Gruppe von Kontakten auszuwählen, zum Beispiel Kontakte in einer Branche, die Sie anvisieren möchten."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

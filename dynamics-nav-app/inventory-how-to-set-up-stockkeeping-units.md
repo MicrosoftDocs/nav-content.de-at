@@ -3,7 +3,7 @@ title: Vorgehensweise beim Einrichten von Lagerhaltungsdaten
 description: "Sie können Lagerhaltungsdaten verwenden, um Informationen über Ihre Artikel für einen bestimmten Lagerortcode und/oder einen bestimmten Variantencode zu speichern."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: de-at
 ms.lasthandoff: 10/16/2017
 
 ---
-# So wird's gemacht: Lagerhaltungsdaten einrichten
+# <a name="how-to-set-up-stockkeeping-units"></a>So wird's gemacht: Lagerhaltungsdaten einrichten
 Sie können Lagerhaltungsdaten verwenden, um Informationen über Ihre Artikel für einen bestimmten Lagerortcode und/oder einen bestimmten Variantencode zu speichern.  
 
  Lagerhaltungsdaten sind eine Ergänzung zu Artikelkarten. Sie ersetzen sie nicht, obwohl sie mit ihnen verknüpft sind. Lagerhaltungsdaten ermöglichen Ihnen, Informationen über Artikel nach Lagerorten (wie z. B. Lagerhäuser und Vertriebsstellen) oder Varianten (wie z. B. unterschiedliche Regalnummern oder Informationen zur Wiederbestellung) zu unterscheiden.  
 
-## Lagerhaltungsdaten einrichten:  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Lagerhaltungsdaten einrichten:  
 
 1.  Wählen Sie ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Symbol nach Seite oder Bericht suchen") aus und geben Sie **Lagerhaltungsdaten** ein und wählen Sie den zugehörigen Link aus.  
 2.  Wählen Sie die Aktion **Neu** aus.  
@@ -36,7 +36,7 @@ Um mehrere Lagerhaltungsdaten für einen Artikel anzulegen, verwenden Sie die St
 > [!NOTE]  
 >  Die Informationen auf der **Lagerhaltungsdatenkarte** haben eine höhere Priorität als die auf der **Artikelkarte**.  
 
-## Siehe auch  
+## <a name="see-also"></a>Siehe auch  
 [Vorgehensweise: Einen neuen Artikel registrieren](inventory-how-register-new-items.md)  
 [Lagerortverwaltung einrichten](warehouse-setup-warehouse.md)  
 [Logistik](warehouse-manage-warehouse.md)  

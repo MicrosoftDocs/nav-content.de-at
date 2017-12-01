@@ -3,7 +3,7 @@ title: "Überblick zu Aufgaben, ein Geschäftsjahr abzuschließen und Buchhaltun
 description: "Gliedert die Aufgaben, um ein Geschäftsjahr abzuschließen oder Buchhaltungsperiode, beispielsweise der Belege und die Buch.-Blätter sind vergewissernd gebucht überprüfend und Bankguthaben."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

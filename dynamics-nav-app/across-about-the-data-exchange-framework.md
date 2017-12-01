@@ -2,7 +2,7 @@
 title: "Über das Datenaustauschframework"
 description: "Das Format von Dateien zum Austausch von Daten in den Bankdateien, die elektronischen Belegen, die Währungsumrechnungsraten und anderen mit ERP-Systemen variieren abhängig vom Anbieter der Datendatei oder des Streams und dem Land/der Region."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Vorgehensweise beim Sperren der Lieferung bei negativem Lagerbestand
 description: "Sie können ausgehende Lieferungen für einen Artikel sperren, wenn eine Transaktion zu einem negativen Lagerbestand für den betreffenden Artikel führen würde."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

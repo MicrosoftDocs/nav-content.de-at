@@ -3,7 +3,7 @@ title: Serviceprozesse planen
 description: "Gliedert die Aufgaben, um Regeln und Werte einzurichten, um Ihre Servicerichtlinien und Arbeitsgänge zu definieren."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

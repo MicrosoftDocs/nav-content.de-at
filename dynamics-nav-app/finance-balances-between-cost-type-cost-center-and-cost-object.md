@@ -3,7 +3,7 @@ title: "Salden zwischen Kostenart, Kostenstelle und Kostenträger"
 description: "Wenn Sie die Kostenrechnung einrichten, müssen Sie sicherstellen, dass alle Daten einer Kostenart sowie einer Kostenstelle oder einem Kostenträger zugeordnet sind. Das bedeutet, dass jedem Kostenposten eine Kostenart und eine Kostenstelle oder ein Kostenträger zugewiesen sein muss. Diese Regel stellt sicher, dass jeder Kostenposten entweder in Kostenstellen oder in den Kostenträgern erscheint, jedoch nicht an beiden Stellen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

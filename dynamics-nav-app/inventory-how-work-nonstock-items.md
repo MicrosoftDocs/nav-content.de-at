@@ -3,7 +3,7 @@ title: Katalogartikel erstellen und verwalten
 description: "Beschreibt, wie lagerwertunabhängigen Artikel oder Artikel behandelt werden, die nicht in Ihrem Lagerbestand verwaltet werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,7 +18,7 @@ ms.contentlocale: de-at
 ms.lasthandoff: 10/16/2017
 
 ---
-# So geht's: Arbeiten mit Katalogartikeln
+# <a name="how-to-work-with-nonstock-items"></a>So geht's: Arbeiten mit Katalogartikeln
 Sie können Ihren Debitoren bestimmte Artikel als Dienstleistung anbieten, die Sie nicht im Lager verwalten möchten, bis Sie den Verkauf sie starten. Wenn Sie damit beginnen wollen, solche Artikel im Lager zu verwalten, können Sie sie auf zwei Arten in normale Artikelkarten umwandeln.
 
 * Erstellen Sie eine neue Artikelkarte aus der Katalogartikelkarte auf Basis einer Vorlage.
@@ -29,27 +29,27 @@ Sie können Ihren Debitoren bestimmte Artikel als Dienstleistung anbieten, die S
 
 Ein Katalogartikel besitzt üblicherweise die Artikelnummer des Kreditoren, der diesen bereitstellt. Um die Konvertierung einer Katalogartikelkarte in eine normale Artikelkarte zu aktivieren, muß zunächst eingerichtet werden, wie die Kreditorenartikelnummerierung in Ihre eigene Artikelnummerierung umgewandelt wird.   
 
-## So erstellen Sie einen Katalogartikel:
+## <a name="to-create-a-nonstock-item"></a>So erstellen Sie einen Katalogartikel:
 Katalogartikelkarten enthalten viel weniger Informationen als normale Artikelkarten, da Sie diese nur verwenden, um Angebote auf Anfragen oder auf andere Arten zu erstellen. Aus diesem Grund müssen sie in normale Artikelkarten konvertiert werden, bevor Sie Verkaufstransaktionen mit ihnen buchen können.
 
 1. Wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen") aus und geben Sie **Nicht-Katalogartikel** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Wählen Sie die Aktion **Neu** aus.
 3. Füllen Sie die Felder je nach Bedarf aus. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## So richten Sie ein, wie Katalogartikelnummern in Ihrer eigenen Nummerierung erstellt werden
+## <a name="to-set-up-how-nonstock-item-numbers-are-converted-to-your-own-numbering"></a>So richten Sie ein, wie Katalogartikelnummern in Ihrer eigenen Nummerierung erstellt werden
 Um die Konvertierung einer Katalogartikelkarte in eine normale Artikelkarte zu aktivieren, muß zunächst festgelegt werden, wie die Kreditorenartikelnummerierung in Ihr eigenes Artikelnummernformat umgewandelt wird.
 
 1. Wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen") aus und geben Sie **Nicht-Katalogartikel einrichten** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Füllen Sie die Felder je nach Bedarf aus.
 
-## So konvertieren Sie einen Katalogartikel in einen normalen Artikel
+## <a name="to-convert-a-nonstock-item-to-a-normal-item"></a>So konvertieren Sie einen Katalogartikel in einen normalen Artikel
 1. Wählen Sie das Symbol ![Nach Seite oder Bericht suchen] (media/ui-search/search_small.png "Nach Seite oder Bericht suchen") aus und geben Sie **Nicht-Katalogartikel** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Öffnen Sie die Karte für einen Katalogartikel, den Sie in einen normalen Artikel umwandeln wollen.
 3. Wählen Sie im Fenster **Katalogartikelkarte** die Aktion **Artikel erstellen** aus.
 
 Eine neue Artikelkarte, die mit Informationen des Katalogartikels und einer Vorlage des entsprechenden Artikels ausgefüllt ist, wird erstellt. Sie können dann die Felder in der neuen Artikelkarte nach Bedarf ausfüllen oder ändern. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Artikel](inventory-how-register-new-items.md).
 
-## So verkaufen Sie einen Katalogartikel und konvertieren ihn in einen normalen Artikel
+## <a name="to-sell-a-nonstock-item-and-convert-it-to-a-normal-item"></a>So verkaufen Sie einen Katalogartikel und konvertieren ihn in einen normalen Artikel
 1. Alternativ wählen Sie das Symbol ![Nach Seite oder Bericht suchen](media/ui-search/search_small.png "Nach Seite oder Bericht suchen") und geben **Verkaufsauftrag** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Wählen Sie die Aktion **Neu** aus. Füllen Sie die Felder auf dem Inforegister **Allgemein** für alle Verkaufsaufträge aus. Weitere Informationen finden Sie unter [So geht's: Produkte verkaufen](sales-how-sell-products.md)
 3. Auf einer neuen Verkaufszeile im Feld **Typ** wählen Sie **Artikel** und ignorieren die **Nr.**. leer lassen.
@@ -64,7 +64,7 @@ Sie können dann die Felder in der neuen Artikelkarte nach Bedarf ausfüllen ode
 > [!NOTE]  
 >   Für den Kreditor des Artikels wird automatisch ein Artikelreferenzdatensatz zwischen der Artikelnummer des Kreditors und Ihrer neuen Artikelnummer erstellt.
 
-## Siehe auch
+## <a name="see-also"></a>Siehe auch
 [Vorgehensweise: Einen neuen Artikel registrieren](inventory-how-register-new-items.md)  
 [Vorgehensweise: Spezialaufträge erstellen](sales-how-to-create-special-orders.md)|  
 [Lagerbest](inventory-manage-inventory.md)  

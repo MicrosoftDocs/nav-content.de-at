@@ -3,7 +3,7 @@ title: Verkaufschancen und Leads verwalten
 description: "Beschreibt, wie sämtliche eingehenden Leads oder Verkaufschancen in Dynamics NAV verwaltet werden und verknüpft die Verkaufschance mit einem Vertriebsmitarbeiter, um die potenziellen Verkäufe nachverfolgen zu können."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

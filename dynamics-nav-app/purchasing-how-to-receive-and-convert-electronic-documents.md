@@ -2,7 +2,7 @@
 title: 'Vorgehensweise: Elektronische Belege empfangen und konvertieren'
 description: "-Sie können elektronische Belege direkt aus den Handelspartnern oder einem OCR-Dienst erhalten."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

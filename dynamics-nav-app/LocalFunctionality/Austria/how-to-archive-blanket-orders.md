@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Archivieren von Rahmenaufträgen"
 description: "Sie können einen Rahmenauftrag oder eine Rahmenbestellung archivieren und mithilfe des archivierten Rahmenauftrags einen Auftrag erstellen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

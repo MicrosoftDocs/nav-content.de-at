@@ -3,7 +3,7 @@ title: Anpassen, wie viele Details in Listen angezeigt werden
 description: "Sie können Listen in detaillierten Ansichten anzeigen, die mehr Informationen geben, oder als Kacheln anzeigen, die einfach, dargestellt werden."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

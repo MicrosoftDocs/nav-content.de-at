@@ -3,7 +3,7 @@ title: So leihen Sie Serviceartikel als Ersatzartikel
 description: "Sie können einem Debitor vorübergehend Leihartikel für einen Serviceartikel zur Verfügung stellen, der sich bei Ihnen im Service befindet."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

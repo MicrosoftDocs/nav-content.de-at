@@ -3,7 +3,7 @@ title: "Designdetails – Abgleich mit der Finanzbuchhaltung"
 description: Dieses Thema beschreibt die Abstimmung mit der Fibu, wenn Sie Lagertransaktionen buchen, z. B.  Verkaufslieferungen, Fertigerzeugnisse oder negative Anpassungen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

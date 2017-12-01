@@ -2,7 +2,7 @@
 title: Erstellen von XMLports auf Grundlage von XML-Schemata
 description: Verwenden Sie XML-Schemata, um das Belegaustauschframework festzulegen.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

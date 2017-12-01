@@ -3,7 +3,7 @@ title: "Designdetails – Artikelverfolgungsverfügbarkeit"
 description: "In diesem Thema wird erläutert, wie sichergestellt wird, dass die Mitarbeiter, die Prozessaufträge auf Verfügbarkeit der Serien- oder Chargennummern prüfen, sich auf die Informationen verlassen können."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

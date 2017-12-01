@@ -3,7 +3,7 @@ title: Bankdaten-Konvertierung einrichten
 description: "Sie können Bankkonten einrichten, um Transaktionen nachzuverfolgen sowie Bankfeeds zu impotieren oder exportieren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

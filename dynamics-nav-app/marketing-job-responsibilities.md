@@ -3,7 +3,7 @@ title: "Einrichten von Verantwortlichkeiten für Kontakte"
 description: "Sie können einen Verantwortlichkeitscode definieren und diesen einem Kontakt zuweisen, um den Aufgaben anzuzeigen, dass Ihr Kontakt bei dem Unternehmen, z IT, oder Produktion verantwortlich ist."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Fügen Sie weitere Zeilen hinzu, um Zusatztext für eine Artikelbeschrei
 description: "Sie können zusätzliche Zeilen hinzufügen, um den Standardtext zu erweitern, der einen Artikel enthält."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

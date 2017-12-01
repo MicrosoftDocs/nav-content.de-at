@@ -3,7 +3,7 @@ title: Grundeinstellungen in Dynamics NAV anzeigen und bearbeiten
 description: Erfahren Sie, wie Sie mehrere grundlegenden Einstellungen in Dynamics NAV einrichten, zum Beispiel im Rollencenter, im Unternehmen oder im Arbeitsdatum.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

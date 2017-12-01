@@ -3,7 +3,7 @@ title: Anordnen von Daten mithilfe der Sortierfunktion
 description: "Dort erhalten Sie einen Überblick über den Status der Daten. Beispielsweise können Sie Debitoren nach Währungscode sortieren, um ein ausgewähltes Beispiel für Debitoren zu erhalten."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
