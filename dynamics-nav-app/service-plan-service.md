@@ -3,7 +3,7 @@ title: Serviceprozesse planen
 description: "Gliedert die Aufgaben, um Regeln und Werte einzurichten, um Ihre Servicerichtlinien und Arbeitsgänge zu definieren."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: service, work hours, configure, price, pricing
 ms.date: 08/23/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4be055ca1959f730544355a0af2a468e0ce55953
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2fa574a4b5827676ed94a9eb448555ed71cafa95
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="planning-services"></a><span data-ttu-id="5d4fd-103">Planungsservices</span><span class="sxs-lookup"><span data-stu-id="5d4fd-103">Planning Services</span></span>

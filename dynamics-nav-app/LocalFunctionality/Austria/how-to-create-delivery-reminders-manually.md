@@ -3,7 +3,7 @@ title: 'Gewusst wie: Lieferbenachrichtigungen manuell erstellen'
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie Lieferbenachrichtigung erstellen, wenn ein Kauf nicht wie erwartet geliefert wurde."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: ed6b49f7898274853eba8c264b34d0fadfa9f6d3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b744e084f2c5c6e9d3e3ab0de5aed19be6c951d5
 ms.contentlocale: de-at
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-delivery-reminders-manually"></a><span data-ttu-id="3ae71-103">Gewusst wie: Lieferbenachrichtigungen manuell erstellen</span><span class="sxs-lookup"><span data-stu-id="3ae71-103">How to: Create Delivery Reminders Manually</span></span>

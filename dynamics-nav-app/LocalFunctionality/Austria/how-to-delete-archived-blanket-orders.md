@@ -3,7 +3,7 @@ title: "Gewusst wie: Löschen von archivierten Rahmenbestellungen"
 description: "Sie können die archivierten Versionen von gelöschten Rahmenaufträgen und Rahmenbestellungen löschen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 745d8bd47e2e157f995cd96a622af810aa252839
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 344895d0a7140456534d5595bf9aa01db3890cb9
 ms.contentlocale: de-at
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-delete-archived-blanket-orders"></a><span data-ttu-id="3bf70-103">Gewusst wie: Löschen von archivierten Rahmenbestellungen</span><span class="sxs-lookup"><span data-stu-id="3bf70-103">How to: Delete Archived Blanket Orders</span></span>

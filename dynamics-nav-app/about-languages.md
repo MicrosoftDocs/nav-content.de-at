@@ -2,7 +2,7 @@
 title: Inhalt in anderen Sprachen anzeigen
 description: "Sie können den Hilfeinhalt für Dynamics NAV in anderen Sprachen anzeigen."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,10 +10,10 @@ ms.workload: na
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7d17dc66624b0f1f1b9236837821bc9cee16ce79
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c5a0efc2f5ffb52141d57820db888941b05ba11b
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="languages-of-the-included365finincludesd365finmdmd-docs"></a><span data-ttu-id="145b1-103">Sprachen der [!INCLUDE[d365fin](includes/d365fin_md.md)]-Dokumente</span><span class="sxs-lookup"><span data-stu-id="145b1-103">Languages of the [!INCLUDE[d365fin](includes/d365fin_md.md)] Docs</span></span>

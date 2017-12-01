@@ -3,7 +3,7 @@ title: Einrichten aus vorgeschlagenen Feldwerten
 description: "Um manuell Berechnungen und vollständige Aufgaben schnell und genau zu erledigen, können Sie automatische Dateneingabe einrichten, sodass Dynamics NAV gerade ausgewählte Felder ausfüllt"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7c68019ff32d6fbe700975b0897dff9474da7bc1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2dd376aa0ae28b69f69c1c8d9b5c209c434d8bc7
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="letting-included365finincludesd365finmdmd-suggest-values"></a><span data-ttu-id="6322a-103">[!INCLUDE[d365fin](includes/d365fin_md.md)] Werte vorschlagen lassen</span><span class="sxs-lookup"><span data-stu-id="6322a-103">Letting [!INCLUDE[d365fin](includes/d365fin_md.md)] Suggest Values</span></span>

@@ -3,7 +3,7 @@ title: Verwenden von Dynamics NAV ohne Outlook
 description: "Sie können Dynamics NAV als Ihr Geschäftsposteingang in Outlook verwenden, da es mit Office 365 integriert ist. Sie können aber auch ohne Outlook in einem Browser oder auf dem mobilen Gerät arbeiten."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 0602/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 57e0f660dc2acb67e89db706857aa154f9ae9682
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9f80e6790a672957dca9e22a57d5b9b5e3b37430
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-dynamics-nav-without-outlook"></a><span data-ttu-id="cd1d2-103">Verwenden von Dynamics NAV ohne Outlook</span><span class="sxs-lookup"><span data-stu-id="cd1d2-103">Using Dynamics NAV without Outlook</span></span>

@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Erstellen von Fertigungsauftragsköpfen"
 description: "Sie können Fertigungsaufträge manuell erstellen, und der erste Schritt in diesem Ablauf ist das Erstellen des Fertigungsauftragskopfs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 653451206fe0baec63e9db4cce7626357bb00942
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c7004d719f9d8cd3e779805949f55542d52fc2db
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-production-order-headers"></a><span data-ttu-id="ed516-103">So wird's gemacht: Fertigungsauftragsköpfe erstellen</span><span class="sxs-lookup"><span data-stu-id="ed516-103">How to: Create Production Order Headers</span></span>

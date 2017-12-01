@@ -3,7 +3,7 @@ title: 'Vorgehensweise: Einrichten von Basislagern mit Vorgangsbereichen'
 description: "Wenn in den Basislagerkonfigurationen interne Vorgangsbereiche wie Produktion oder Montage vorhanden sind, in denen Lagerplätze das Einrichtungsfeld **Lagerplatz notwendig** und möglicherweise die Einrichtungsfelder **Kommissionierung erforderlich** und **Einlagerung erforderlich** verwenden, können Sie drei Basislagerbelege verwenden, um Ihre Lageraktivitäten für interne Vorgangsbereiche zu erfassen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d141fcb9f5357355272f6a34d71b88f50129985b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 30b4f824925255ca3afa6ddb831aef45884c85da
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-basic-warehouses-with-operations-areas"></a><span data-ttu-id="64f74-103">Vorgehensweise: Einrichten von Basislagern mit Vorgangsbereichen</span><span class="sxs-lookup"><span data-stu-id="64f74-103">How to: Set Up Basic Warehouses with Operations Areas</span></span>

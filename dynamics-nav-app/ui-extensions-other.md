@@ -3,7 +3,7 @@ title: "Erweiterung für Dynamics NAV bereitgestellt aus anderen Mandanten"
 description: Listet die Apps und Erweiterungen auf, um Dynamics NAV, die von anderen Mandanten bereitgestellt werden, anzupassen.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms. search.keywords: app, add-in, manifest, customize
 ms.date: 07/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d6b0d7c459af8506089e8f57fa5633b2c6c5e7de
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3d59ec7fb09c0859a337b52433339d2e2efb63d1
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="microsoft-dynamics-nav-extensions-by-other-providers"></a><span data-ttu-id="862ad-103">Microsoft Dynamics NAV Erweiterungen für andere Anbieter</span><span class="sxs-lookup"><span data-stu-id="862ad-103">Microsoft Dynamics NAV Extensions by Other Providers</span></span>

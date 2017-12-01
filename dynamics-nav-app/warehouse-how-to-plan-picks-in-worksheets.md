@@ -3,7 +3,7 @@ title: 'Vorgehensweise: Kommissionierungen im Vorschlag bearbeiten'
 description: "Wenn Ihr Lager so eingerichtet wurde, dass die Bearbeitung der Kommissionierung sowie des Warenausgangs erforderlich sind, können Sie für das Lager festlegen, dass die Zeilen in Warenausgangsbelegen nicht automatisch in Kommissionieranweisungen umgewandelt, sondern stattdessen für den Kommissioniervorschlag verfügbar gemacht werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9483eda38a9db7cd50d7167b45d0c6b6d21ace8c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 78ff3326a2b15d8314a745bce729aae8939633cf
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-picks-in-worksheets"></a><span data-ttu-id="d7ba3-103">Vorgehensweise: Kommissionierungen im Vorschlag bearbeiten</span><span class="sxs-lookup"><span data-stu-id="d7ba3-103">How to: Plan Picks in Worksheets</span></span>

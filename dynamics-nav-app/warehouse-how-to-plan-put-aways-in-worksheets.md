@@ -3,7 +3,7 @@ title: "Vorgehensweise: Planen von Einlagerungen in Arbeitsblättern"
 description: "Wenn für Ihren Lagerort die Bearbeitung der Einlagerung und des Wareneingangs erforderlich ist und Sie Einlagerungsanweisungen für mehrere Wareneingänge planen möchten – anstatt die Mitarbeiter Anweisungen ausführen zu lassen, die die Anwendung für einzelne gebuchte Wareneingänge erzeugt – können Sie den Einlagerungsvorschlag nutzen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a868a1cb2e03d736aa6edb6ab9cb145efce79c11
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 645333d05b3c93526a1852271ded77812266c66c
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-put-aways-in-worksheets"></a><span data-ttu-id="9c8e1-103">Vorgehensweise: Planen von Einlagerungen in Vorschlägen</span><span class="sxs-lookup"><span data-stu-id="9c8e1-103">How to: Plan Put-aways in Worksheets</span></span>

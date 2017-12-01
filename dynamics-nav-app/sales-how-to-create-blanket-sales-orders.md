@@ -2,7 +2,7 @@
 title: "Vorgehensweise: Rahmenaufträge erstellen"
 description: "Verwenden Sie Rahmenaufträge, wenn ein Kunde der Abnahme großer Mengen zugestimmt hat, die in mehreren kleineren Lieferungen über einen bestimmten Zeitraum geliefert werden sollen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 88d4c5ca78e23476115b23a682e6bcdb25526f1d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4c22dd36d15431291972978dc4586aaba8a689ff
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-blanket-sales-orders"></a><span data-ttu-id="196cc-103">Vorgehensweise: Arbeiten mit Rahmenaufträgen</span><span class="sxs-lookup"><span data-stu-id="196cc-103">How to: Work with Blanket Sales Orders</span></span>

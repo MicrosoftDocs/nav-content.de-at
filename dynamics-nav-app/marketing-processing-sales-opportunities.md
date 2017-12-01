@@ -3,7 +3,7 @@ title: Verarbeiten von Verkaufschancen in Verkaufszyklen
 description: "Sie können Verkaufschancen anzeigen, schließen oder löschen, und Sie können auch Angebote und Aufträge für Verkaufschancen einrichten und eine Verkaufschance über die einzelnen Phasen des Verkaufsprozesses verschieben."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9fe0bd97f7493d9acf4ab99a771fd5f6219027f8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b626047e997363b15f7a322f37b544e04993def2
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-process-sales-opportunities"></a><span data-ttu-id="a5e6d-103">Vorgehensweise: Verarbeiten von Verkaufschancen</span><span class="sxs-lookup"><span data-stu-id="a5e6d-103">How to: Process Sales Opportunities</span></span>

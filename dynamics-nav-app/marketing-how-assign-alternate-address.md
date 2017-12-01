@@ -3,7 +3,7 @@ title: Eine andere Kontaktadresse zuweisen
 description: "Beschreibt, wie Sie eine alternative Adresse für Ihre Kontakte zuweisen, an die Sie manchmal Informationen senden."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 58c5b131768b4cef389d31ce533b29598cf1606a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 34fd9fcc775507cf2464196151fb5c6f016aadc0
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-alternative-addresses-for-contacts"></a><span data-ttu-id="999c6-103">So geht's: Alternative Adressen für Kontakte einrichten</span><span class="sxs-lookup"><span data-stu-id="999c6-103">How to: Set Up Alternative Addresses for Contacts</span></span>

@@ -3,7 +3,7 @@ title: "Überblick der Aufgaben zum Verwalten von Verbindlichkeiten"
 description: "Gliedert Aufgaben, um Debitoren zu verwalten, beispielsweise zahlende Gläubiger oder ausgehende Zahlungen an Buch-Posten, um Rechnungen oder Gutschriften zu schließen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: a4940bddd22b4b310550606be6a2e96fc2b6bef0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 97bdfc3ea25491ecc58487ccf064eb12bdcb675d
 ms.contentlocale: de-at
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-payables"></a><span data-ttu-id="e92bf-103">Verwalten von Verbindlichkeiten</span><span class="sxs-lookup"><span data-stu-id="e92bf-103">Managing Payables</span></span>

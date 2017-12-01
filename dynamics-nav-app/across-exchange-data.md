@@ -2,7 +2,7 @@
 title: Austauschdaten
 description: "Sie können Daten zwischen [!INCLUDE[d365fin](includes/d365fin_md.md)]  und externen Dateien oder Streams in Bezug auf allgemeine Geschäftsaufgaben (z. B. Senden und Empfangen von elektronischen Belegen und Importieren und Exportieren von Bankdateien) austauschen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: d83e68f31edf2dee9e3e5bc5b73a4861cfe919d7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1cf62cb0e4656593d380756af310db5abc586e71
 ms.contentlocale: de-at
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="exchanging-data"></a><span data-ttu-id="be9de-103">Austausch von Daten</span><span class="sxs-lookup"><span data-stu-id="be9de-103">Exchanging Data</span></span>

@@ -3,7 +3,7 @@ title: "Überblick zu Aufgaben, ein Geschäftsjahr abzuschließen und Buchhaltun
 description: "Gliedert die Aufgaben, um ein Geschäftsjahr abzuschließen oder Buchhaltungsperiode, beispielsweise der Belege und die Buch.-Blätter sind vergewissernd gebucht überprüfend und Bankguthaben."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/07/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 867def80de4cc83a6f27698c6ac79c40701245aa
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 175967770fbd7af8b67949edb10d77047a84d36d
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="closing-years-and-periods"></a><span data-ttu-id="56bac-103">Beenden von Jahresabschluss und Perioden</span><span class="sxs-lookup"><span data-stu-id="56bac-103">Closing Years and Periods</span></span>

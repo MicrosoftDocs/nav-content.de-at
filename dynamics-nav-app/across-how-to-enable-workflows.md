@@ -3,7 +3,7 @@ title: Vorgehensweise beim Aktivieren von Workflows
 description: "Wenn Sie einen Workflow erstellt haben und sicher sind, dass er bereit ist zu starten, müssen Sie den Workflow aktivieren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 21feb2d303f7c89c9e46823ec9694bd3f2e75a5d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 25dec77317d3c53d2d85016292337bd5bd5300c3
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enable-workflows"></a><span data-ttu-id="14c6a-103">So wird's gemacht: Aktivieren von Workflows</span><span class="sxs-lookup"><span data-stu-id="14c6a-103">How to: Enable Workflows</span></span>

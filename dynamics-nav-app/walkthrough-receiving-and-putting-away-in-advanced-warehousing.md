@@ -3,7 +3,7 @@ title: 'Exemplarische Vorgehensweise: Eingang und Einlagerung bei erweiterten La
 description: "In [!INCLUDE[d365fin](includes/d365fin_md.md)] können die eingehenden Prozesse für das Empfangen und Einlagern auf vier Arten, mit den verschiedenen Funktionen, abhängig von der Lagerkomplexitätsebene, ausgeführt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: c0621092f75f5bfcecce29029c67c68c16451901
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b424cdbd118b6d894f5f8c3e11eb76abc2e9c5c5
 ms.contentlocale: de-at
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a><span data-ttu-id="40e82-103">Exemplarische Vorgehensweise: Eingang und Einlagerung bei erweiterten Lagerkonfigurationen</span><span class="sxs-lookup"><span data-stu-id="40e82-103">Walkthrough: Receiving and Putting Away in Advanced Warehouse Configurations</span></span>

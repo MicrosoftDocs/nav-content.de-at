@@ -3,7 +3,7 @@ title: Arbeiten mit intelligenten Benachrichtigungen und angeben, wenn Sie sie s
 description: "Sie können Benachrichtigungen erhalten, die Sie über Statusänderungen oder Ereignissen, beispielsweise, ein überfälliger Saldo oder ein Logistik Basis informieren."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 08/17/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 53d780ec3b0bff2802244d3f69e79de790067c9f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8616e71de1ed2e36b0b55f9bdf98a214716908a4
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="smart-notifications"></a><span data-ttu-id="20429-103">Intelligente Benachrichtigungen</span><span class="sxs-lookup"><span data-stu-id="20429-103">Smart Notifications</span></span>

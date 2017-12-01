@@ -3,7 +3,7 @@ title: 'Gewusst wie: Registrieren von Lieferbenachrichtigungen'
 description: "Nachdem Sie Lieferbenachrichtigungen erstellt haben, müssen Sie sie registrieren und ausdrücken, damit Sie die Benachrichtigungen an Kreditoren senden können. Vor der Registrierung der Lieferbenachrichtigungen können Sie einen Testbericht drucken."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: f57537527bb5e932e03ffe97359b43db5f7c3d31
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4fb654b277c2c0c1b5f8f9573e6c94562cf09a2f
 ms.contentlocale: de-at
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-issue-delivery-reminders"></a><span data-ttu-id="bcb40-104">Gewusst wie: Lieferbenachrichtigungen ausstellen</span><span class="sxs-lookup"><span data-stu-id="bcb40-104">How to: Issue Delivery Reminders</span></span>

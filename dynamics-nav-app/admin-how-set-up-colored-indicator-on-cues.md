@@ -3,7 +3,7 @@ title: "Geben Sie Farbindikatoren an, um visuelle Signale zur Aktivität eines S
 description: "Als Administrator können Sie Stapel einrichten, die in den Rollencentern des Benutzers mit einem Indikator angezeigt werden, dessen Farbe sich basierend auf den Datenwerten in den Stapeln ändert."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a9eaefecbae77183bdf24c22c0b4c6af2622278b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a6b9fc8305354fa1544b29731e135b1b8487a924
 ms.contentlocale: de-at
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-a-colored-indicator-on-cues-for-the-company-or-individual-users"></a><span data-ttu-id="ff417-103">Vorgehensweise: Einrichten eines farbigen Indikators auf Stapeln für das ganze Unternehmen oder einzelne Benutzer</span><span class="sxs-lookup"><span data-stu-id="ff417-103">How to: Set Up a Colored Indicator on Cues for the Company or Individual Users</span></span>
